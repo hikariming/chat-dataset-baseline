@@ -25,35 +25,35 @@
     "output": "我曾经在一家建筑公司担任项目经理的时候，需要在特定日期之前完成一个项目以达到客户的期望。然而，由于意外延误，我们无法按时完成项目，所以我必须做出艰难的决定。我决定将截止日期延长，但这样会使团队资源更加紧张，预算也增加了。虽然这是一项冒险的决定，最终决定继续推进，确保项目能够按时完成并满足客户的期望。"
   },
   {
-    "instruction": "Identify the odd one out.",
+    "instruction": "辨别其中不同的一个。",
     "input": "Twitter, Instagram, Telegram",
     "output": "Telegram"
-  },
-  {
-    "instruction": "Explain why the following fraction is equivalent to 1/4",
+    },
+    {
+    "instruction": "解释为什么下列分数等同于 1/4",
     "input": "4/16",
-    "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4."
-  },
-  {
-    "instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+    "output": "分数4/16等同于1/4，因为分子和分母都可以被4整除。将分子和分母都除以4得到1/4。"
+    },
+    {
+    "instruction": "用第三人称叙述写一个关于主人公必须做出重要职业决策的简短故事。",
     "input": "",
-    "output": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and regulations quickly, but he worked hard and eventually excelled in his studies. After a few years, John started working at an accounting firm in his city. He was eager to put his knowledge of taxes and accounting to use in a real-world setting.\n\nJohn loved his job, as it let him express his creativity in finding strategies to save his clients money. After a few years at the firm, he became a senior accountant and was asked to manage bigger and more challenging cases. He was now a respected figure in the financial industry, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him."
-  },
-  {
-    "instruction": "Render a 3D model of a house",
-    "input": "",
-    "output": "<nooutput> This type of instruction cannot be fulfilled by a GPT model."
-  },
-  {
-    "instruction": "Evaluate this sentence for spelling and grammar mistakes",
-    "input": "He finnished his meal and left the resturant",
-    "output": "He finished his meal and left the restaurant."
-  },
-  {
-    "instruction": "How did Julius Caesar die?",
-    "input": "",
-    "output": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by Gaius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC."
-  },
+    "output": "约翰的人生到了一个十字路口。他刚刚大学毕业，现在面临一个重要的决策，要决定要从事什么职业。经过多方考虑，他决定成为一名会计师，帮助那些财务上有困难的人。他一直很善于处理数字，并享受看到自己工作的实际成果。\n\n约翰报名参加了会计课程，最初发现它很具有挑战性。他必须快速学习多个系统和法规，但他很努力，最终在学业上取得了优异的成绩。几年后，约翰开始在城市的一家会计事务所工作。他渴望将他的税务和会计知识应用于实际的工作环境中。\n\n约翰热爱他的工作，因为它让他有机会寻找策略为客户节省费用。在公司几年后，他成为一名高级会计师，开始处理更大更具挑战性的案件。他现在是金融行业中备受尊敬的人物，但他仍然记得当他只是一个刚刚毕业的大学生，对自己的未来充满迷茫。"
+    },
+    {
+      "instruction": "渲染一个房屋的三维模型。",
+      "input": "",
+      "output": "<nooutput> GPT模型无法完成此类指令。"
+      },
+      {
+      "instruction": "评估这句话的拼写和语法错误。",
+      "input": "He finnished his meal and left the resturant",
+      "output": "He finished his meal and left the restaurant."
+      },
+      {
+      "instruction": "朱利叶斯·凯撒是如何死的？",
+      "input": "",
+      "output": "朱利叶斯·凯撒在公元前44年的三月十五日（Ides of March）在参议院被由盖乌斯·卡西乌斯·朗基努斯和马库斯·尤尼乌斯·布鲁图斯等多达60个共谋者领导的人群暗杀。"
+      },
   {
     "instruction": "What is the capital of France?",
     "input": "",
