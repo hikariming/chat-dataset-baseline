@@ -270,175 +270,175 @@
     "output": "0, 2, 3, 4, 8"
   },
   {
-    "instruction": "Calculate the total surface area of a cube with a side length of 5 cm.",
+    "instruction": "计算一个边长为5厘米的立方体的总表面积。",
     "input": "",
-    "output": "Total surface area of the cube: 150 cm^2"
+    "output": "该立方体的总表面积为：150平方厘米"
   },
   {
-    "instruction": "What is the force on a 1 kg mass due to the gravitational force?",
+    "instruction": "一个1千克质量的物体受到的重力作用力是多少？",
     "input": "",
-    "output": "The force on a 1 kg mass due to the gravitational force is 9.8 N."
+    "output": "一个1千克质量的物体受到的重力作用力是9.8牛。"
   },
   {
-    "instruction": "Provide one example for a cultural practice.",
+    "instruction": "提供一种文化实践的例子。",
     "input": "",
-    "output": "An example of a cultural practice is the Japanese tea ceremony."
+    "output": "文化实践的一个例子是日本茶道。"
   },
   {
-    "instruction": "Given a set of numbers, find the maximum value.",
-    "input": "Set: {10, 3, 25, 6, 16}",
-    "output": "The maximum value is 25."
+    "instruction": "在给定一组数字中找到最大值。",
+    "input": "集合：{10, 3, 25, 6, 16}",
+    "output": "最大值是25。"
   },
   {
-    "instruction": "Give two examples of a liquid.",
+    "instruction": "给出两个液体的例子。",
     "input": "",
-    "output": "Two examples of liquids are water and oil."
+    "output": "以下是两个液体的例子：\n水：是一种无色、无味、无臭的透明液体，广泛用于饮用、农业、工业等领域。它是地球上最常见的液体之一，也是维持生命所必需的。\n石油：是一种深褐色到黑色的粘稠液体，主要由碳和氢元素组成。它是一种重要的能源资源，用于燃料、石化和工业制品的生产等方面。石油是现代工业化社会的基础之一。"
   },
   {
-    "instruction": "What is the product of 6 and 2?",
+    "instruction": "6和2的乘积是多少？",
     "input": "",
-    "output": "The product of 6 and 2 is 12."
+    "output": "6和2的乘积是12。"
   },
   {
-    "instruction": "What type of plant is a skunk cabbage?",
+    "instruction": "鼬芹是什么类型的植物？",
     "input": "",
-    "output": "Skunk cabbage is a type of perennial flowering plant."
+    "output": "鼬芹是一种多年生开花植物。"
   },
   {
-    "instruction": "Convert the given binary number to its decimal equivalent.",
+    "instruction": "将给定的二进制数转换为十进制数。",
     "input": "101101",
-    "output": "The decimal equivalent of 101101 is 45."
+    "output": "101101的十进制等价数是45。"
   },
   {
-    "instruction": "Name two types of desert biomes.",
+    "instruction": "列举两种沙漠生物群系。",
     "input": "",
-    "output": "Two types of desert biomes are xeric and subpolar deserts."
+    "output": "以下是两种沙漠生物群系的例子：\n干旱沙漠：干旱沙漠是全球最常见的沙漠类型，其特点是炎热、干燥和缺水。这种沙漠几乎没有植被，但是一些植物和动物已经适应了这种环境。\n亚极地沙漠：亚极地沙漠位于地球的高纬度地区，通常由冰川和雪冠覆盖。这种沙漠的气温非常低，而且很少有降水。植物和动物在这种恶劣的环境中很难存活，但是一些适应了极端环境的物种仍然存在。"
   },
   {
-    "instruction": "Given a sentence, convert it into passive voice.",
-    "input": "The dog barked at the alley cat.",
-    "output": "The alley cat was barked at by the dog."
+    "instruction": "将一个句子转换成被动语态。",
+    "input": "狗朝小巷里的猫叫。",
+    "output": "小巷里的猫被狗叫了。"
   },
   {
-    "instruction": "Transform the following sentence into the passive voice",
-    "input": "I bought a book",
-    "output": "A book was bought by me."
+    "instruction": "将以下句子转换为被动语态",
+    "input": "我买了一本书",
+    "output": "一本书被我买了。"
   },
   {
-    "instruction": "Create a dialog between two people who are discussing a scientific phenomenon",
-    "input": "Hydropower",
-    "output": "Person 1: Did you know that hydropower is now being used to generate electricity?\nPerson 2: Really? That\u2019s incredible! How does it work?\nPerson: 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation."
+    "instruction": "编写一段对话，两个人讨论一个科学现象",
+    "input": "水力发电",
+    "output": "人1：你知道水力发电现在被用来发电了吗？\n人2：真的吗？太不可思议了！它是如何工作的？\n人1：水力发电利用流动水的能量来发电。通过捕捉和利用落差或流动水的能量，水力发电可以用于高效的发电。"
   },
   {
-    "instruction": "Identify the most suitable adverb for the following sentence",
-    "input": "She works",
-    "output": "She works diligently."
+    "instruction": "为下面的句子选择最合适的副词",
+    "input": "她工作",
+    "output": "她勤奋地工作。"
   },
   {
-    "instruction": "Find the main idea of the following passage",
-    "input": "Climate change is an increasingly contentious global issue. It is already having a drastic effect on the environment and human lives. We are already seeing an increase in extreme weather events and rising sea levels, both of which have a major impact on the planet.",
-    "output": "The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels."
+    "instruction": "找出以下段落的主旨",
+    "input": "气候变化是一个越来越具有争议性的全球问题。它已经对环境和人类生活产生了极大的影响。我们已经看到极端天气事件和海平面上升的增加，这两者都对地球产生了重大影响。",
+    "output": "该段落的主旨是气候变化是一个全球性的问题，它对环境产生了不良影响，并导致极端天气事件和海平面上升的增加。"
   },
   {
-    "instruction": "Analyze the tone of the following sentences",
-    "input": "I am so upset with you right now",
-    "output": "The tone of the sentences is angry and accusatory."
+    "instruction": "分析以下句子的语气",
+    "input": "我现在非常生你的气",
+    "output": "这些句子的语气是愤怒和指责。"
   },
   {
-    "instruction": "Construct an argument to defend the following statement",
-    "input": "Alternative energy sources are critical to solving the climate crisis",
-    "output": "Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energies sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis."
+    "instruction": "构建一篇辩论性文章，支持以下观点",
+    "input": "替代能源对解决气候危机至关重要",
+    "output": "替代能源在缓解气候变化的最有害影响方面绝对是至关重要的。随着世界逐渐从化石燃料向更可持续的能源来源（如风能、太阳能和水能）过渡，我们可以减少大气中的温室气体数量并防止地球进一步升温。此外，使用可再生和替代能源源将创造成千上万个就业机会，并有助于创造健康、稳定的经济。投资替代能源是一个明智的决策，如果我们想有效地解决气候危机，这是一个必要的步骤。"
   },
   {
-    "instruction": "Convert the following sentence into the present continuous tense",
+    "instruction": "将以下句子转换为现在进行时",
     "input": "He reads books",
     "output": "He is reading books."
   },
   {
-    "instruction": "Give an example of a metaphor that uses the following object",
-    "input": "Stars",
-    "output": "The stars were twinkling diamonds in the night sky."
+    "instruction": "给出一个使用以下对象的隐喻的例子",
+    "input": "星星",
+    "output": "夜空中的星星闪闪发光，就像钻石一样。"
   },
   {
-    "instruction": "Describe the following person",
-    "input": "John",
-    "output": "John is a tall, dark-haired man with a kind smile and a twinkle in his eyes. He has a gentle, caring nature, and he always strives to understand others. He has a passion for learning and exploring new places, experiences and cultures."
+    "instruction": "描述以下人",
+    "input": "约翰",
+    "output": "约翰是一个高个子、黑发的男人，他面带微笑，眼中闪烁着智慧的光芒。他性格温和，富有爱心，总是努力去理解别人。他对学习和探索新的地方、经验和文化有着热情。"
   },
   {
-    "instruction": "Construct a mathematical problem with the following numbers",
-    "input": "21, 4",
-    "output": "If 21 pieces of candy are divided among 4 people, how many pieces of candy does each person get?"
+    "instruction": "使用以下数字构建一个数学问题",
+    "input": "21，4",
+    "output": "如果21块糖果被分给4个人，每个人能得到多少块糖果？"
   },
   {
-    "instruction": "Aim to reduce the following sentence without changing its meaning",
-    "input": "When he came in, he woke everyone up",
-    "output": "He woke everyone on entering."
+    "instruction": "尝试减少以下句子的长度，不改变其意思",
+    "input": "当他进来的时候，他把所有人都吵醒了",
+    "output": "他进来后把每个人都吵醒了。"
   },
   {
-    "instruction": "Identify the conjunctions in the following sentence",
-    "input": "She wrote a letter and sealed it",
-    "output": "The conjunctions in the sentence are \"and\"."
+    "instruction": "辨别以下句子中的连词",
+    "input": "她写了一封信，然后封上了信封。",
+    "output": "句子中的连词是然后"
   },
   {
-    "instruction": "Rewrite the following sentence in the third person",
-    "input": "I am anxious",
-    "output": "She is anxious."
+    "instruction": "将以下句子改写成第三人称",
+    "input": "我很焦虑",
+    "output": "她很焦虑。"
   },
   {
-    "instruction": "Generate a list of business ideas for a food delivery service.",
+    "instruction": "为一个食品送货服务列出一些商业创意",
     "input": "",
-    "output": "- Offer discounts and loyalty programs for frequent customers.\n- Partner with local restaurants and promote their food.\n- Train delivery personnel to handle orders and provide good customer service.\n- Use mobile apps and websites for ordering.\n- Offer diverse payment options for customers.\n- Allow customers to customize their orders.\n- Pack food in recyclable and compostable packaging.\n- Launch a subscription model for regular customers.\n- Offer special services like food suggestions based on customers' preferences.\n- Provide contactless delivery and curbside pickup.\n- Provide catering services for large orders and special events.\n- Use online marketing and social media platforms to reach more customers.\n- Create incentives to encourage customers to try new dishes.\n- Create meal kits with all the necessary ingredients and a recipe.\n- Make use of food delivery robots and drones.\n- Offer a loyalty points system for customers.\n- Collaborate with local farmers to source produce and ingredients.\n- Offer vegetarian, vegan, and gluten-free options.\n- Allow customers to select the delivery time.\n- Implement AI-powered recommendations for customers."
+    "output": "- 为经常下单的顾客提供折扣和忠诚度计划。\n- 与当地餐厅合作，推广他们的美食。\n- 培训送货人员处理订单并提供良好的客户服务。\n- 使用移动应用和网站进行订购。\n- 为顾客提供多样化的付款选项。\n- 允许顾客自定义订单。\n- 使用可回收和可堆肥的包装。\n- 为常规客户推出订阅模式。\n- 提供基于客户偏好的食品建议等特殊服务。\n- 提供无接触送货和路边取货服务。\n- 为大型订单和特殊活动提供餐饮服务。\n- 使用在线营销和社交媒体平台扩大客户群。\n- 创建激励措施，鼓励顾客尝试新菜品。\n- 制作包含所有必要食材和食谱的餐食套餐。\n- 利用食品送货机器人和无人机。\n- 为顾客提供忠诚度积分系统。\n- 与当地农民合作采购农产品和原料。\n- 提供素食、纯素和无麸质选项。\n- 允许顾客选择送货时间。\n- 为顾客提供基于人工智能的推荐服务。"
   },
   {
-    "instruction": "Edit the following sentence to improve clarity and flow.",
+    "instruction": "将以下句子编辑以改善清晰度和流畅性。",
     "input": "The restaurant has great food though the prices are a bit hefty",
     "output": "The restaurant offers great food but at a slightly higher price."
   },
   {
-    "instruction": "Imagine you are speaking with a customer who is unsatisfied with the product they bought from you. Construct a response that diffuses the situation.",
+    "instruction": "假设你正在与一个对你所售产品不满意的客户交谈。构造一个回复来缓解局面。",
     "input": "",
-    "output": "I'm sorry that you're not happy with your purchase. We want all of our customers to be satisfied, so I'd like to offer you a full refund, as well as a 15% discount for your next purchase. Is there anything else I can do to make this right for you?"
+    "output": "很抱歉您对购买的产品不满意。我们希望所有的客户都能够满意，所以我想提供您全额退款，并在您下次购买时享受15％的折扣。还有什么其他我可以为您做的吗？"
   },
   {
-    "instruction": "Explain the concept of a bubble sort algorithm to a non-technical audience.",
+    "instruction": "向非技术人员解释冒泡排序算法的概念。",
     "input": "",
-    "output": "A bubble sort algorithm is a type of sorting algorithm that is used to sort elements in an array. It works by looking at each element of the array and comparing it to the next element. If the first element is bigger than the second element, they are swapped. This process is repeated until the whole array is sorted. This type of sorting is one of the simplest sorting algorithms, but it can be slow if the array has many elements."
+    "output": "冒泡排序算法是一种用于对数组中的元素进行排序的算法。它通过查看数组的每个元素并将其与下一个元素进行比较来工作。如果第一个元素比第二个元素大，则它们被交换。这个过程重复进行，直到整个数组排序完成。这种排序是最简单的排序算法之一，但如果数组有许多元素，它可能会很慢。"
   },
   {
-    "instruction": "Classify the following incident as a breach of protocol. Output 1 for breach, and 0 for no breach.",
-    "input": "Using a school laptop for personal use",
+    "instruction": "将以下事件分类为协议违规。输出1表示违规，输出0表示未违规。",
+    "input": "在学校的笔记本电脑上进行个人使用",
     "output": "1"
   },
   {
-    "instruction": "Given the following input, construct a creative story.",
-    "input": "A magic bow and arrow",
-    "output": "Once upon a time, there lived a young girl named Alexa who was gifted with an incredible magical bow and arrow. Whenever she pulled back her bow and let an arrow fly, wherever it landed, something extraordinary happened. Flowers bloomed, oceans calmed, and the sun shone brighter. Alexa's bow and arrow were so powerful, that it could make even the most impossible things possible. One day, during a great storm, Alexa used her magical bow and arrow to bring calm and harmony to her hometown. She was praised and celebrated by the whole town, and she soon became a symbol of hope and peace."
+    "instruction": "根据以下输入构建一个创意故事。",
+    "input": "一支魔法弓箭",
+    "output": "从前，有一个名叫亚历克莎的年轻女孩，她拥有一支令人难以置信的魔法弓箭。每当她拉开弓弦，射出箭矢，无论它落在哪里，都会发生一些不同寻常的事情。鲜花盛开，海洋平静，太阳更加耀眼。亚历克莎的弓箭如此强大，以至于它可以使最不可能的事情变成可能。一天，当一场大暴雨来袭时，亚历克莎使用她的魔法弓箭给她的家乡带来了平静与和谐。她受到全镇的赞扬和庆祝，很快成为了希望和和平的象征。"
   },
   {
-    "instruction": "Generate a list of methods to reduce food waste.",
+    "instruction": "列举减少食物浪费的方法。",
     "input": "",
-    "output": "- Shop smarter and only buy what you need.\n- Save leftovers for later and freeze them if necessary. \n- Monitor expiration dates and consume items before they go bad.\n- Participate in community or public food sharing initiatives.\n- Compost leftover food scraps.\n- Reuse containers, jars, and bags.\n- Make use of restaurant discounts to reduce over-ordering. \n- Donate foods that have short expiration dates to local food banks. \n- Buy more produce that is close to the expiration date and prepare it soon.\n- Order small portions while dining out.\n- Educate yourself and others about food waste.\n- Plan meals in advance and base your grocery list on the meals. \n- Store food correctly to reduce spoilage.\n- Make sure your fridge is at the right temperature.\n- Have a system to track leftovers in the fridge. \n- Eat all edible parts of food, including stems and skins.\n- Use creative recipes to use the entire food item.\n- Use food that would otherwise be thrown away for animal feed.\n- Take part in campaigns to make food sustainability an issue."
+    "output": "- 购物要聪明，只买需要的物品。\n- 保留剩菜，必要时将其冷冻。 \n- 监控食品的过期日期并在过期前食用。\n- 参与社区或公共食品共享计划。\n- 堆肥利用剩余食物。\n- 重复使用容器、罐子和袋子。\n- 利用餐厅打折减少点餐量。 \n- 将过期日期较短的食物捐赠给当地的食品银行。 \n- 购买接近过期日期的更多蔬果并尽早准备。\n- 在外就餐时点小份菜。\n- 教育自己和他人关于食品浪费的问题。\n- 提前计划餐食并根据餐食制定购物清单。 \n- 正确存储食物以减少变质。\n- 确保冰箱处于正确的温度。\n- 建立追踪剩余食物的系统。 \n- 食用食物的所有可食部分，包括茎和皮。\n- 使用创意的食谱来使用整个食材。\n- 利用原本会被丢弃的食品作为动物饲料。\n- 参加旨在使食品可持续化的活动。"
   },
   {
-    "instruction": "Propose an idea for a self-driving car.",
+    "instruction": "提出一个自动驾驶汽车的想法。",
     "input": "",
-    "output": "My idea for a self-driving car is to develop an AI system that uses machine learning to help the car recognize its environment. The AI system will also be able to learn from its mistakes and increase its accuracy. Additionally, the self-driving car will be able to detect potential hazards and warn the driver, or take corrective action if necessary. The car will also be equipped with an emergency button, in case the driver needs to take manual control of the vehicle. Furthermore, the car will be capable of automated parking and will be able to drive itself to a nearby charging station when the battery is low. Finally, the software will be able to connect with smartphones, so the user can access their navigation system and entertainment options even while on the move."
+    "output": "我对自动驾驶汽车的想法是开发一种利用机器学习帮助汽车识别环境的人工智能系统。这个AI系统还能够从自己的错误中学习并提高准确性。此外，自动驾驶汽车将能够检测潜在的危险并警告驾驶员，或者在必要时采取纠正措施。车上还将配备紧急按钮，以防驾驶员需要手动控制车辆。此外，汽车将具备自动停车功能，并在电池电量低时能够自行驾驶到附近的充电站。最后，该软件将能够与智能手机连接，以便用户即使在行驶途中也可以访问其导航系统和娱乐选项。"
   },
   {
-    "instruction": "Explain the concept of a linear regression model using simple language.",
+    "instruction": "用简单的语言解释线性回归模型的概念。",
     "input": "",
-    "output": "A linear regression model is a type of machine learning model that can be used to predict or estimate the value of a continuous numerical variable from a set of input variables. In this model, a line is fitted to a set of data points such that the sum of the squared distance of the data points from the line is minimized. This line of best fit can then be used to estimate the value of the output variable based on the values of the input variables."
+    "output": "线性回归模型是一种机器学习模型，可以用于预测或估计连续数值变量的值。在这个模型中，将一条直线拟合到一组数据点上，以使数据点到该直线的距离的平方和最小化。这条最佳拟合直线可以根据输入变量的值来估计输出变量的值。"
   },
   {
-    "instruction": "Construct a list of tips to help reduce stress.",
+    "instruction": "列出一些建议以帮助减轻压力。",
     "input": "",
-    "output": "- Take a time out and acquire some rest when feeling overwhelmed. \n- Make time for yourself and learn to relax. \n- Exercise regularly and get plenty of sleep. \n- Listen to music you like, or take a warm bath. \n- Stick to a healthy diet full of essential vitamins and minerals.\n- Reach out to friends and family for support.\n- Try aromatherapy or yoga. \n- Do something creative like drawing, painting, or writing. \n- Engage in activities that bring you joy and peace of mind. \n- Avoid drugs or excessive amounts of alcohol. \n- Practice deep breathing and progressive muscle relaxation. \n- Take up a new hobby to stay occupied. \n- Break big tasks down into smaller, more manageable tasks. \n- Practice positive self-talk to keep your morale high. \n- Talk to a therapist or trusted mentor if necessary. \n- Make time for fun activities and social events. \n- Prioritize tasks and create a weekly schedule. \n- Create a plan of action and identify solutions to problems. \n- Learn to forgive yourself and others."
-  },
-  {
-    "instruction": "Write a review of a recent movie you watched.",
-    "input": "Parasite (2019)",
-    "output": "I recently watched the movie Parasite, directed by Bong Joon-Ho, and I was absolutely blown away. This movie is a masterful blend of genres\u2014it's both a black comedy and a commentary on classism, with a twist ending that no one could see coming. The acting is fantastic, particularly Song Kang-ho as the head of the poor household, and the cinematography is stunning. The movie has a perfect balance of humor and thought-provoking drama, and it will leave you talking about the ending for days afterwards. Overall, I highly recommend Parasite; it is an exceptional movie and an experience you won't soon forget."
-  },
+    "output": "- 在感到不知所措时，暂时休息一下。 \n- 为自己腾出时间，学会放松。 \n- 定期锻炼，保证充足的睡眠。 \n- 听喜欢的音乐，或者泡个热水澡。 \n- 坚持健康饮食，摄取充足的维生素和矿物质。\n- 向朋友和家人寻求支持。\n- 尝试芳香疗法或瑜伽。 \n- 做一些有创意的事情，如绘画、写作。 \n- 参与能让你感到快乐和平静的活动。 \n- 避免吸毒或过量饮酒。 \n- 练习深呼吸和渐进式肌肉松弛法。 \n- 学一门新爱好以保持忙碌。 \n- 将大任务分解为较小、更易管理的任务。 \n- 实践积极的自我对话，保持士气。 \n- 必要时与心理治疗师或值得信赖的导师交谈。 \n- 腾出时间参加娱乐活动和社交活动。 \n- 优先处理任务，制定每周计划。 \n- 制定行动计划，找出解决问题的方法。 \n- 学会宽恕自己和他人。"
+    },
+    {
+      "instruction": "写一篇你最近看过的电影的评论。",
+      "input": "《寄生虫》(2019)",
+      "output": "我最近看了奉俊昊导演的电影《寄生虫》，我被这部电影深深震撼。这部电影巧妙地融合了多种类型，既是黑色喜剧，也是关于阶级主义的评论，而且结局出人意料。演技非常出色，尤其是宋康昊饰演的贫困家庭的父亲，摄影也很出色。电影在幽默和引人深思的戏剧之间取得了完美的平衡，观看后你会为结局讨论好几天。总的来说，我强烈推荐《寄生虫》；这是一部非常出色的电影，你不会轻易忘记的经历。"
+      },
   {
     "instruction": "Create a Twitter post to promote your new product.",
     "input": "Alisha's All Natural Jam",
