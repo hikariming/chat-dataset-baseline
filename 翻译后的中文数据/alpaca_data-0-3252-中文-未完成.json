@@ -205,67 +205,67 @@
     "output": "喜悦像清流一样涌入我的心田，\n带来欢笑和极致的幸福感受到淋漓尽致。\n\n世界是那么的明亮、美好，我可以看到，\n每个瞬间都充满了欢乐和自由。\n\n我的心轻松愉快，我的忧虑飞走，\n我发现了属于自己的幸福。\n\n我张开双臂，接受喜悦，\n它让我的歌声变得更有生命力，像玩具一样甜美。\n\n每一刻都是珍贵的礼物，\n我品味着，不会让它流逝。"
   },
   {
-    "instruction": "Convert the given equation into an algebraic expression.",
+    "instruction": "将给定的方程转化为代数式。",
     "input": "3x+5y=9",
     "output": "3x + 5y - 9 = 0"
   },
   {
-    "instruction": "Brainstorm possible solutions to reduce water pollution.",
+    "instruction": "头脑风暴可能减少水污染的解决方案。",
     "input": "",
-    "output": "- Implement stricter regulations on industrial waste disposal\n- Increase the use of green technology in wastewater treatment\n- Provide incentives to businesses that reduce their water consumption and waste generation\n- Educate citizens about water conservation and pollution prevention\n- Offer recycling programs to reduce plastic waste\n- Replace disposable plastics with biodegradable alternatives\n- Improve sewer systems\n- Re-introduce native plant species\n- Foster artificial wetlands and green infrastructure\n- Provide filtration systems at water treatment plants\n- Implement best practices for agricultural runoff\n- Increase research and monitoring of water quality\n- Establish buffer zones between aquatic environments and land-based activities."
+    "output": "- 实施更严格的工业废物处理法规\n- 增加污水处理中绿色技术的使用\n- 对减少水消耗和废物生成的企业提供激励\n- 教育公民关于水资源保护和污染预防\n- 提供回收计划以减少塑料垃圾\n- 用可生物降解的替代品取代一次性塑料\n- 改善污水处理系统\n- 重新引入本土植物物种\n- 培育人工湿地和绿色基础设施\n- 在水处理厂提供过滤系统\n- 实施农业径流的最佳实践\n- 增加对水质的研究和监测\n- 在水生环境和陆地活动之间建立缓冲区。"
   },
   {
-    "instruction": "Explain why the given definition is wrong.",
-    "input": "A mole is an animal that lives underground.",
-    "output": "The definition is wrong because a mole is actually a small mammal that lives above ground and feeds on insects. It is most distinguishable by its long snout and wide, paddle-like feet. It does, however, often dig burrows in which it lives and shelters."
+    "instruction": "解释为什么给定的定义是错误的。",
+    "input": "鼹鼠是一种生活在地下的动物。",
+    "output": "该定义是错误的，因为鼹鼠实际上是一种生活在地面上并以昆虫为食的小型哺乳动物。它最显著的特征是它的长鼻子和宽大的、类似于桨的脚。然而，它通常会挖掘用于生活和庇护的洞穴。"
   },
   {
-    "instruction": "Variable x is defined as \u201c4x + 2y = 10\u201d. Find the value of x.",
+    "instruction": "变量x被定义为“4x + 2y = 10”。找出x的值。",
     "input": "",
-    "output": "The value of x is 2. To find the value, simplify the equation by subtracting 2y from both sides, giving 4x = 10; dividing both sides by 4, giving x = 2/4, which is equal to 2."
+    "output": "x的值为2。要找到这个值，简化方程，两边同时减去2y，得到4x = 10；将两边同时除以4，得到x = 2/4，等于2。"
   },
   {
-    "instruction": "Write a short paragraph about the given topic.",
-    "input": "The importance of using renewable energy",
-    "output": "The use of renewable energy is growing rapidly in relevance and importance as the world looks towards solutions to combat climate change. Renewable energy sources, such as solar, wind, and hydropower, are sustainable and have a much lower environmental impact than traditional energy sources like coal and oil. Switching to renewable energy can reduce carbon emissions, improve air quality, lessen the dependence on non-renewable resources, and provide a stable and secure energy future. Renewable energy is essential for achieving a sustainable future and should be an important part of any country\u2019s energy portfolio."
+    "instruction": "就给定主题写一段简短的段落。",
+    "input": "使用可再生能源的重要性",
+    "output": "随着全球寻求解决气候变化的方案，可再生能源的使用正变得越来越重要和相关。太阳能、风能和水力发电等可再生能源是可持续的，对环境的影响比传统的煤炭和石油等能源低得多。转向可再生能源可以减少碳排放、改善空气质量、减少对非可再生资源的依赖，并提供稳定和安全的能源未来。可再生能源对于实现可持续未来至关重要，应该是任何国家能源组合的重要组成部分。"
   },
   {
-    "instruction": "Explain the concept of artificial intelligence in simple terms.",
+    "instruction": "用简单的语言解释人工智能的概念。",
     "input": "",
-    "output": "Artificial Intelligence (AI) is the ability of machines and computers to make decisions and complete tasks similar to what humans can do. AI can learn from data, recognize patterns, and make predictions. AI technology can automate tedious and complex processes, helping to reduce human effort and errors, and enable more accurate and efficient decisions. AI can be used in a wide range of applications, from robotics and autonomous vehicles to healthcare and finance. It is increasingly becoming an integral part of everyday life."
+    "output": "人工智能（AI）是计算机和机器模仿人类决策和完成任务的能力。AI 可以从数据中学习、识别模式和进行预测。AI 技术可以自动化繁琐和复杂的过程，帮助减少人力和错误，并实现更准确和高效的决策。AI 可以应用于各种领域，从机器人和自动驾驶汽车到医疗保健和金融等。它正在越来越多地成为日常生活的重要组成部分。"
   },
   {
-    "instruction": "Design an app for a delivery company.",
+    "instruction": "设计一个适用于快递公司的应用。",
     "input": "",
-    "output": "The app should allow customers to order items from local businesses and nearby store, place delivery requests with detailed delivery requirements, and track their orders. It should also allow customers to easily find and pay for services. The app should allow businesses to manage orders, track deliveries and drivers, set delivery boundaries, and set prices. It should also have features to help businesses promote their products and services, as well as options to provide customer feedback and support."
+    "output": "该应用应允许客户从本地商家和附近商店订购物品，下订单并提供详细的送货要求，并追踪订单。客户还应该能够轻松找到和支付服务。该应用程序应该允许企业管理订单、跟踪送货和司机、设置送货范围并定价。它还应该有帮助企业推广产品和服务的功能，以及提供客户反馈和支持的选项。"
   },
   {
-    "instruction": "Summarize the given passage.",
-    "input": "A recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet.",
-    "output": "A recent study revealed that global climate change is one of the world\u2019s most pressing issues. In addition to rising sea levels, extreme weather events and biodiversity loss, it is caused largely by human activities like burning fossil fuels. If left unchecked, climate change will have far-reaching and devastating consequences."
+    "instruction": "总结一下给定的段落",
+    "input": "最近的一项研究表明，全球气候变化是当今世界面临的最重要的挑战之一。全球变暖的后果包括海平面上升、极端天气事件和生物多样性丧失。气候变化是由人类活动引起的，如燃烧化石燃料，如果不加控制，将对地球产生长期而毁灭性的影响。",
+    "output": "最近的一项研究表明，全球气候变化是全球最紧迫的问题之一。除了海平面上升、极端天气事件和生物多样性丧失之外，这主要是由人类活动，如燃烧化石燃料所引起的。如果不加控制，气候变化将会带来深远而毁灭性的后果。"
   },
   {
-    "instruction": "Extract the facts from the paragraph.",
-    "input": "Online education continues to become more popular for schools and students alike. Its advantages are generally lower costs, less commitment and the ability to study at a time, place and pace that suits the student.",
-    "output": "- Online education is becoming increasingly popular.\n- It has several advantages such as lower costs, less commitment and the ability to study at one\u2019s own time and pace."
+    "instruction": "从段落中提取事实。",
+    "input": "在线教育在学校和学生中继续变得越来越受欢迎。它的优点通常是成本更低、承诺更少以及能够根据学生的时间、地点和节奏进行学习。",
+    "output": "- 在线教育越来越受欢迎。\n- 它有一些优点，如成本更低、承诺更少以及能够按照自己的时间和节奏学习。"
   },
   {
-    "instruction": "Edit the following sentence to make it more concise.",
+    "instruction": "将以下句子编辑为更简洁的形式。",
     "input": "He ran to the bus stop in order to catch the bus that was due to arrive in five minutes.",
     "output": "He ran to the bus stop, due to arrive in five minutes."
   },
   {
-    "instruction": "Generate a poem with 10 lines.",
-    "input": "",
-    "output": "The evening light shimmers on the shore\nSoftly the waves echoes around and more \nAs I bask in the sun, my worries are all gone\nThe sound of seagulls I now foolishly ignore \nGlistening sand, beckons me with a silent plea \nGlistening seawater, cool to the touch and refreshingly free \nThe evening brings peace, yet I can't find any \nBut maybe in the morning there'll be time for me\nMy bottled peacefulness, I uncork and pour \nThe sound of the ocean, lulls me even more \nAnd for just a moment I close my eyes and behold \nThe vastness of the ocean, to my soul I now unfold."
+    "instruction": "创作一首10行的诗歌",
+    "input": "这是一首关于春天的诗歌",
+    "output": "在春天的清晨，鸟儿唤醒大地\n花儿绽放，沐浴在阳光下\n微风轻轻拂过，树叶轻声响动\n一切都在静静地呼吸，沉浸在春天的气息中\n大地恢复生机，万物复苏\n春雨滋润，田野变得绿油油\n清晨的露珠，闪烁着光芒\n春天来了，世界变得更加美好\n在这个季节里，让我们一起跳跃，一起欢笑。"
   },
   {
-    "instruction": "Convert from celsius to fahrenheit.",
-    "input": "Temperature in Celsius: 15",
-    "output": "Temperature in Fahrenheit: 59"
+    "instruction": "将摄氏度转换为华氏度。",
+    "input": "摄氏度温度为：15",
+    "output": "华氏度温度为：59"
   },
   {
-    "instruction": "Arrange the given numbers in ascending order.",
+    "instruction": "将给定的数字按升序排列。",
     "input": "2, 4, 0, 8, 3",
     "output": "0, 2, 3, 4, 8"
   },
