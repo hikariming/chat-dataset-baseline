@@ -273,81 +273,81 @@
     "instruction": "计算边长为5厘米的立方体的总表面积。",
     "input": "",
     "output": "立方体的总表面积为：150平方厘米。"
-    },
-    {
+  },
+  {
     "instruction": "质量为1千克的物体由于重力受到多大的力？",
     "input": "",
     "output": "质量为1千克的物体由于重力受到的力为9.8牛。"
-    },
-    {
-      "instruction": "提供一个文化实践的例子。",
-      "input": "",
-      "output": "一个文化实践的例子是日本茶道。"
-      },
-      {
-      "instruction": "给定一组数字，找到最大值。",
-      "input": "集合：{10, 3, 25, 6, 16}",
-      "output": "最大值为25。"
-      },
-      {
-        "instruction": "给出两个液体的例子。",
-        "input": "",
-        "output": "两个液体的例子是水和油。"
-        },
-        {
-        "instruction": "6和2的乘积是多少？",
-        "input": "",
-        "output": "6和2的乘积是12。"
-        },
-        {
-          "instruction": "臭鼬藤是什么类型的植物？",
-          "input": "",
-          "output": "臭鼬藤是一种多年生开花植物。"
-          },
-          {
-          "instruction": "将给定的二进制数转换为十进制数。",
-          "input": "101101",
-          "output": "101101的十进制等价数为45。"
-          },
-  {
-    "instruction": "Name two types of desert biomes.",
-    "input": "",
-    "output": "Two types of desert biomes are xeric and subpolar deserts."
   },
   {
-    "instruction": "Given a sentence, convert it into passive voice.",
+    "instruction": "提供一个文化实践的例子。",
+    "input": "",
+    "output": "一个文化实践的例子是日本茶道。"
+  },
+  {
+    "instruction": "给定一组数字，找到最大值。",
+    "input": "集合：{10, 3, 25, 6, 16}",
+    "output": "最大值为25。"
+  },
+  {
+    "instruction": "给出两个液体的例子。",
+    "input": "",
+    "output": "两个液体的例子是水和油。"
+  },
+  {
+    "instruction": "6和2的乘积是多少？",
+    "input": "",
+    "output": "6和2的乘积是12。"
+  },
+  {
+    "instruction": "臭鼬藤是什么类型的植物？",
+    "input": "",
+    "output": "臭鼬藤是一种多年生开花植物。"
+  },
+  {
+    "instruction": "将给定的二进制数转换为十进制数。",
+    "input": "101101",
+    "output": "101101的十进制等价数为45。"
+  },
+  {
+    "instruction": "列举两种沙漠生物群系。",
+    "input": "",
+    "output": "两种沙漠生物群系是干旱和亚极地沙漠。"
+  },
+  {
+    "instruction": "将给定的句子转换为被动语态。",
     "input": "The dog barked at the alley cat.",
     "output": "The alley cat was barked at by the dog."
   },
   {
-    "instruction": "Transform the following sentence into the passive voice",
-    "input": "I bought a book",
-    "output": "A book was bought by me."
+    "instruction": "将以下句子转换为被动语态",
+    "input": "我买了一本书",
+    "output": "一本书被我买了。"
   },
   {
-    "instruction": "Create a dialog between two people who are discussing a scientific phenomenon",
-    "input": "Hydropower",
-    "output": "Person 1: Did you know that hydropower is now being used to generate electricity?\nPerson 2: Really? That\u2019s incredible! How does it work?\nPerson: 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation."
+    "instruction": "编写一个对话，两个人讨论一个科学现象",
+    "input": "水力发电",
+    "output": "人物1：你知道水力发电现在被用来发电了吗？\n人物2：真的吗？太不可思议了！它是怎么工作的？\n人物1：嗯，水力发电利用移动水的能量来产生电力。通过捕捉和利用落下或流动水的能量，水力发电可用于高效发电。"
   },
   {
-    "instruction": "Identify the most suitable adverb for the following sentence",
-    "input": "She works",
-    "output": "She works diligently."
+    "instruction": "为以下句子找到最合适的副词",
+    "input": "她工作",
+    "output": "她勤奋地工作。"
   },
   {
-    "instruction": "Find the main idea of the following passage",
-    "input": "Climate change is an increasingly contentious global issue. It is already having a drastic effect on the environment and human lives. We are already seeing an increase in extreme weather events and rising sea levels, both of which have a major impact on the planet.",
-    "output": "The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels."
+    "instruction": "找出以下段落的主旨",
+    "input": "气候变化是一个越来越引起争议的全球性问题。它已经对环境和人类生活产生了严重影响。我们已经看到了极端天气事件的增加和海平面的上升，这两者都对地球产生了重大影响。",
+    "output": "该段落的主旨是气候变化是一个全球性问题，对环境产生了负面影响，导致极端天气事件和海平面上升的增加。"
   },
   {
-    "instruction": "Analyze the tone of the following sentences",
-    "input": "I am so upset with you right now",
-    "output": "The tone of the sentences is angry and accusatory."
+    "instruction": "分析以下句子的语气",
+    "input": "我现在对你感到非常不满",
+    "output": "这些句子的语气是愤怒和指责。"
   },
   {
-    "instruction": "Construct an argument to defend the following statement",
-    "input": "Alternative energy sources are critical to solving the climate crisis",
-    "output": "Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energies sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis."
+    "instruction": "构建一个论点，为以下陈述辩护",
+    "input": "替代能源对解决气候危机至关重要",
+    "output": "替代能源对于缓解气候变化最有害的影响至关重要。随着世界从化石燃料向更可持续的能源，如风能、太阳能和水力发电等能源的转变，我们可以减少大气中温室气体的数量，防止地球进一步升温。此外，使用可再生和替代能源可以创造数千个就业机会，有助于创建一个健康、稳定的经济。投资替代能源是一个明智的决定，也是有效应对气候危机的必要步骤。"
   },
   {
     "instruction": "Convert the following sentence into the present continuous tense",
@@ -5154,7 +5154,11 @@
     "input": "I wish he was more considerate.",
     "output": "I wish he were more considerate."
   },
-  { "instruction": "What is the result of 12/3?", "input": "", "output": "4" },
+  {
+    "instruction": "What is the result of 12/3?",
+    "input": "",
+    "output": "4"
+  },
   {
     "instruction": "Rewrite the sentence so that it does not contain any passive voice.",
     "input": "The experiment was conducted by the scientist.",
@@ -8945,7 +8949,11 @@
     "input": "",
     "output": "Excited for the upcoming #HBSymposium! Join us for great conversations about the future of #Innovation and #Technology. #HBinfluencers"
   },
-  { "instruction": "Multiply 4 and 7.", "input": "", "output": "28" },
+  {
+    "instruction": "Multiply 4 and 7.",
+    "input": "",
+    "output": "28"
+  },
   {
     "instruction": "Find the antonym for the word 'abstemious'.",
     "input": "",
@@ -13746,7 +13754,11 @@
     "input": "John Smith",
     "output": "john.smith@example.com"
   },
-  { "instruction": "Give me a 4-digit number", "input": "", "output": "0231" },
+  {
+    "instruction": "Give me a 4-digit number",
+    "input": "",
+    "output": "0231"
+  },
   {
     "instruction": "How many elements are found in the periodic table?",
     "input": "",
@@ -15102,7 +15114,11 @@
     "input": "",
     "output": "Accountant."
   },
-  { "instruction": "Divide 100 by 7.", "input": "", "output": "14.285714285" },
+  {
+    "instruction": "Divide 100 by 7.",
+    "input": "",
+    "output": "14.285714285"
+  },
   {
     "instruction": "Provide a sentence for the phrase \"learning curve\".",
     "input": "",
