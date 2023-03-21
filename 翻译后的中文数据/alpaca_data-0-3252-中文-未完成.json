@@ -270,45 +270,45 @@
     "output": "0, 2, 3, 4, 8"
   },
   {
-    "instruction": "Calculate the total surface area of a cube with a side length of 5 cm.",
+    "instruction": "计算边长为5厘米的立方体的总表面积。",
     "input": "",
-    "output": "Total surface area of the cube: 150 cm^2"
-  },
-  {
-    "instruction": "What is the force on a 1 kg mass due to the gravitational force?",
+    "output": "立方体的总表面积为：150平方厘米。"
+    },
+    {
+    "instruction": "质量为1千克的物体由于重力受到多大的力？",
     "input": "",
-    "output": "The force on a 1 kg mass due to the gravitational force is 9.8 N."
-  },
-  {
-    "instruction": "Provide one example for a cultural practice.",
-    "input": "",
-    "output": "An example of a cultural practice is the Japanese tea ceremony."
-  },
-  {
-    "instruction": "Given a set of numbers, find the maximum value.",
-    "input": "Set: {10, 3, 25, 6, 16}",
-    "output": "The maximum value is 25."
-  },
-  {
-    "instruction": "Give two examples of a liquid.",
-    "input": "",
-    "output": "Two examples of liquids are water and oil."
-  },
-  {
-    "instruction": "What is the product of 6 and 2?",
-    "input": "",
-    "output": "The product of 6 and 2 is 12."
-  },
-  {
-    "instruction": "What type of plant is a skunk cabbage?",
-    "input": "",
-    "output": "Skunk cabbage is a type of perennial flowering plant."
-  },
-  {
-    "instruction": "Convert the given binary number to its decimal equivalent.",
-    "input": "101101",
-    "output": "The decimal equivalent of 101101 is 45."
-  },
+    "output": "质量为1千克的物体由于重力受到的力为9.8牛。"
+    },
+    {
+      "instruction": "提供一个文化实践的例子。",
+      "input": "",
+      "output": "一个文化实践的例子是日本茶道。"
+      },
+      {
+      "instruction": "给定一组数字，找到最大值。",
+      "input": "集合：{10, 3, 25, 6, 16}",
+      "output": "最大值为25。"
+      },
+      {
+        "instruction": "给出两个液体的例子。",
+        "input": "",
+        "output": "两个液体的例子是水和油。"
+        },
+        {
+        "instruction": "6和2的乘积是多少？",
+        "input": "",
+        "output": "6和2的乘积是12。"
+        },
+        {
+          "instruction": "臭鼬藤是什么类型的植物？",
+          "input": "",
+          "output": "臭鼬藤是一种多年生开花植物。"
+          },
+          {
+          "instruction": "将给定的二进制数转换为十进制数。",
+          "input": "101101",
+          "output": "101101的十进制等价数为45。"
+          },
   {
     "instruction": "Name two types of desert biomes.",
     "input": "",
