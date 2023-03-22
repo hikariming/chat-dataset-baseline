@@ -433,26 +433,26 @@
     "instruction": "列出一些建议以帮助减轻压力。",
     "input": "",
     "output": "- 在感到不知所措时，暂时休息一下。 \n- 为自己腾出时间，学会放松。 \n- 定期锻炼，保证充足的睡眠。 \n- 听喜欢的音乐，或者泡个热水澡。 \n- 坚持健康饮食，摄取充足的维生素和矿物质。\n- 向朋友和家人寻求支持。\n- 尝试芳香疗法或瑜伽。 \n- 做一些有创意的事情，如绘画、写作。 \n- 参与能让你感到快乐和平静的活动。 \n- 避免吸毒或过量饮酒。 \n- 练习深呼吸和渐进式肌肉松弛法。 \n- 学一门新爱好以保持忙碌。 \n- 将大任务分解为较小、更易管理的任务。 \n- 实践积极的自我对话，保持士气。 \n- 必要时与心理治疗师或值得信赖的导师交谈。 \n- 腾出时间参加娱乐活动和社交活动。 \n- 优先处理任务，制定每周计划。 \n- 制定行动计划，找出解决问题的方法。 \n- 学会宽恕自己和他人。"
-    },
-    {
-      "instruction": "写一篇你最近看过的电影的评论。",
-      "input": "《寄生虫》(2019)",
-      "output": "我最近看了奉俊昊导演的电影《寄生虫》，我被这部电影深深震撼。这部电影巧妙地融合了多种类型，既是黑色喜剧，也是关于阶级主义的评论，而且结局出人意料。演技非常出色，尤其是宋康昊饰演的贫困家庭的父亲，摄影也很出色。电影在幽默和引人深思的戏剧之间取得了完美的平衡，观看后你会为结局讨论好几天。总的来说，我强烈推荐《寄生虫》；这是一部非常出色的电影，你不会轻易忘记的经历。"
-      },
+  },
   {
-    "instruction": "Create a Twitter post to promote your new product.",
+    "instruction": "写一篇你最近看过的电影的评论。",
+    "input": "《寄生虫》(2019)",
+    "output": "我最近看了奉俊昊导演的电影《寄生虫》，我被这部电影深深震撼。这部电影巧妙地融合了多种类型，既是黑色喜剧，也是关于阶级主义的评论，而且结局出人意料。演技非常出色，尤其是宋康昊饰演的贫困家庭的父亲，摄影也很出色。电影在幽默和引人深思的戏剧之间取得了完美的平衡，观看后你会为结局讨论好几天。总的来说，我强烈推荐《寄生虫》；这是一部非常出色的电影，你不会轻易忘记的经历。"
+  },
+  {
+    "instruction": "创建一条推特帖子来推广你的新产品。",
     "input": "Alisha's All Natural Jam",
-    "output": "Introducing Alisha's All Natural Jam, handmade with love using only the finest ingredients! Get ready for a delicious treat that will give your tastebuds a flavor explosion! Try our five amazing flavors: Strawberry, Blueberry, Peach, Raspberry, and Blackberry. Buy now and snack with the world! #snacktime #allnatural #jam #tastebuds #freshfruit #homemade #delicious #salttw"
+    "output": "介绍 Alisha's All Natural Jam，它是手工制作的，只使用最优质的食材！准备好品尝这款美味佳肴，让你的味蕾感受到独特的口感！尝试我们的五种惊人口味：草莓，蓝莓，桃子，覆盆子和黑莓。现在购买，与世界一起享受美食吧！#零食时间 #全天然 #果酱 #味蕾 #新鲜水果 #自制 #美味 #SaltTW"
   },
   {
-    "instruction": "Given the following input, classify the verb as transitive or intransitive.",
+    "instruction": "根据以下输入，将动词分类为及物动词或不及物动词。",
     "input": "improve",
-    "output": "Transitive."
+    "output": "及物动词。"
   },
   {
-    "instruction": "Generate a list of marketing strategies to promote a new mobile app.",
+    "instruction": "列出一些市场营销策略，以推广一款新的移动应用程序。",
     "input": "",
-    "output": "- Implement paid campaigns on social media platforms.\n- Utilize influencer marketing.\n- Reach out to tech bloggers and websites.\n- Share the app through word of mouth among friends.\n- Create demo videos and tutorials to explain the app's features.\n- Offer discounts and special incentives to early adopters.\n- Build a basic website to explain the app's purpose and features. \n- Take advantage of app store optimization techniques.\n- Send out emails and newsletters to inform new users about the app.\n- Aim for awards and good reviews on the app store.\n- Include the app link in your email signature.\n- Try promotional press releases and campaigns.\n- Encourage users to rate and review the app on the app store.\n- Leverage user-generated content to your advantage. \n- Integrate the app with existing or popular apps.\n- Hold giveaways or contests to drive engagement.\n- Feature the app on your company's website and blog.\n- Cross-promote the app with other apps, websites, and social media platforms. \n- Create promotional content such as blogs and podcasts."
+    "output": "- 在社交媒体平台上实施付费广告活动。\n- 利用影响力营销。\n- 向科技博主和网站联系。\n- 通过口碑在朋友中分享应用程序。\n- 创建演示视频和教程，以解释应用程序的功能。\n- 向早期用户提供折扣和特别激励措施。\n- 建立一个基本的网站，以解释应用程序的目的和功能。\n- 利用应用商店优化技术。\n- 发送电子邮件和通讯，向新用户介绍应用程序。\n- 争取在应用商店获得奖项和好评。\n- 在电子邮件签名中包含应用程序链接。\n- 尝试宣传性新闻稿和活动。\n- 鼓励用户在应用商店评分和评论应用程序。\n- 利用用户生成的内容来推广应用程序。\n- 将应用程序与现有或流行的应用程序集成。\n- 进行赠品或比赛活动以推动用户参与。\n- 在公司的网站和博客上展示应用程序。\n- 与其他应用程序、网站和社交媒体平台进行交叉推广。\n- 创建博客和播客等推广内容。"
   },
   {
     "instruction": "Rewrite the sentence to provide more clarity and flow.",
@@ -460,39 +460,39 @@
     "output": "Renting a house was a wise decision to make."
   },
   {
-    "instruction": "Give a description of the following customer segment.",
-    "input": "Online shoppers in the US aged between 18-25",
-    "output": "This customer segment consists of online shoppers in the US aged between 18-25. They are typically young adults who are tech-savvy and prefer to shop online for convenience and variety. They often shop for a variety of items, ranging from clothing to electronics and are comfortable using different payment methods such as credit or debit cards and digital wallets."
+    "instruction": "描述以下客户细分。",
+    "input": "年龄在18-25岁之间的美国网购者",
+    "output": "该客户细分包括年龄在18-25岁之间的美国网购者。他们通常是技术娴熟的年轻成年人，喜欢因为便利和多样性而在网上购物。他们经常购买各种物品，从服装到电子产品，喜欢使用不同的付款方式，如信用卡或借记卡和数字钱包。"
   },
   {
-    "instruction": "Design a logo for a mobile application.",
+    "instruction": "为一款移动应用设计一个标志。",
     "input": "",
-    "output": "The logo design should be simple, modern, and unique. It should capture the essence of the application and communicate its functions. The logo should feature bold colors that are eye-catching, and the design should be adaptable to various sizes and platforms, such as websites and mobile devices."
+    "output": "标志设计应简单、现代、独特。它应捕捉应用的本质并传达其功能。标志应采用醒目的粗色，设计应能适应各种大小和平台，如网站和移动设备。"
   },
   {
-    "instruction": "Generate a list of country names in the western hemisphere.",
+    "instruction": "生成一个位于西半球的国家名称列表。",
     "input": "",
-    "output": "- Canada\n- United States \n- Mexico \n- Brazil\n- Argentina \n- Chile \n- Colombia \n- Venezuela \n- Cuba\n- Jamaica \n- Ecuador\n- Peru \n- Uruguay\n- Paraguay \n- Costa Rica \n- Panama \n- Honduras \n- Nicaragua\n- Guatemala"
+    "output": "- 加拿大\n- 美国\n- 墨西哥\n- 巴西\n- 阿根廷\n- 智利\n- 哥伦比亚\n- 委内瑞拉\n- 古巴\n- 牙买加\n- 厄瓜多尔\n- 秘鲁\n- 乌拉圭\n- 巴拉圭\n- 哥斯达黎加\n- 巴拿马\n- 洪都拉斯\n- 尼加拉瓜\n- 危地马拉"
   },
   {
-    "instruction": "Translate the following phrase into French.",
+    "instruction": "将以下短语翻译成法语。",
     "input": "I miss you",
-    "output": "Je te manque."
+    "output": "Tu me manques."
   },
   {
-    "instruction": "Explain what an API is.",
+    "instruction": "解释什么是API。",
     "input": "",
-    "output": "API stands for Application Programming Interface. It is a set of instructions or programming instructions that allow two applications to communicate and exchange data with each other. APIs provide a way for developers to access and manipulate data and services offered by other applications or platforms. They are an essential part of modern web development and allow developers to develop complex applications and websites using modular components."
+    "output": "API代表应用程序编程接口。它是一组指令或编程指令，允许两个应用程序之间进行通信和交换数据。API提供了一种方式，使开发人员能够访问和操作其他应用程序或平台提供的数据和服务。它们是现代Web开发的重要组成部分，使开发人员能够使用模块化组件开发复杂的应用程序和网站。"
   },
   {
-    "instruction": "Compute the area of a rectangle with length 10cm and width 5cm.",
+    "instruction": "计算长为10厘米，宽为5厘米的矩形的面积。",
     "input": "",
-    "output": "The area of the rectangle is 50 cm2."
+    "output": "矩形的面积为50平方厘米。"
   },
   {
-    "instruction": "Find the capital of Spain.",
+    "instruction": "查找西班牙的首都。",
     "input": "",
-    "output": "The capital of Spain is Madrid."
+    "output": "西班牙的首都是马德里。"
   },
   {
     "instruction": "Classify the following statement as true or false.",
@@ -500,34 +500,34 @@
     "output": "True."
   },
   {
-    "instruction": "Design a database to record employee salaries.",
+    "instruction": "设计一个记录员工工资的数据库。",
     "input": "",
-    "output": "The database should contain fields for employee name, position, salary, and date. It should also include a field for the employee's manager, so that the salaries can be properly allocated across departments. The database should also be able to generate reports on salary expenses for departments or individuals."
+    "output": "数据库应包含员工姓名、职位、薪资和日期字段。它还应包括员工经理的字段，以便可以正确地将工资分配到各个部门。数据库还应能够生成有关部门或个人薪资支出的报告。"
   },
   {
-    "instruction": "Identify the theme of the following book.",
-    "input": "The book is about a small town in the Midwest and how people respond to a series of tragedies and unexpected events that shake their lives.",
-    "output": "The theme of the book is resilience in the face of unexpected tragedy, and how the people of a small town come together to overcome difficult times."
+    "instruction": "确定以下书籍的主题。",
+    "input": "这本书是关于美国中西部的一个小镇，讲述人们如何应对一系列震撼他们生活的悲剧和意外事件。",
+    "output": "这本书的主题是在意外悲剧面前的坚韧和小镇居民如何团结起来克服困难时刻。"
   },
   {
-    "instruction": "Assign each word in the sentence below to its part of speech.",
+    "instruction": "将下面的句子中的每个单词分配到其所属的词性。",
     "input": "Kittens often scamper around excitedly.",
-    "output": "Kittens - Noun \noften - Adverb \nscamper - Verb \naround - Preposition \nexcitedly - Adverb"
+    "output": "Kittens - 名词 \noften - 副词 \nscamper - 动词 \naround - 介词 \nexcitedly - 副词"
   },
   {
-    "instruction": "Generate a password of 8 characters.",
+    "instruction": "生成一个8个字符的密码。",
     "input": "",
     "output": "e9gKyd2D"
   },
   {
-    "instruction": "Create a web page about robotics.",
+    "instruction": "创建一个关于机器人技术的网页。",
     "input": "",
-    "output": "The web page should include an introduction to robotics, covering what it is and how it can be applied in various industries. It should also include a section on the history of robotics, an overview of major advances in the field, and current trends. Information about the different types of robots and their applications should be included, as well as links to resources for further research."
+    "output": "该网页应该包括机器人技术的介绍，涵盖什么是机器人技术以及如何在各种行业中应用。它还应包括关于机器人技术历史的部分，概述该领域的主要进展和当前趋势。应该包括有关不同类型机器人及其应用的信息，以及链接到进一步研究资源的链接。"
   },
   {
-    "instruction": "What is the most commonly shared type of content on social media?",
+    "instruction": "社交媒体上最常分享的内容类型是什么？",
     "input": "",
-    "output": "The most commonly shared type of content on social media is images."
+    "output": "在社交媒体上，最常分享的内容类型是图像。"
   },
   {
     "instruction": "What is the main idea of this text?",
