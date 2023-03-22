@@ -530,39 +530,39 @@
     "output": "在社交媒体上，最常分享的内容类型是图像。"
   },
   {
-    "instruction": "What is the main idea of this text?",
-    "input": "The robotics industry has become one of the fastest growing sectors in today\u2019s economy. Robotics technology is being applied in various industries and applications, such as manufacturing, healthcare, and defense.",
-    "output": "The main idea of this text is that robotics technology is being used in many different industries and applications and is a rapidly growing sector of today's economy."
-  },
-  {
-    "instruction": "Generate a list of present continuous verbs.",
+    "instruction": "这篇课文的主要思想是什么？",
+    "input": "机器人行业已成为当今经济中增长最快的行业之一。机器人技术正在应用于各种行业和应用，例如制造、医疗保健和国防。",
+    "output": "本书的主要思想是机器人技术被用于许多不同的行业和应用，并且是当今经济中快速增长的部门。"
+},
+{
+    "instruction": "生成现在连续动词的列表。",
     "input": "",
-    "output": "Running, eating, sleeping, calling, texting, working, reading, watching, writing, listening, playing, cooking, shopping, dancing, studying, walking, driving, flying, jumping, laughing."
-  },
-  {
-    "instruction": "Think of a phrase or idiom containing the word \"sleep\".",
+    "output": "跑步、吃饭、睡觉、打电话、发短信、工作、阅读、观看、写作、聆听、玩耍、烹饪、购物、跳舞、学习、步行、驾驶、飞行、跳跃、大笑。"
+},
+{
+    "instruction": "想一想包含“睡眠”一词的短语或成语。",
     "input": "",
-    "output": "Sleep like a log."
-  },
-  {
-    "instruction": "Make a prediction about what will happen in the next paragraph.",
-    "input": "Mary had been living in the small town for many years and had never seen anything like what was coming.",
-    "output": "It appears that something extraordinary and unprecedented will happen in the next paragraph."
-  },
-  {
-    "instruction": "Generate a headline for the following article.",
-    "input": "This article discusses the future of renewable energy sources in the US.",
-    "output": "Renewable Energy Sources are the Future of the US"
-  },
+    "output": "睡得像木头一样。"
+},
+{
+  "instruction": "预测下一段会发生什么。",
+  "input": "玛丽在这个小镇住了很多年，从来没有见过会发生这样的事情。",
+  "output": "看来下一段要发生什么不平凡的、史无前例的事情了。"
+},
+{
+  "instruction": "为以下文章生成标题。",
+  "input": "本文讨论了美国可再生能源的未来。",
+  "output": "可再生能源是美国的未来"
+},
   {
     "instruction": "What type of punctuation should be used at the end of the following sentence?",
     "input": "Let's look at the bird",
     "output": "A question mark (?) should be used at the end of the sentence."
   },
   {
-    "instruction": "Identify the incorrect word and suggest a better version.",
+    "instruction": "找出不正确的词并建议一个更好的版本。",
     "input": "The waitress served a humonguous burger.",
-    "output": "The incorrect word is \"humonguous\" and it should be replaced with \"huge\"."
+    "output": "错误的词是“humonguous”，应该用“huge”代替。"
   },
   {
     "instruction": "Rewrite this sentence using the third person point of view.",
