@@ -18,7 +18,7 @@
 
 ## 20230322更新
 
-我们发现https://github.com/carbonz0/alpaca-chinese-dataset 这个项目已经通过机器翻译把alpaca数据进行了翻译，我们后续会逐条查看翻译数据并将非中文化的表述跳过，并添加更多中国特色数据集。
+我们发现https://github.com/carbonz0/alpaca-chinese-dataset 这个项目已经通过机器翻译把alpaca数据进行了翻译，我们后续会逐条查看carbonz01的翻译数据，并人工校对将非中文化的表述跳过，并添加更多中国特色数据集。
 
 ## 目前数据集认领情况：
 
