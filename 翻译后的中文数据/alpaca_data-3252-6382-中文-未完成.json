@@ -30,24 +30,24 @@
         "output": "科技对工作与生活平衡产生了深远影响。随着互联网和移动设备的出现，人们渐渐开始远程办公，并在传统的办公时间之外更容易地接触到他们的工作和同事。这有可能极大地增加个人投入工作的时间和精力，使得适当地放松和休息变得更加困难。此外，信息和资源的即时可用性也会让人难以完全摆脱工作义务。尽管技术进步可以带来许多积极的好处，但也需要注意它对工作与生活平衡的影响。"
     },
     {
-        "instruction": "Explain the role of enzymes in catalysis.",
+        "instruction": "解释酶在催化中的作用。",
         "input": "",
-        "output": "Enzymes are molecules that catalyze biochemical reactions in living cells. They work by lowering the energy barrier of a reaction, which allows the reaction to occur more quickly. Enzymes are highly specific and typically only catalyze one type of reaction. Moreover, they are able to bind with the substrates of the reaction, allowing the substrates to remain in close proximity and enhancing the rate of the reaction. Enzymes are essential for sustaining life as they catalyze the multitude of biochemical reactions that occur continuously in our cells."
+        "output": "酶是催化生物化学反应的分子。它们通过降低反应的能量障碍来加速反应的发生。酶具有高度特异性，通常只能催化一种类型的反应。此外，它们能够与反应底物结合，使底物保持在近距离，并增强反应速率。酶对于维持生命是至关重要的，因为它们催化了我们细胞中不断发生的大量生物化学反应。"
     },
     {
-        "instruction": "Identify the key differences between a butterfly and a moth.",
+        "instruction": "辨别蝴蝶和飞蛾之间的主要区别。",
         "input": "",
-        "output": "The key differences between butterflies and moths are primarily in their anatomy, behavior, and life cycles. Butterflies have larger wings that have brightly-colored patterns and typically fly during the day. In contrast, moths tend to be nocturnal and have dull colors and feathery patterns on their wings. Additionally, butterflies typically have slimmer bodies and antennae that have a clubbed end, while moths tend to have thicker bodies and feathery antennae. Finally, butterflies typically have complete metamorphosis in their life cycle, while moths tend to have a simpler life cycle with only two stages."
+        "output": "蝴蝶和飞蛾之间的主要区别主要在于它们的解剖学、行为和生命周期。蝴蝶有着较大的翅膀，翅膀上有鲜艳的花纹，通常在白天飞行。相比之下，飞蛾往往是夜行性的，翅膀上有沉闷的颜色和羽毛状的花纹。此外，蝴蝶通常有较细的身体和带有粗大顶端的触角，而飞蛾则倾向于有较粗的身体和羽毛状的触角。最后，蝴蝶通常在其生命周期中经历完全变态，而飞蛾往往有一个较简单的生命周期，只有两个阶段。"
     },
     {
-        "instruction": "Generate a code snippet for the given concept.",
-        "input": "Printing \u201cHello World\u201d to the console",
+        "instruction": "为给定的概念生成一个代码片段。",
+        "input": "将“Hello World”打印到控制台。",
         "output": "Console.WriteLine(\"Hello World!\");"
     },
     {
-        "instruction": "Explain the difference between given two similar words.",
-        "input": "Hoarder and Collector",
-        "output": "A hoarder is someone who accumulates an excessive amount of items and has difficulty getting rid of them, while a collector is someone who acquires items in a more deliberate and organized manner, as an investment or as a hobby."
+        "instruction": "解释两个相似词之间的区别。",
+        "input": "囤积者和收藏者",
+        "output": "一个囤积者是指一个人过度收集物品并难以舍弃，而一个收藏者则是指一个人以更有意识和有组织的方式获取物品，可能是作为投资或爱好。"
     },
     {
         "instruction": "Write a story about given scene.",
@@ -55,134 +55,134 @@
         "output": "The old farmer trudged slowly through the scorched earth of his once lush and productive fields. There had been a fire here, its damage lingering even though the flames had been extinguished. He looked around at the damage with a heavy heart, thinking of all the hard work and dedication he had put in to making this field thrive. His thoughts were only interrupted by the distant caw of a crow, echoing in the emptiness. Despite his sadness, the farmer was determined to bring this field back to life, standing tall and proud once again."
     },
     {
-        "instruction": "Describe the given trend.",
-        "input": "Trend: Rapid growth in ecommerce sales in the UK",
-        "output": "The ecommerce market in the UK has seen a rapid increase in sales over the past few years. This growth has been driven by a combination of factors, such as the increasing popularity of online shopping, the rise of mobile shopping, and the growth of digital and omnichannel payments. The result is an ecommerce market that is estimated to be worth over \u00a3411 billion by 2025, and is predicted to continue to grow over the coming years."
+        "instruction": "描述给定的趋势。",
+        "input": "趋势：英国电子商务销售迅速增长。",
+        "output": "在过去几年中，英国电子商务市场的销售额迅速增长。这种增长的原因是多方面的，如在线购物的日益普及，移动购物的兴起，以及数字和全渠道支付的增长。结果是，到2025年，电子商务市场的估值将超过4110亿英镑，并预计在未来几年继续增长。"
     },
     {
-        "instruction": "Rewrite the given passage using new vocabulary words.",
-        "input": "The ship shifted and swayed as the storm lashed against it.",
-        "output": "The vessel rocked and lurched as the tempest buffeted it."
+        "instruction": "使用新的词汇重写给定的段落。",
+        "input": "暴风雨袭击船只，使得船只不断晃动和摇摆。",
+        "output": "狂风暴雨袭击舰船，使得船体连续起伏和摇晃。"
     },
     {
-        "instruction": "Generate a rap verse about the given topic.",
-        "input": "Topic: The importance of learning",
-        "output": "People often forget just what learning can bring, \nFor without it, our future knowledge will be on the brink.\nSo sharpen your skills and focus on your minds,\n'Cause learning new things will increase your chances to find. \nChallenge yourself every day and never give in,\nPump up that adrenaline and let that knowledge within. \nYour intel will help you conquer this and every other thing,\nSo never stop exploring and that knowledge you'll soon gain!"
+        "instruction": "关于给定的主题，创作一节说唱歌词。",
+        "input": "主题：学习的重要性",
+        "output": "人们常常忘记学习能带来的好处，如果没有学习，我们未来的知识将会濒临崩溃。\n因此，磨练自己的技能并专注于思考，学习新事物会增加你发现机会的概率。\n每天挑战自己，永远不要放弃，激发肾上腺素，让知识融入你的内心。\n你的智力将帮助你征服这个世界上的每一件事情，所以永远不要停止探索，那样你就会获得更多知识！"
     },
     {
-        "instruction": "Make a prediction about the future of deep learning based on the information presented in this article",
-        "input": "The past few years have seen a remarkable rise in the popularity of deep learning. Driven largely by the success of artificial neural networks, deep learning has been the foundation for some of the most impressive advancements in computer science in recent times. Breakthroughs such as self-driving cars and facial recognition are simply a result of the power of deep learning.",
-        "output": "Deep learning is likely to continue to grow in popularity as more advanced technology is developed and its capabilities expand, leading to more sophisticated applications such as natural language processing and improved virtual personal assistants. As its capabilities expand, deep learning will become even more prevalent in everyday life."
+        "instruction": "根据本文提供的信息，对深度学习的未来做出一个预测。",
+        "input": "过去几年，深度学习的流行度显著提高。深度学习主要得益于人工神经网络的成功，这是近年来计算机科学中最引人注目的进展之一。自动驾驶汽车和人脸识别等突破性技术的实现，只是深度学习能力的体现。基于这篇文章所提供的信息，预测深度学习的未来。",
+        "output": "深度学习有可能随着更加先进的技术的发展和它的能力的扩展而继续增长，从而带来更加复杂的应用，例如自然语言处理和改进的虚拟个人助理。随着其能力的扩展，深度学习将在日常生活中变得更加普遍。"
     },
     {
-        "instruction": "I want to make a food dish for four people. Create the list of ingredients.",
+        "instruction": "我想为四个人制作一道美食。列出所需食材清单。",
         "input": "",
-        "output": "For four people: \n- 1 cup of rice \n- 2 cups of bell peppers \n- 2 cloves of garlic, minced \n- 1/4 cup of onions, diced \n- 2 tablespoons of olive oil \n- 2 tablespoons of butter \n- 1/2 teaspoon of salt \n- 1/4 teaspoon of pepper \n- 1/2 pound of boneless, skinless chicken breast, cut into small cubes \n- 1/2 teaspoon of paprika \n- 1/2 cup of corn \n- 1/2 cup of diced tomatoes"
+        "output": "这是一份供四人食用的配料清单：\n-1杯米\n-2杯彩椒\n-2瓣大蒜，切碎\n-1/4杯洋葱，切丁\n-2汤匙橄榄油\n-2汤匙黄油\n-1/2茶匙盐\n-1/4茶匙胡椒\n-1/2磅无骨无皮鸡胸肉，切成小块\n-1/2茶匙辣椒粉\n-1/2杯玉米\n-1/2杯切碎的番茄"
     },
     {
-        "instruction": "Select the most suitable word to describe the following definition.\n\"A large group of people, animals, or things that are all similar in another way\"",
+        "instruction": "选择最合适的词语来描述以下定义。“一个大的群体，包括很多在某种方面相似的人、动物或物品。”",
         "input": "",
-        "output": "Herd."
+        "output": "群体。"
     },
     {
-        "instruction": "Separate the sentences with commas and output the corrected version.",
-        "input": "The sun was bright in the sky but it was no longer summer",
-        "output": "The sun was bright in the sky, but it was no longer summer."
+        "instruction": "将句子用逗号分开并输出更正后的版本。",
+        "input": "太阳在天空中闪耀但是现在不再是夏天了。",
+        "output": "太阳在天空中闪耀，但是现在不再是夏天了。"
     },
     {
-        "instruction": "Generate five adjectives to describe the air in the room.",
+        "instruction": "生成五个形容词来描述房间里的空气。",
         "input": "",
-        "output": "Refreshing, invigorating, crisp, clean, fresh."
+        "output": "提神，激励人心，清爽，干净，清新"
     },
     {
-        "instruction": "Count the number of adjectives in the sentence and output the answer.",
-        "input": "She wore her favourite vibrant red dress to the party",
+        "instruction": "统计句子中形容词的数量，并输出答案。",
+        "input": "她穿着她最喜欢的鲜艳红色裙子去参加派对。",
         "output": "2"
     },
     {
-        "instruction": "Complete the following phrase with a proverb.",
-        "input": "\"Better be safe than ...\"",
-        "output": "\"Better be safe than sorry.\""
+        "instruction": "使用一句谚语来完成以下短语。",
+        "input": "\"宁可安全无事，也不要……\"",
+        "output": "\"宁愿安全，也不要后悔。\""
     },
     {
-        "instruction": "There are two grammatical errors in the sentence. Find and correct them.",
-        "input": "He was just laying down on his bed.",
-        "output": "He was just lying down on his bed."
+        "instruction": "这个句子有两个语法错误。找出并纠正它们。",
+        "input": "只是他躺在床上",
+        "output": "他只是躺在床上。"
     },
     {
-        "instruction": "Look at the following sentence and insert a comma where needed.",
-        "input": "She ate a pizza and watched television",
-        "output": "She ate a pizza, and watched television."
+        "instruction": "查看下面的句子，在需要的地方插入逗号。",
+        "input": "：她吃了一块披萨然后看电视",
+        "output": "：她吃了一块披萨，然后看电视"
     },
     {
-        "instruction": "Use the word \"scrumptious\" in a sentence.",
+        "instruction": "在句子中使用单词“美味”。",
         "input": "",
-        "output": "The dinner was cooked to perfection and was absolutely scrumptious."
+        "output": "这顿晚餐煮得非常完美，味道绝对美味可口。"
     },
     {
-        "instruction": "Create a storyline for a short movie.",
+        "instruction": "创建一个短片的故事情节。",
         "input": "",
-        "output": "A young couple embarks on the adventure of a lifetime as they travel around the world. From the hustle and bustle of the city, to the majestic beauty of nature, they experience it all. As they explore and share stories, they grow closer and begin to appreciate the struggles and joys of life. But soon, they must face their biggest challenge yet: the struggle to stay together. \nThrough the highs and lows of their journey, they realize that the greatest challenge of all is staying connected in a world that can pull us apart. They must decide whether to stay connected against the odds, or to let their connection be a beautiful memory."
+        "output": "一对年轻情侣踏上了终身难忘的冒险之旅，环游世界。他们从城市的喧嚣到大自然的壮丽美景，一切尽在眼前。在探索和分享故事的过程中，他们变得更加亲密，开始欣赏生活的艰辛和喜悦。但很快，他们必须面对迄今为止最大的挑战：如何在一起。在旅途的高潮和低谷中，他们意识到，最大的挑战是在一个可能会将我们分开的世界中保持联系。他们必须决定是否要在逆境中保持联系，还是让他们的联系成为美好的回忆。"
     },
     {
-        "instruction": "Summarize the books of J.R.R. Tolkien.",
+        "instruction": "总结J.R.R. Tolkien的书籍。",
         "input": "",
-        "output": "J.R.R. Tolkien's books are often characterized by their vivid and detailed world-building, intricate mythologies, and deep character development. The Lord of the Rings trilogy, considered to be his magnum opus, follows the quest of Frodo Baggins and his fellowship as they attempt to destroy the One Ring and protect Middle-earth from the Dark Lord Sauron. The Silmarillion is a collection of mythopoeic stories that create the history and beliefs of Tolkien's fictional world, Middle-earth. The Hobbit is a prequel to The Lord of the Rings, and tells the adventures of Bilbo Baggins on his journey to reclaim a treasure from a dragon. Tolkien's other works such as The Children of Hurin and The Adventures of Tom Bombadil explore Middle-earth's lands and characters in short stories and poems."
+        "output": "J.R.R.托尔金的书籍通常以其生动而详细的世界构建、复杂的神话体系和深刻的角色发展而著称。被认为是他代表作的《指环王三部曲》追随着弗罗多·巴金斯和他的同伴的探险，试图摧毁魔戒并保护中土世界免受黑暗领主索伦的侵害。《精灵宝钻》是一部神话故事集，描写托尔金虚构世界中的历史和信仰。《霍比特人》是《指环王》的前传，讲述了比尔博·巴金斯为夺回被一只龙抢走的财宝而展开的冒险旅程。托尔金的其他作品，如《胡林之子》和《汤姆·伯巴迪尔的历险记》，则通过短篇故事和诗歌探索了中土世界的土地和角色。"
     },
     {
-        "instruction": "Rewrite the sentence below to include a metaphor.",
-        "input": "The sun shines brightly on the meadow.",
-        "output": "The sun's brilliance danced across the meadow like a ballerina on the stage."
+        "instruction": "请重写下面的句子，加入一个隐喻。",
+        "input": "太阳在草地上照耀得明亮。",
+        "output": "太阳的辉煌犹如舞台上的芭蕾舞女，在草地上跳跃起舞。"
     },
     {
-        "instruction": "Find a book title for the following synopsis.",
-        "input": "A young girl struggles against all odds to help her family and find happiness in a dangerous world.",
-        "output": "The title of the book could be: \"A Journey of Hope: A Young Girl's Quest for Happiness in an Uncertain World.\""
+        "instruction": "找到一个适合以下情节的书名。",
+        "input": "一个年轻女孩在危险的世界中努力克服一切困难，帮助自己的家人并寻找幸福。",
+        "output": "这本书的标题可以是：“希望之旅：一个年轻女孩在不确定的世界中寻找幸福的追求。”"
     },
     {
-        "instruction": "Compose a poem using the words \"courage,\" \"allure,\" and \"fate.\"",
+        "instruction": "创作一首诗歌，使用“勇气”、“诱惑”和“命运”这几个词。",
         "input": "",
-        "output": "Courage and allure the fate of my life,\nAn unknown path set before my sight.\nYet courage leads me onward, to fight\nPast each alluring, dreadful plight.\n\nRisk versus reward -- allure of the right.\nThat which I seek? A search of light.\nWhere courage guides, I must take flight,\nUnraveling the hidden truth of my fate.\n\nAlluring moments of life can be great,\nA chance to learn and discover the brighter things,\nWhere courage and allure will bring\nA sparkle of hope on a path so full of hate.\n\nMy fate awaits me, an abstract fate,\nWhere courage and allure have become my bate.\nRisk is my friend, my ultimate mate,\nTo turn the tide, and rewrite my fate."
+        "output": "勇气和诱惑是我生命的命运，\n一条未知的道路摆在我的眼前。\n然而，勇气引领我前进，去战斗，\n克服每一个诱人且可怕的困境。\n\n风险与回报 - 正确的诱惑。\n我所追求的是什么？寻找光明之路。\n当勇气引导我时，我必须飞翔，\n揭示我命运中隐藏的真相。\n\n生命中迷人的时刻可以是伟大的，\n是学习和发现更美好的事物的机会，\n勇气和诱惑将带来一丝希望的闪光，\n在一条充满仇恨的道路上。\n\n我的命运在等待着我，是抽象的命运，\n勇气和诱惑已成为我的鱼饵。\n风险是我的朋友，我的终极伴侣，\n可以扭转局势，重写我的命运。"
     },
     {
-        "instruction": "Suggest a humorous line for the joke below:",
-        "input": "Q: Why did the chicken cross the playground?",
-        "output": "A: To get to the other slidier side!"
+        "instruction": "为以下笑话提供一个幽默的回答：",
+        "input": "Q: 为什么小鸡过操场？",
+        "output": "A: 去到另一侧更滑的地方！"
     },
     {
-        "instruction": "Generate a world-building element for a setting.",
+        "instruction": "为一个背景设定生成一个世界构建元素。",
         "input": "",
-        "output": "In the fictional world, the trees are sentient, their branches able to communicate with each other in a language of rustling leaves. Each tree has a different personality, and they can be called upon to offer advice or warnings to anyone who knows their language."
+        "output": "在这个虚构的世界里，树木有意识，它们的树枝可以用沙沙作响的树叶语言相互交流。每棵树都有不同的个性，只要懂得它们的语言，它们就可以被召唤出来为任何人提供建议或警告。"
     },
     {
-        "instruction": "Compose a story that follows the hero's journey.",
+        "instruction": "创作一个遵循英雄之旅模式的故事。",
         "input": "",
-        "output": "Once upon a time, there was a young woman who had been struggling to make her way in the world. Despite countless obstacles in her path, she refused to give up. Until one day, when she was presented with an opportunity to become something more. She reluctantly accepted, not realizing the heroic journey she was about to embark on.\n\nThe woman embarked on a long and difficult journey, encountering bizarre creatures, powerful forces of nature, and ancient secrets. Along the way, she gained allies and overcame great trials in order to complete her destiny. She eventually succeeded in her quest and returned home triumphant with her newfound knowledge and power. In the end, she was a changed person, and the world was a changed place."
+        "output": "从前，有一个年轻的女子一直在奋斗着，努力在这个世界上谋生。尽管她的路上有无数的障碍，但她从不放弃。直到有一天，她被提供了一个成为更高层次存在的机会。她犹豫不决地接受了，没有意识到自己即将踏上的英雄之旅。\n\n女子踏上了漫长而艰难的旅程，遇到了奇怪的生物、强大的自然力量和古老的秘密。在旅途中，她获得了盟友，并克服了重重困难，以完成她的使命。最终，她在探险中取得了胜利，带着新获得的知识和力量凯旋而归。最后，她成为了一个改变过的人，世界也因她而改变了。"
     },
     {
-        "instruction": "With the given input, describe a typical day in the life of a doctor.",
-        "input": "Dr. Jane Scott, Pediatrician",
-        "output": "A typical day for Dr. Jane Scott, a pediatrician, starts very early in the morning with rounds of hospital visits and patient consultations. Throughout the day she consults with various specialization departments and medical staff, keeping an eye on her younger patients in the paediatric ward. In between patient visits she examines test results and medical reports before prescribing treatments and medications.\n\nAt night, Dr. Scott finishes off paperwork and reviews records, before ensuring that her patients are comfortably cared for and their progress is documented. Before heading home she makes sure to check any new developments with her younger patients, giving them the time and attention they deserve. And after a long and challenging day, she leaves the hospital feeling grateful that she can make a positive difference in children's lives."
+        "instruction": "根据给定的输入，描述一名医生的典型日常生活。",
+        "input": "简·斯科特医生，儿科医师",
+        "output": "对于儿科医师简·斯科特医生来说，典型的一天从早上很早开始，她会进行医院的查房和病人会诊。在整个白天，她与各个专业部门和医务人员进行咨询，关注着她在儿科病房的年轻病人。在看病人的时间之间，她会检查测试结果和医疗报告，然后开具治疗和药物处方。\n\n晚上，斯科特医生会完成文件工作和审查记录，然后确保她的病人得到了舒适的照顾，并记录了他们的进展情况。在回家之前，她一定会检查一下她年轻病人的任何新情况，给他们应有的时间和关注。在经历了漫长而充满挑战的一天之后，她离开医院，感激地意识到她可以为儿童的生命带来积极的影响。"
     },
     {
-        "instruction": "Suppose you are writing a press release describing the features of a new product. Write the main headline.",
+        "instruction": "假设您正在撰写一份新产品的新闻发布会，描述其功能。请写下主要的新闻标题。",
         "input": "",
-        "output": "Introducing the All-New Product: Experience Revolutionary Features and More!"
+        "output": "全新产品发布：体验革命性功能和更多！"
     },
     {
-        "instruction": "Using data from the given input, generate an email intended to inform your colleagues about the new accounting procedure.",
-        "input": "Company: Widgets Inc.\nSubject: New Accounting Procedure",
-        "output": "Dear Colleagues,\n\nI am writing to inform you about a new accounting procedure that has been implemented in Widgets Inc. This new procedure is designed to streamline the process of reconciling and recording financial data.\n\nIt includes several new features, such as automated account reconciliation, streamlined audit reporting, and sophisticated data analysis. This allows for more effective and efficient accounting practices, reducing the resources and time needed to manage and analyze our financial data.\n\nWe believe that this new accounting procedure explains a major step forward in financial management at Widgets Inc.\n\nThank you,\n\n[Name]"
+        "instruction": "使用给定的输入数据，撰写一封旨在通知同事新的会计程序的电子邮件。",
+        "input": "公司名称：Widgets Inc.\n主题：新会计程序",
+        "output": "尊敬的同事们，\n\n我写信是要通知您们我们在 Widgets Inc. 实施了一种新的会计程序。这种新程序旨在简化协调和记录财务数据的过程。\n\n它包括几个新功能，如自动账户对账、简化的审计报告和复杂数据分析。这将使我们的会计实践更有效和高效，减少管理和分析财务数据所需的资源和时间。\n\n我们相信，这种新的会计程序是 Widgets Inc. 在财务管理方面迈出的重要一步。\n\n谢谢，\n\n[姓名]"
     },
     {
-        "instruction": "Construct a sentence using the given homophone pair.",
-        "input": "scene - seen",
-        "output": "He had never seen a scene so magnificent."
+        "instruction": "使用给定的词构造一个句子。",
+        "input": "场景 - 看过",
+        "output": "他从未看过如此壮丽的场景。"
     },
     {
-        "instruction": "Describe the contents of the given Wikipedia article in one sentence.",
+        "instruction": "用一句话描述给定的维基百科文章的内容。",
         "input": "https://en.wikipedia.org/wiki/Data_visualization",
-        "output": "Data visualization is the process of representing data visually through charts, graphs, and maps in order to make it easier to understand."
+        "output": "数据可视化是通过图表、图形和地图等视觉手段来呈现数据，以便更容易理解的过程。"
     },
     {
         "instruction": "List five biological hypotheses that could explain the following phenomenon.",
