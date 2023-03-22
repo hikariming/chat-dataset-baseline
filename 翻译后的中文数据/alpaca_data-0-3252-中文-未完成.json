@@ -5154,7 +5154,11 @@
     "input": "I wish he was more considerate.",
     "output": "I wish he were more considerate."
   },
-  { "instruction": "What is the result of 12/3?", "input": "", "output": "4" },
+  {
+    "instruction": "What is the result of 12/3?",
+    "input": "",
+    "output": "4"
+  },
   {
     "instruction": "Rewrite the sentence so that it does not contain any passive voice.",
     "input": "The experiment was conducted by the scientist.",
@@ -8945,7 +8949,11 @@
     "input": "",
     "output": "Excited for the upcoming #HBSymposium! Join us for great conversations about the future of #Innovation and #Technology. #HBinfluencers"
   },
-  { "instruction": "Multiply 4 and 7.", "input": "", "output": "28" },
+  {
+    "instruction": "Multiply 4 and 7.",
+    "input": "",
+    "output": "28"
+  },
   {
     "instruction": "Find the antonym for the word 'abstemious'.",
     "input": "",
@@ -13746,7 +13754,11 @@
     "input": "John Smith",
     "output": "john.smith@example.com"
   },
-  { "instruction": "Give me a 4-digit number", "input": "", "output": "0231" },
+  {
+    "instruction": "Give me a 4-digit number",
+    "input": "",
+    "output": "0231"
+  },
   {
     "instruction": "How many elements are found in the periodic table?",
     "input": "",
@@ -15102,7 +15114,11 @@
     "input": "",
     "output": "Accountant."
   },
-  { "instruction": "Divide 100 by 7.", "input": "", "output": "14.285714285" },
+  {
+    "instruction": "Divide 100 by 7.",
+    "input": "",
+    "output": "14.285714285"
+  },
   {
     "instruction": "Provide a sentence for the phrase \"learning curve\".",
     "input": "",
