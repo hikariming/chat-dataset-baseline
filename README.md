@@ -16,6 +16,13 @@
 
 分配下去的数据集应该能够确保全部翻译，预计alpaca每日增量约2500行，额外的非alpaca中文数据集我们预计也会以工作日120条左右的速度增加记录，预计每天会500行左右的数据
 
+## chatglm微调相关 20230324
+我们基于我们的数据集在colab上跑了微调代码，代码还没整理，是基于https://github.com/yuanzhoulvpi2017/zero_nlp 项目做的微调
+但是目前我们发现微调后的模型和之前的几乎毫无区别，因此现在正在研究原因，也喜欢和大家一起探讨，预计在今天放出代码
+
+看到了其他项目相关issue如https://github.com/mymusise/ChatGLM-Tuning/issues/59
+目前正在测试中
+
 ## 20230322更新
 
 我们发现https://github.com/carbonz0/alpaca-chinese-dataset 这个项目已经通过机器翻译把alpaca数据进行了翻译，我们后续会逐条查看carbonz01的翻译数据，并人工校对将非中文化的表述跳过，并添加更多中国特色数据集。
