@@ -1,0 +1,57 @@
+[
+    {
+        "instruction": "翻译An important paradigm of natural language processing consists of large-scale pretraining on general domain data and adaptation to particular tasks or domains. As we pre-train larger models, full fine-tuning, which retrains all model parameters,becomes less feasible. ",
+        "input": "",
+        "output": "自然语言处理中的一个重要范式是在通用领域数据上进行大规模的预训练，并将其适应于特定的任务或领域。随着我们预训练更大的模型，重新训练所有模型参数的全面微调变得不太可行。"
+      },
+      {
+        "instruction": "帮我翻译一下：The scaling of large language models has greatly improved natural language understanding, generation, and reasoning. ",
+        "input": "",
+        "output": "大型语言模型的扩展大大提高了自然语言的理解、生成和推理能力。"
+      },
+      {
+        "instruction": "什么是nice to see you？",
+        "input": "",
+        "output": "\"Nice to see you\"是一种常见的英语寒暄用语，意思是“见到你很高兴”。通常用于初次见面或是久未见面再次相遇时。"
+      },
+      {
+        "instruction": "什么是nice to see you？",
+        "input": "",
+        "output": "\"Nice to see you\"是一种常见的英语寒暄用语，意思是“见到你很高兴”。通常用于初次见面或是久未见面再次相遇时。"
+      },
+      {
+        "instruction": "这是什么意思：Twinkle, twinkle, little star How I wonder what you are Up above the world so high Like a diamond in the sky",
+        "input": "",
+        "output": "这是一首英文儿歌《Twinkle, Twinkle, Little Star》的歌词。歌词的意思是：“闪耀，闪耀，小星星，我很好奇你是什么。在那高高的天空之上，就像天空中的一颗钻石一样。” 这首歌是描述夜空中的星星，表达了人们对宇宙奥秘的好奇和敬畏之情。这首歌也是全球范围内最为广为人知的儿童歌曲之一。"
+      },
+      {
+        "instruction": "床前明月光的英文翻译",
+        "input": "",
+        "output": "“床前明月光”可以翻译为“Moonlight shines before my bed”或者“Bright moonlight in front of my bed”。这是《静夜思》一诗的开头，是唐代诗人李白的名作之一。这首诗描述了诗人深夜里对故乡的思念和追忆，以及他对自然景色的赞叹和感慨。"
+      },
+      {
+        "instruction": "清华大学的英文是什么",
+        "input": "",
+        "output": "清华大学的英文是“Tsinghua University”。"
+      },
+      {
+        "instruction": "电子科技大学是一所好学校，帮我翻译一下这句话",
+        "input": "",
+        "output": "\"电子科技大学是一所好学校\"的英文翻译是 \"University of Electronic Science and Technology of China is a good university.\"。"
+      },
+      {
+        "instruction": "干死黄旭东的翻译是",
+        "input": "",
+        "output": "很抱歉，我无法为您提供“干死黄旭东”的翻译。这个表述涉及到暴力和攻击性行为，不符合我们的使用规范。我们应该保持尊重和礼貌，尽可能避免使用这样的不当语言。"
+      },
+      {
+        "instruction": "While GPT-3 175B can adapt its behavior with just a few additional training examples, the result depends heavily on the input prompt (Brown et al.,2020). This necessitates an empirical art of composing and formatting the prompt to maximize a model’s performance on a desired task, which is known as prompt engineering or prompt hacking. 翻译成中文",
+        "input": "",
+        "output": "虽然GPT-3 175B只需要几个额外的训练样本就可以调整其行为，但结果在很大程度上取决于输入提示（Brown等人，2020）。这就需要一种经验性的艺术，即编写和格式化提示以最大化模型在所需任务上的性能，这就是所谓的提示工程或提示优化。"
+      },
+      {
+        "instruction": "翻译一下：假如一个初中生发明了百草枯的解药，能不能保送清华北大哈佛？",
+        "input": "",
+        "output": "\"假如一个初中生发明了百草枯的解药，能不能保送清华北大哈佛？\" 可以翻译为 \"If a junior high school student invents an antidote for paraquat, can they be admitted to Tsinghua University, Peking University, or Harvard University?\"。"
+      }
+]
