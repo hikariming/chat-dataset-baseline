@@ -49,7 +49,7 @@
 
 ## 目前数据集认领情况：
 
-- 阿扣扣 清华大学工工（alpaca_data-0-3252-英文）
+- 刘倍铭 清华大学工工（alpaca_data-0-3252-英文）
 - 黄堃淏 电子科大软院（alpaca_data-3252-6382-英文）
 - 焦丽华 电子科大软院（alpaca_data-6382-9407-英文）
 - 何余晨 电子科大软院（alpaca_data-9407-12345-英文）
@@ -60,7 +60,7 @@
 
 ## 额外数据集
 
-- 阿扣扣（企业管理问题、三国问题）
+- 刘倍铭（企业管理问题、三国问题）
 - 黄堃淏 电子科大软院（名词解释类问题）
 - 焦丽华 电子科大软院（党建类数据集）
 - 何余晨 电子科大软院（建议类数据集）
@@ -76,3 +76,17 @@
 
 ## 其他数据集
 - chatglm问题数据集：针对chatglm中我们发现的问题，使用文心一言或chatgpt进行回答，并重新收录
+
+## 引用
+
+如果您觉得本项目对您的研究有所帮助或使用了本项目的代码或数据，请参考以下引用（临时）：
+```
+@misc{alpaca_chinese_dataset,
+  author = {Liu, Beiming and Huang, Kunhao and Jiao, Lihua and He, Yuchen and Zhang, Ruiqin and Liang, Yuan and Wang, Yingshan},
+  title = {Chinese Alpaca Dataset},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/hikariming/alpaca_chinese_dataset}},
+}
+```
