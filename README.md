@@ -16,6 +16,15 @@
 
 0327更新：我们感觉alpaca数据集太多表述过于英文化，所以人工翻译完这六部分后不再翻译，改为构建自己的数据集
 
+
+Currently, most chatbot datasets are composed in English, but there is an urgent need to train Chinese chatbot models. Therefore, we have translated the Alpaca dataset into Chinese and created additional some dialogue data.
+
+This translation is not a completely automated process using ChatGPT, but rather a combination of human and machine translation with manual verification. 
+
+This dataset may not be translated into Chinese at all, we may skip over it. Therefore, this will not be a purely Chinese or Chinese-to-English dataset, and may not be suitable for translation.
+
+Update on 0327: We feel that the Alpaca dataset has too many English-style expressions, so after manually translating these six parts, we will no longer translate it and turn to create our own dataset.
+
 ## chatglm微调成功 20230327
 
 我们基于lora方案在colab上微调成功了，成功的文件已经传到本项目中了，我们发现了三点暂时性结论：
@@ -49,7 +58,7 @@
 
 ## 目前数据集认领情况：
 
-- 阿扣扣 清华大学工工（alpaca_data-0-3252-英文）
+- 刘倍铭 清华大学工工（alpaca_data-0-3252-英文）
 - 黄堃淏 电子科大软院（alpaca_data-3252-6382-英文）
 - 焦丽华 电子科大软院（alpaca_data-6382-9407-英文）
 - 何余晨 电子科大软院（alpaca_data-9407-12345-英文）
@@ -60,7 +69,7 @@
 
 ## 额外数据集
 
-- 阿扣扣（企业管理问题、三国问题）
+- 刘倍铭（企业管理问题、三国问题）
 - 黄堃淏 电子科大软院（名词解释类问题）
 - 焦丽华 电子科大软院（党建类数据集）
 - 何余晨 电子科大软院（建议类数据集）
@@ -76,3 +85,17 @@
 
 ## 其他数据集
 - chatglm问题数据集：针对chatglm中我们发现的问题，使用文心一言或chatgpt进行回答，并重新收录
+
+## 引用
+
+如果您觉得本项目对您的研究有所帮助或使用了本项目的代码或数据，请参考以下引用（临时）：
+```
+@misc{alpaca_chinese_dataset,
+  author = {Liu, Beiming and Huang, Kunhao and Jiao, Lihua and He, Yuchen and Zhang, Ruiqin and Liang, Yuan and Wang, Yingshan},
+  title = {Chinese Alpaca Dataset},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/hikariming/alpaca_chinese_dataset}},
+}
+```
