@@ -8,13 +8,42 @@
 
 当前的聊天对话模型数据集主要都是由英文构成，但是当前中文聊天模型构建的需求也较为迫切，因此我们将斯坦福的alpaca数据集进行中文翻译，并再制造一些对话数据，并开源提供。
 
-我们发现翻译API的效果不如chatGPT，因此我们现在将切分成17份的数据集使用chatGPT替代了使用翻译API进行翻译。
-
 此翻译并非完全的chatgpt机翻，会进行人工校验，遇到英文特异性表达的时候会变为较为中文化的表述，因此每日翻译量有限。
 
 遇到完全不能翻译为中文的数据，可能会跳过，因此这将不是一个纯中文或中文--英文数据集。可能不适合拿来做翻译相关训练
 
-分配下去的数据集应该能够确保全部翻译，预计alpaca每日增量约2500行，额外的非alpaca中文数据集我们预计也会以工作日120条左右的速度增加记录，预计每天会500行左右的数据
+分配下去的数据集应该能够确保全部翻译，预计alpaca每日增量约2500行，额外的非alpaca中文数据集我们预计也会以工作日120条左右的速度增加记录，预计每天会500行左右的数据。
+
+0327更新：我们感觉alpaca数据集太多表述过于英文化，所以人工翻译完这六部分后不再翻译，改为构建自己的数据集
+
+
+Currently, most chatbot datasets are composed in English, but there is an urgent need to train Chinese chatbot models. Therefore, we have translated the Alpaca dataset into Chinese and created additional some dialogue data.
+
+This translation is not a completely automated process using ChatGPT, but rather a combination of human and machine translation with manual verification. 
+
+This dataset may not be translated into Chinese at all, we may skip over it. Therefore, this will not be a purely Chinese or Chinese-to-English dataset, and may not be suitable for translation.
+
+Update on 0327: We feel that the Alpaca dataset has too many English-style expressions, so after manually translating these six parts, we will no longer translate it and turn to create our own dataset.
+
+## chatglm微调成功 20230327
+
+我们基于lora方案在colab上微调成功了，成功的文件已经传到本项目中了，我们发现了三点暂时性结论：
+- 我们的数据集中因为有很多企业管理+工业工程相关知识，lora后整个chatglm的语言风格向企业和单位口吻转变
+- lora后绝大部分模型能力不会影响，但模型翻译能力似乎急剧下降
+- lora后可融合数据集中的知识进模型中而不基本不会影响模型效果（除了英文能力）
+- 再增加一些英文翻译数据集也许能把模型英文能力拉回来？因为我的colab没钱了所以暂时不研究了，如果有赞助或者有其他同学成功了给我说一下哈
+
+训练之前：
+![训练之前](./before.png)
+
+训练之后，很不要脸的看看能不能加上自己大名：
+![训练之前](./after.jpg)
+
+## chatglm微调相关 20230325
+
+我们把github上代码都试了一下，现在能看出明显变化的就是https://github.com/ssbuild/chatglm_finetuning，
+我们将尝试写一段脚本，把我们的数据集变成这种对话形式数据集
+
 
 ## chatglm微调相关 20230324
 我们基于我们的数据集在colab上跑了微调代码，代码还没整理，是基于https://github.com/yuanzhoulvpi2017/zero_nlp 项目做的微调
@@ -29,7 +58,7 @@
 
 ## 目前数据集认领情况：
 
-- 阿扣扣 清华大学工工（alpaca_data-0-3252-英文）
+- 刘倍铭 清华大学工工（alpaca_data-0-3252-英文）
 - 黄堃淏 电子科大软院（alpaca_data-3252-6382-英文）
 - 焦丽华 电子科大软院（alpaca_data-6382-9407-英文）
 - 何余晨 电子科大软院（alpaca_data-9407-12345-英文）
@@ -40,7 +69,7 @@
 
 ## 额外数据集
 
-- 阿扣扣（企业管理问题、三国问题）
+- 刘倍铭（企业管理问题、三国问题）
 - 黄堃淏 电子科大软院（名词解释类问题）
 - 焦丽华 电子科大软院（党建类数据集）
 - 何余晨 电子科大软院（建议类数据集）
@@ -56,3 +85,17 @@
 
 ## 其他数据集
 - chatglm问题数据集：针对chatglm中我们发现的问题，使用文心一言或chatgpt进行回答，并重新收录
+
+## 引用
+
+如果您觉得本项目对您的研究有所帮助或使用了本项目的代码或数据，请参考以下引用（临时）：
+```
+@misc{alpaca_chinese_dataset,
+  author = {Liu, Beiming and Huang, Kunhao and Jiao, Lihua and He, Yuchen and Zhang, Ruiqin and Liang, Yuan and Wang, Yingshan},
+  title = {Chinese Alpaca Dataset},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/hikariming/alpaca_chinese_dataset}},
+}
+```
