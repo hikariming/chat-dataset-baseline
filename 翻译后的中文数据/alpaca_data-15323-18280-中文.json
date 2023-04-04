@@ -5017,7 +5017,7 @@
 {
     "instruction": "创建显示以下文本所需的 HTML 代码。",
     "input": "",
-    "output": "&lt;html&gt;\n    &lt;头&gt;\n    &lt;/头&gt;\n    &lt;正文&gt;\n        &lt;p&gt;你好，世界！&lt;/p&gt;\n    &lt;/body&gt;\n&lt;/html&gt;"
+    "output": "<html>\n    <head>\n    </head>\n    <body>\n        <p>Hello, world!</p>\n    </body>\n</html>"
 },
 {
     "instruction": "给我一个随机梯度下降算法的例子。",
@@ -5032,7 +5032,7 @@
 {
     "instruction": "将下列句子判断为真还是假：“苹果是一种水果”。",
     "input": "",
-    "output": "真的。"
+    "output": "真。"
 },
 {
     "instruction": "解释为什么公钥加密算法很重要。",
@@ -5046,7 +5046,7 @@
 },
 {
     "instruction": "使用适当的名词完成句子。",
-    "input": "他是我有过的最好的________。",
+    "input": "他是我遇到过的最好的________。",
     "output": "他是我遇到过的最好的老师。"
 },
 {
@@ -5061,7 +5061,7 @@
 },
 {
     "instruction": "按照 1-5 的等级对以下产品进行评分，其中 5 分是最好的。",
-    "input": "阿尔法银河",
+    "input": "Galaxy Alpha",
     "output": "我会给 Galaxy Alpha 5 星评级。"
 },
 {
@@ -5111,12 +5111,12 @@
 },
 {
     "instruction": "按字母顺序对以下单词列表进行排序，并将它们输出到列表中。",
-    "input": "[雨，太阳，雪，鹅]",
-    "output": "[鹅、雨、雪、太阳]"
+    "input": "[rain, sun, snow, geese]",
+    "output": "[geese, rain, snow, sun]"
 },
 {
     "instruction": "查找并列出以下单词的所有同义词。",
-    "input": "跑步",
+    "input": "奔跑",
     "output": "“奔跑”的同义词包括慢跑、冲刺、冲刺、加速、赛跑、奔跑、奔跑、跳跃、小跑和疾驰。"
 },
 {
@@ -5126,7 +5126,7 @@
 },
 {
     "instruction": "给定一个句子，确定它是否包含不正确的语法。如果是这样，解释什么是不正确的。",
-    "input": "她没有去商店。",
+    "input": "She didn't went to the store.",
     "output": "这句话包含不正确的语法，因为“went”应该替换为“go”。"
 },
 {
@@ -5146,7 +5146,7 @@
 },
 {
     "instruction": "将后面的词拼接成复合词，输出复合词。",
-    "input": "阳光灿烂",
+    "input": "太阳和光",
     "output": "阳光"
 },
 {
@@ -5157,7 +5157,7 @@
 {
     "instruction": "创建一封电子邮件，向您申请的公司的人力资源部门介绍您自己。",
     "input": "姓名：约翰·多伊\n应聘职位：软件工程师\n公司：Megacorp",
-    "output": "尊敬的 Megacorp 人力资源部，\n\n我的名字是 John Doe，我写信是为了介绍我自己申请的软件工程师职位。\n\n我相信我可以将我多年的软件工程专业知识带到桌面上，过去曾参与过几个前沿项目和产品。我对各种软件工程方法的全面理解和解决问题的敏锐态度使我成为该职位的理想人选。\n\n我期待着很快收到您的来信，并很高兴能进一步讨论我如何才能最大限度地为 Megacorp 团队做出贡献。\n\n真挚地，\n无名氏"
+    "output": "尊敬的 Megacorp 人力资源部，\n\n我的名字是 John Doe，我写信是为了介绍我自己申请的软件工程师职位。\n\n我相信我可以将我多年的软件工程专业知识带到桌面上，过去曾参与过几个前沿项目和产品。我对各种软件工程方法的全面理解和解决问题的敏锐态度使我成为该职位的理想人选。\n\n我期待着很快收到您的来信，并很高兴能进一步讨论我如何才能最大限度地为 Megacorp 团队做出贡献。\n\n真挚地，\nJohn Doe"
 },
 {
     "instruction": "用您自己的标签名称重新标记数据标签。",
@@ -5187,7 +5187,7 @@
 {
     "instruction": "将这些词中的每一个分类为名词或动词。",
     "input": "词语：跑步、骑行",
-    "output": "名词：骑自行车\n动词：跑"
+    "output": "名词：骑行\n动词：跑步"
 },
 {
     "instruction": "写一篇关于终生旅程的创意文章。",
@@ -5300,9 +5300,9 @@
     "output": "会计：财务\n厨师：烹饪\n外科医生：医疗\n管道工：建筑"
 },
 {
-    "instruction": "将短语“大量工作”翻译成英语",
+    "instruction": "将短语“beaucoup de travail”翻译成英语",
     "input": "",
-    "output": "短语“beaucoup de travail”在英语中翻译为“大量工作”。"
+    "output": "短语“beaucoup de travail”在英语中翻译为“a lot of work”。"
 },
 {
     "instruction": "列出非洲最长的三条河流",
@@ -5335,7 +5335,7 @@
     "output": "日本著名音乐艺术家包括 Kyary Pamyu Pamyu、BABYMETAL、Miyavi、Perfume 和 T.M.Revolution。"
 },
 {
-    "instruction": "说明短语“没有出路”。",
+    "instruction": "说明短语“无路可逃”。",
     "input": "无需输入",
     "output": "![无路可逃](https://www.wallfoy.com/wallpaper/661/no-way-out.jpg)"
 },
@@ -5347,7 +5347,7 @@
 {
     "instruction": "“鱼儿在浴缸里唱歌”这句话用的是什么修辞手法？",
     "input": "无需输入",
-    "output": "拟人化。"
+    "output": "拟人。"
 },
 {
     "instruction": "什么是热膨胀系数？",
@@ -5475,7 +5475,7 @@
     "output": "2021 年 5 月 30 日，达卡附近的 Sunamganj 镇发生火灾。到目前为止，没有人员伤亡或重大损失的报告。消防队员设法控制了火势，并正在监测情况。"
 },
 {
-    "instruction": "根据情绪对推文进行分类。输出“正面”、“负面”或“中性”。",
+    "instruction": "根据情绪对推文进行分类。输出“积极的”、“消极的”或“中性的”。",
     "input": "刚刚吃了我生命中最好的冰淇淋！",
     "output": "积极的"
 },
@@ -5527,7 +5527,7 @@
 {
     "instruction": "构造一个查询以选择 2019 年的所有销售数据。",
     "input": "",
-    "output": "SELECT * FROM sales WHERE sales_date BETWEEN &#39;2019-01-01&#39; AND &#39;2019-12-31&#39;;"
+    "output": "SELECT * FROM sales WHERE sales_date BETWEEN '39;2019-01-01&' AND '39;2019-12-31&#39';"
 },
 {
     "instruction": "解释如何调试 C 程序",
@@ -5556,18 +5556,18 @@
 },
 {
     "instruction": "为以下函数提供输出",
-    "input": "def words_in_sentence（句子）：\n  sentence = sentence.lower()\n  单词 = sentence.split(&quot; &quot;)\n  返回长度（单词）\n\n输入句子：“这是一个例句”",
+    "input": "def words_in_sentence(sentence):\n  sentence = sentence.lower()\n  words = sentence.split(\" \")\n  return len(words) \n\nInput sentence: \"This is a sample sentence\"",
     "output": "4"
 },
 {
     "instruction": "查找给定文本中单词“the”的频率",
-    "input": "敏捷的棕色狐狸跳过了懒狗",
+    "input": "The quick brown fox jumps over the lazy dog",
     "output": "2"
 },
 {
     "instruction": "创建一个 SQL 查询以选择购买了超过 5 件商品的所有客户记录",
     "input": "",
-    "output": "SELECT * FROM customers WHERE number_of_purchases &gt; 5;"
+    "output": "SELECT * FROM customers WHERE number_of_purchases > 5;"
 },
 {
     "instruction": "描述面向对象编程的 4 个基础知识",
@@ -5600,9 +5600,9 @@
     "output": "快乐。"
 },
 {
-    "instruction": "识别这句话中的同音字：The bee bee&#39;s in the tree。",
+    "instruction": "识别这句话中的同音字：The bee bee's in the tree.",
     "input": "",
-    "output": "这句话的谐音是“蜂”和“是”。"
+    "output": "这句话的谐音是“bee”和“be”。"
 },
 {
     "instruction": "写一篇关于宠物的分类文章。",
@@ -5696,7 +5696,7 @@
 },
 {
     "instruction": "完成下面的句子，尝试使用与原句相似的语言。",
-    "input": "老师用",
+    "input": "老师在讲解课文时",
     "output": "清晰度和清晰度。"
 },
 {
@@ -5707,7 +5707,7 @@
 {
     "instruction": "分析句子并确定句子的类型。",
     "input": "雪正在融化。",
-    "output": "声明性的。"
+    "output": "陈述式。"
 },
 {
     "instruction": "如果 1 公斤苹果的成本是 2 美元，请计算 3 公斤苹果的成本。",
@@ -5761,8 +5761,8 @@
 },
 {
     "instruction": "找到这段代码中的错误并修复它。",
-    "input": "def sumNums(a, b):\n总和 = 0\n而 a &lt; b\n总和+=一个\n一个 += 1\n返回总和",
-    "output": "def sumNums(a, b):\n总和 = 0\nwhile a &lt; b: # 冒号丢失\n总和+=一个\n一个 += 1\n返回总和"
+    "input": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b\n\t\tsum += a\n\t\ta += 1\n\treturn sum",
+    "output": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b: # colon missing\n\t\tsum += a\n\t\ta += 1\n\treturn sum"
 },
 {
     "instruction": "设计一个系统来帮助管理客户支持票。",
@@ -5832,7 +5832,7 @@
 {
     "instruction": "请将以下段落翻译成法语",
     "input": "你好吗？",
-    "output": "你在干嘛？"
+    "output": "Comment allez-vous?"
 },
 {
     "instruction": "总结产品描述。",
@@ -5841,8 +5841,8 @@
 },
 {
     "instruction": "生成打印出给定输入的字符数的代码",
-    "input": "你好世界",
-    "output": "print(len(&quot;Hello world&quot;)) # 输出：11 个字符"
+    "input": "Hello world",
+    "output": "print(len(\"Hello world\")) # 输出：11 个字符"
 },
 {
     "instruction": "生成将帮助您确定此人的兴趣的问题",
@@ -5880,7 +5880,7 @@
     "output": "需要数据分析软件来分析来自太阳能电池板的数据。该软件可用于生成数据可视化、识别趋势和模式以及创建自动报告。"
 },
 {
-    "instruction": "使用单词“fantastic”创建一个句子示例。",
+    "instruction": "使用词“美妙的”创建一个句子示例。",
     "input": "",
     "output": "埃菲尔铁塔在日落时的景色绝对是美妙的。"
 },
@@ -6120,9 +6120,9 @@
     "output": "J.D. Salinger 的小说《麦田里的守望者》中的煽动性事件是主人公兼叙述者 Holden Caulfield 因学习成绩不佳而被其享有特权的寄宿学校开除。"
 },
 {
-    "instruction": "编辑以下句子以获得更好的语法和清晰度：\n“他去商店了”",
+    "instruction": "编辑以下句子以获得更好的语法和清晰度：\n“他去了商店”",
     "input": "",
-    "output": "他去商店了。"
+    "output": "他已经去了商店。"
 },
 {
     "instruction": "列出可再生能源的主要来源",
@@ -6322,7 +6322,7 @@
 {
     "instruction": "以肯定形式重写这句话。",
     "input": "她并不总是信守诺言。",
-    "output": "她有时会信守诺言。"
+    "output": "她偶尔会信守诺言。"
 },
 {
     "instruction": "描述学习乐器的好处",
@@ -6361,8 +6361,8 @@
 },
 {
     "instruction": "生成将产生给定输出的数字代码。",
-    "input": "输出：你好世界",
-    "output": "console.log(&quot;你好世界&quot;)"
+    "input": "输出：Hello World",
+    "output": "console.log(\"Hello World\")"
 },
 {
     "instruction": "求出美国的人口密度",
@@ -6427,17 +6427,17 @@
 {
     "instruction": "为程序编写伪代码以计算数字列表的平均值。",
     "input": "",
-    "output": "// 计算列表中数字平均值的函数\n\n函数平均值（列表）\n\n  总计 = 0\n  //遍历列表中的所有元素\n  FOR i = 0 到 list.length-1\n     total += list[i] // 将列表中的每一项加到总计中\n  结束\n\n  RETURN total/list.length // 返回平均值\n\n结束功能"
+    "output": "// 计算列表中数字平均值的函数\n\nFUNCTION avg(list)\n\n  total = 0\n  //遍历列表中的所有元素\n  FOR i = 0 to list.length-1\n     total += list[i] // 将列表中的每一项加到总计中\n  END FOR\n\n  RETURN total/list.length // 返回平均值\n\nEND FUNCTION"
 },
 {
     "instruction": "创建一个可以生成随机莎士比亚侮辱的程序。",
     "input": "",
-    "output": "//生成随机莎士比亚侮辱的函数\n\n功能 generateInsult()\n\n// 创建一个要选择的单词数组\nwords = [“天真”、“粗俗”、“流口水”、“没穿靴子”、“粗鲁”、“笨拙”];\n\n// 生成两个随机数来选择使用哪些词\ni1 = RANDOM(words.length - 1);\ni2 = RANDOM(words.length - 1);\n\nRETURN &quot;你是一个 &quot; + words[i1] + &quot; &quot; + words[i2] + &quot; rogue!&quot;;\n\n结束功能"
+    "output": "//生成随机莎士比亚侮辱的函数\n\nFUNCTION generateInsult()\n\n// 创建一个要选择的单词数组\nwords = [“天真”、“粗俗”、“流口水”、“没穿靴子”、“粗鲁”、“笨拙”];\n\n// 生成两个随机数来选择使用哪些词\ni1 = RANDOM(words.length - 1);\ni2 = RANDOM(words.length - 1);\n\nRETURN '你是一个' + words[i1] + '' + words[i2] +'rogue!';\n\nEND FUNCTION"
 },
 {
     "instruction": "编写一些代码，将以下数据存储在字典中。",
-    "input": "莎士比亚、罗密欧与朱丽叶",
-    "output": "字典 = {\n  &quot;author&quot;: &quot;莎士比亚&quot;,\n  “标题”：“罗密欧与朱丽叶”\n}"
+    "input": "Shakespeare, Romeo and Juliet",
+    "output": "dict = {\n  \"author\": \"Shakespeare\",\n  \"title\": \"Romeo and Juliet\" \n}"
 },
 {
     "instruction": "总结简历的“资格摘要”部分。",
@@ -6552,7 +6552,7 @@
 {
     "instruction": "编写 SQL 查询以查找图书馆中的图书总数。",
     "input": "",
-    "output": "以下 SQL 查询可用于查找图书馆中的图书总数：\n从书籍中选择计数（*）；"
+    "output": "以下 SQL 查询可用于查找图书馆中的图书总数：\nSELECT COUNT(*) FROM books;"
 },
 {
     "instruction": "为品牌写一句反映其积极品质的口号。",
@@ -6561,7 +6561,7 @@
 },
 {
     "instruction": "在计算机和汽车之间进行类比。",
-    "input": "&lt;无输入&gt;",
+    "input": "<无输入>",
     "output": "计算机就像一辆汽车：它的组件是它的引擎，将数据转化为输出，它的电路代表它把信息带到各个目的地的道路，它的软件就像司机，控制着计算机的性能。"
 },
 {
@@ -6571,12 +6571,12 @@
 },
 {
     "instruction": "想一个与人工智能相关的问题。",
-    "input": "&lt;无输入&gt;",
+    "input": "<无输入>",
     "output": "人工智能如何帮助我们理解和解决社会问题？"
 },
 {
     "instruction": "推断成语“世界是你的牡蛎”的意思。",
-    "input": "&lt;无输入&gt;",
+    "input": "<无输入>",
     "output": "“世界是你的牡蛎”这句成语意味着你拥有所有可用的机会来取得成功和实现你的目标。"
 },
 {
@@ -6622,7 +6622,7 @@
 {
     "instruction": "将“我有一条狗”这句话翻译成法语。",
     "input": "",
-    "output": "我养了一条狗。"
+    "output": "J'ai un chien."
 },
 {
     "instruction": "给出 5 个防止工作场所欺凌的策略。",
@@ -6706,7 +6706,7 @@
 },
 {
     "instruction": "确定以下句子中动词“ir”的变位类型。",
-    "input": "我会。",
+    "input": "Eu irei.",
     "output": "动词“ir”在句子“Eu irei”中以将来时态变位。"
 },
 {
@@ -6735,9 +6735,9 @@
     "output": "公司可以创建特别促销优惠，以鼓励客户购买更多产品并增加销售额。"
 },
 {
-    "instruction": "选择最能完成句子的词：Lisa is so ____ that she never gives up。",
+    "instruction": "选择最能完成句子的词：丽莎是如此____，她从未放弃过。",
     "input": "无输入",
-    "output": "决定"
+    "output": "有决心"
 },
 {
     "instruction": "对以下短语进行分类：“这不公平！”",
@@ -6762,7 +6762,7 @@
 {
     "instruction": "计算以下等式的答案：8*(2+3)",
     "input": "无输入",
-    "output": "64"
+    "output": "40"
 },
 {
     "instruction": "解释专业服务如何使用 AI 实现自动化。",
@@ -6910,9 +6910,9 @@
     "output": "陈述。"
 },
 {
-    "instruction": "给下列名词添加所有格 &#39;s：house",
+    "instruction": "给下列名词添加所有格：房屋",
     "input": "",
-    "output": "房屋"
+    "output": "房屋的"
 },
 {
     "instruction": "确定以下位置的地理特征：埃及",
@@ -6925,9 +6925,9 @@
     "output": "我哥哥种的花。"
 },
 {
-    "instruction": "将下列名词改为复数形式：watch",
+    "instruction": "将下列单词改为复数形式：watch",
     "input": "",
-    "output": "手表"
+    "output": "watches"
 },
 {
     "instruction": "计算以下等式：10 + 4 * 3",
@@ -6935,9 +6935,9 @@
     "output": "22"
 },
 {
-    "instruction": "判断下列句子的类型：The children were playing hide-and-seek",
+    "instruction": "判断下列句子的类型：孩子们在玩捉迷藏的游戏",
     "input": "",
-    "output": "声明性的。"
+    "output": "陈述性的。"
 },
 {
     "instruction": "将以下短语替换为同义词：非常好",
@@ -6945,7 +6945,7 @@
     "output": "出色的。"
 },
 {
-    "instruction": "输出下面单词的反义词：promote",
+    "instruction": "输出下面单词的反义词：升级",
     "input": "",
     "output": "降级。"
 },
@@ -7021,13 +7021,13 @@
 },
 {
     "instruction": "给定一个字符串，找到使其成为回文所需的最少删除次数。",
-    "input": "侠盗猎车手",
+    "input": "GTACAT",
     "output": "需要删除 2 次才能使字符串“GTACAT”成为回文。"
 },
 {
     "instruction": "给定一个数学表达式，输出它的简化形式。",
     "input": "5xy + 3x + 2xy - 7x",
-    "output": "7xy + 3x"
+    "output": "7xy - 4x"
 },
 {
     "instruction": "说出至少五款 80 年代的游戏。",
@@ -7042,17 +7042,17 @@
 {
     "instruction": "写出名词“ox”的复数形式。",
     "input": "",
-    "output": "牛"
+    "output": "oxen"
 },
 {
     "instruction": "“成就”这个词的同义词是什么？",
     "input": "",
-    "output": "成就"
+    "output": "成绩"
 },
 {
     "instruction": "动词“to be”的主动形式是什么？",
     "input": "",
-    "output": "是"
+    "output": "be"
 },
 {
     "instruction": "构建一组使用相同因子的五个乘法方程。",
@@ -7107,7 +7107,7 @@
 {
     "instruction": "构造查询以在数据库中搜索特定记录。",
     "input": "学生记录",
-    "output": "SELECT * FROM StudentRecords WHERE StudentName=&quot;John Smith&quot;;"
+    "output": "SELECT * FROM StudentRecords WHERE StudentName=\"John Smith\";"
 },
 {
     "instruction": "产生 3 个修改现有小部件的想法。",
@@ -7147,7 +7147,7 @@
 {
     "instruction": "使用正确的语法完成句子。",
     "input": "我从来没有____过如此大胆的事情。",
-    "output": "完毕"
+    "output": "完成"
 },
 {
     "instruction": "通过撰写有影响力的结论来完成文章。",
@@ -7161,7 +7161,7 @@
 },
 {
     "instruction": "检测给定句子中的任何错误。",
-    "input": "他们在房间里的噪音太大了。",
+    "input": "Their was too much noise in the room.",
     "output": "错误：Their 应该替换为 There。"
 },
 {
@@ -7175,7 +7175,7 @@
     "output": "户外运动是改善身心健康的好方法。好处包括改善睡眠和维生素 D、减轻压力和焦虑、改善情绪和提高幸福感。这也是一种有趣而有效的方式，可以锻炼身体并进入户外自然环境。"
 },
 {
-    "instruction": "添加缺失的主题以使句子完整。",
+    "instruction": "添加缺失的主语以使句子完整。",
     "input": "喜欢跳舞。",
     "output": "她喜欢跳舞。"
 },
@@ -7262,12 +7262,12 @@
 {
     "instruction": "求 9 的二次根。",
     "input": "",
-    "output": "9 的二次根是 -3。"
+    "output": "9 的二次根是 3。"
 },
 {
-    "instruction": "使用形容词 excited、little 和 fabulous 构建新闻标题。",
+    "instruction": "使用形容词 激动的、小的 和 美妙的 构建新闻标题。",
     "input": "",
-    "output": "“对神话般的消息有点兴奋！”"
+    "output": "“激动人心的美妙的消息!”"
 },
 {
     "instruction": "描述纽约市的生活成本。",
@@ -7312,7 +7312,7 @@
 {
     "instruction": "构造查询以查找有关人工智能的最新新闻文章",
     "input": "",
-    "output": "SELECT * FROM news WHERE topic = &#39;人工智能&#39; AND date = (SELECT MAX(date) FROM news)"
+    "output": "SELECT * FROM news WHERE topic = 'Artificial Intelligence' AND date = (SELECT MAX(date) FROM news)"
 },
 {
     "instruction": "给客户写一封电子邮件，感谢他们的购买",
@@ -7352,7 +7352,7 @@
 {
     "instruction": "构造一个查询以列出 John Smith 所写的所有书籍的标题",
     "input": "",
-    "output": "SELECT title FROM books WHERE author = &#39;约翰·史密斯&#39;"
+    "output": "SELECT title FROM books WHERE author = 'John Smith'"
 },
 {
     "instruction": "给定两个句子，结合两个句子中表达的想法构造第三个句子。",
@@ -7516,8 +7516,8 @@
 },
 {
     "instruction": "将下列歌词从第一人称视角转换为第二人称视角。",
-    "input": "想想就忍不住笑",
-    "output": "想想就忍不住笑。"
+    "input": "我想想就忍不住笑",
+    "output": "你想想就忍不住笑。"
 },
 {
     "instruction": "重新排列以下单词，组成一个有意义的句子：\n昂贵的, 最, 世界的, 是, 钻石",
@@ -7716,8 +7716,8 @@
 },
 {
     "instruction": "为 Web 应用程序设计一个函数，该函数将计算给定数量的项目的总成本。",
-    "input": "项目：[{名称：“椅子”，数量：4，价格：20}，{名称：“桌子”，数量：1，价格：100}，{名称：“灯”，数量：2，价格：45} ]",
-    "output": "def calculateTotalCost（项目）：\n    总成本 = 0\n    对于项目中的项目：\n        total_cost += item[&#39;数量&#39;] * item[&#39;价格&#39;]\n    返回 total_cost"
+    "input": "Items: [{name: \"Chair\", quantity: 4, price: 20}, {name: \"Table\", quantity: 1, price: 100}, {name: \"Lamp\", quantity: 2, price: 45}]",
+    "output": "def calculateTotalCost(items):\n    total_cost = 0\n    for item in items:\n        total_cost += item['quantity'] * item['price']\n    return total_cost"
 },
 {
     "instruction": "为探讨全球变暖对粮食安全的影响的文章生成大纲。",
@@ -7751,8 +7751,8 @@
 },
 {
     "instruction": "根据上下文选择正确的单词。",
-    "input": "世界是一个充满 ______ 经历的 _____ 地方。",
-    "output": "世界是一个迷人的地方，充满了不同的经历。"
+    "input": "世界是一个_____地方，充满了_____体验。",
+    "output": "世界是一个迷人的地方，充满了不同的体验。"
 },
 {
     "instruction": "假设你是一个农民。总结自己种植庄稼的好处。",
@@ -7872,7 +7872,7 @@
 {
     "instruction": "设计一种算法来查找句子中出现次数最多的单词。",
     "input": "",
-    "output": "该算法应首先将给出的句子标记为单个单词。拆分句子后，该算法可以使用频率计数器来跟踪每个单词出现的次数。一旦创建了计数器，该算法就可以按频率最高的词对计数器数组进行排序，并返回最常用的词。\n\ndef most_frequent_words（句子）：\n    单词 = sentence.split()\n    word_freqs = {}\n    \n    # 创建一个计数器来跟踪词频\n    逐字逐句：\n        如果单词在 word_freqs 中：\n            word_freqs[单词] += 1\n        别的：\n            word_freqs[字] = 1\n    \n    # 对计数器数组进行排序，返回出现频率最高的单词\n    sorted_words = sorted(word_freqs.items(), key=lambda t: t[1], reverse=真)\n    返回 sorted_words[0][0]"
+    "output": "该算法应首先将给出的句子标记为单个单词。拆分句子后，该算法可以使用频率计数器来跟踪每个单词出现的次数。一旦创建了计数器，该算法就可以按频率最高的词对计数器数组进行排序，并返回最常用的词。\n\ndef most_frequent_words(sentence):\n    words = sentence.split()\n    word_freqs = {}\n    \n    # Create a counter to keep track of word frequency\n    for word in words:\n        if word in word_freqs:\n            word_freqs[word] += 1\n        else:\n            word_freqs[word] = 1\n    \n    # Sort the counter array and return the most frequent words\n    sorted_words = sorted(word_freqs.items(), key=lambda t: t[1], reverse=True)\n    return sorted_words[0][0]"
 },
 {
     "instruction": "世界上人口最多的五个城市是哪五个？",
@@ -7882,10 +7882,10 @@
 {
     "instruction": "创建一个程序以生成大小为 n × m 的随机矩阵。",
     "input": "",
-    "output": "def generate_random_matrix(n, m):\n    矩阵 = []\n    对于范围内的我（n）：\n        行 = []\n        对于范围 (m) 中的 j：\n            random_num = random.randrange(0, 10)\n            row.append(random_num)\n        矩阵追加（行）\n    返回矩阵"
+    "output": "def generate_random_matrix(n, m):\n    matrix = []\n    for i in range(n):\n        row = []\n        for j in range(m):\n            random_num = random.randrange(0, 10)\n            row.append(random_num)\n        matrix.append(row)\n    return matrix"
 },
 {
-    "instruction": "用 100 个单词解释深度学习的概念。",
+    "instruction": "用 100 个字解释深度学习的概念。",
     "input": "",
     "output": "深度学习是机器学习的一个子集，它利用层次结构来处理数据。这是一种人工智能技术，涉及随着时间的推移学习多个抽象层次。每一层对数据进行更深入的分析，使模型能够发现和提取更复杂的模式。\n\n如果模型的输出与预期结果不匹配，则通过调整每一层的权重来训练网络。这是通过优化成本函数来完成的，成本函数是模型中误差的度量。\n\n深度学习主要用于计算机视觉、自然语言处理和音频处理等应用。它彻底改变了算法的构建方式，因为它允许机器像人类一样从数据中学习和改进。"
 },
@@ -7935,9 +7935,9 @@
     "output": "不赞成"
 },
 {
-    "instruction": "选择以下单词之一并提供同义词：oblivious、quandary、contrived",
+    "instruction": "选择以下单词之一并提供同义词：视而不见的、夸张的、臆造的",
     "input": "",
-    "output": "不经意 - 不知情"
+    "output": "视而不见的 - 没有意识到的"
 },
 {
     "instruction": "对两种技术进行比较。",
@@ -8016,8 +8016,8 @@
 },
 {
     "instruction": "重写下面的代码以使用递归。",
-    "input": "def阶乘（n）：\n    结果 = 1\n    对于我在范围内（1，n + 1）：\n        结果 *= 我\n    返回结果",
-    "output": "def阶乘（n）：\n  如果 n == 0：\n    返回 1\n  别的：\n    返回 n*阶乘(n - 1)"
+    "input": "def factorial(n):\n    result = 1\n    for i in range(1, n + 1):\n        result *= i\n    return result",
+    "output": "def factorial(n):\n  if n == 0:\n    return 1\n  else:\n    return n*factorial(n - 1)"
 },
 {
     "instruction": "将句子重新排列成正确的逻辑顺序。",
@@ -8041,8 +8041,8 @@
 },
 {
     "instruction": "把划线的词从现在时改成过去时。",
-    "input": "她沿着海岸线走。",
-    "output": "她沿着海岸线走着。"
+    "input": "She walk along the shoreline.",
+    "output": "She walked along the shoreline."
 },
 {
     "instruction": "写一个 AI 系统的简短描述。",
@@ -8086,7 +8086,7 @@
 },
 {
     "instruction": "确定文本属于哪个类别。",
-    "input": "J.K. 的书罗琳有一个神奇而奇幻的环境。",
+    "input": "J.K.罗琳的书有一个神奇和幻想的背景。",
     "output": "幻想"
 },
 {
@@ -8132,7 +8132,7 @@
 {
     "instruction": "将文本转换为现在进行时。",
     "input": "他步行去学校。",
-    "output": "他步行去学校。"
+    "output": "他正在步行去学校。"
 },
 {
     "instruction": "说出五种你可以用来生火的东西。",
@@ -8187,7 +8187,7 @@
 {
     "instruction": "为给定物种生成科学名称",
     "input": "大猩猩",
-    "output": "大猩猩大猩猩"
+    "output": "西部大猩猩"
 },
 {
     "instruction": "评估给定的应用程序是否存在任何潜在的安全漏洞",
@@ -8212,11 +8212,11 @@
 {
     "instruction": "为给定位置的人确定合适的手机套餐",
     "input": "加利福尼亚州洛杉矶",
-    "output": "一个适合加利福尼亚州洛杉矶人的手机套餐是 AT&amp;T 的 Unlimited Starter。该计划包括无限制的通话、文本和数据，没有数据上限或超额费用。它还配备了 10GB 的 4G LTE 移动热点和高清流媒体，以及来自美国的国际消息。"
+    "output": "一个适合加利福尼亚州洛杉矶人的手机套餐是 AT&T 的 Unlimited Starter。该计划包括无限制的通话、文本和数据，没有数据上限或超额费用。它还配备了 10GB 的 4G LTE 移动热点和高清流媒体，以及来自美国的国际消息。"
 },
 {
     "instruction": "这句话有拼写错误吗？",
-    "input": "这项技术是一个更好的变化。",
+    "input": "This technologhy is a chnage for the better.",
     "output": "是的，这句话有拼写错误。正确的拼写是“technology”和“change”。"
 },
 {
@@ -8235,7 +8235,7 @@
     "output": "使用太阳能、风能和地热能等绿色能源有很多好处。这是社区生产能源和减少排放从而获得更清洁的空气和水的可持续方式。它还可以改善公众健康，促进经济增长，并有助于应对气候变化。"
 },
 {
-    "instruction": "创建一个使用以下词的句子：contrite, facade",
+    "instruction": "创建一个使用以下词的句子：懊悔的, 面孔",
     "input": "",
     "output": "他装出一副懊悔的样子，尽管他的罪恶感仍然很明显。"
 },
@@ -8262,7 +8262,7 @@
 {
     "instruction": "从以下对中选出语调最负面的词：",
     "input": "善良/残忍",
-    "output": "残忍的"
+    "output": "残忍"
 },
 {
     "instruction": "输出英国合法饮酒的最低年龄",
@@ -8407,7 +8407,7 @@
 {
     "instruction": "将以下逻辑方程式转换为 C 代码。",
     "input": "（A 和 B）或（不是 C 和 B）",
-    "output": "(A &amp;&amp; B) || (!C &amp;&amp; B)"
+    "output": "(A && B) || (!C && B)"
 },
 {
     "instruction": "说出漫威宇宙中的三个家庭。",
@@ -8590,9 +8590,9 @@
     "output": "10"
 },
 {
-    "instruction": "在 Python 中生成代码以打印“Hello World”。",
+    "instruction": "在 Python 中生成代码以打印\"Hello World\"。",
     "input": "",
-    "output": "打印（“你好世界”）"
+    "output": "print(\"Hello World\")"
 },
 {
     "instruction": "想出三种使用特定产品的创造性方法。",
@@ -8612,7 +8612,7 @@
 {
     "instruction": "说说“沧桑”二字的意思。",
     "input": "",
-    "output": "“变迁”一词用于描述命运或环境的变化或变化，通常是不希望发生的变化。它也可以指某人生活中充满起伏的事件或事件。"
+    "output": "“沧桑”一词用于描述命运或环境的变化或变化，通常是不希望发生的变化。它也可以指某人生活中充满起伏的事件或事件。"
 },
 {
     "instruction": "解释为什么“人人享有平等权利”很重要",
@@ -8702,7 +8702,7 @@
 {
     "instruction": "以下算法的大 O 表示法是什么？",
     "input": "有 n 个元素的 for 循环",
-    "output": "在）"
+    "output": "O(n)"
 },
 {
     "instruction": "生成暑期活动",
@@ -8751,7 +8751,7 @@
 },
 {
     "instruction": "将以下单词分解为其词根和前缀。",
-    "input": "无法访问",
+    "input": "Inaccessible",
     "output": "Inaccessible 由前缀“in-”（意为“不”）和词根“accessible”（意为“能够到达或接近”）组成。因此，“不可接近”一词的意思是“无法到达或接近”。"
 },
 {
@@ -8782,12 +8782,12 @@
 {
     "instruction": "使用肯定形式而不是否定形式重写给定的句子。",
     "input": "他没有兄弟姐妹。",
-    "output": "他没有兄弟姐妹。"
+    "output": "他有零个兄弟姐妹。"
 },
 {
     "instruction": "生成主题标签以宣传数字营销网络研讨会。",
     "input": "",
-    "output": "#DigitalMarketingWebinar - 解开秘密，开启您的数字化未来！"
+    "output": "#数字营销网络研讨会 - 解开秘密，开启您的数字化未来！"
 },
 {
     "instruction": "引力在太阳系中的作用是什么？",
@@ -8797,7 +8797,7 @@
 {
     "instruction": "将句子“El habla español”翻译成英语。",
     "input": "",
-    "output": "他说 西班牙语。"
+    "output": "He speaks Spanish."
 },
 {
     "instruction": "将下面的两个文本合并为一个文本，该文本应至少 200 字长。",
@@ -8886,8 +8886,8 @@
 },
 {
     "instruction": "编辑以下句子，使其遵循语法约定。",
-    "input": "约翰和我去看电影。",
-    "output": "约翰和我去看电影。"
+    "input": "John and me going to the movies.",
+    "output": "John and I are going to the movies."
 },
 {
     "instruction": "想象一下，你正在结识一位新朋友。自我介绍。",
@@ -8996,8 +8996,8 @@
 },
 {
     "instruction": "编写一个函数来搜索给定数组中的特定数字。",
-    "input": "数组 = [5, 10, 20, 25, 40]\n目标 = 20",
-    "output": "&quot;&quot;&quot;\n此函数在数组中搜索特定数字，如果找到则返回索引。\n\ndef search_array（arr，目标）：\n  对于范围内的我（len（arr））：\n    如果 arr[i] == 目标：\n返回我\n \n  返回-1\n \n# 驱动程序代码\n数组 = [5, 10, 20, 25, 40]\n目标 = 20\nindex = search_array（数组，目标）\n \n如果索引！= -1：\n  print(&quot;在索引处找到的元素&quot;, index)\n别的：\n  print(&quot;没有找到元素&quot;)\n&quot;&quot;&quot;"
+    "input": "array = [5, 10, 20, 25, 40]\ntarget = 20",
+    "output": "\"\"\"\n此函数在数组中搜索特定数字，如果找到则返回索引。\n\ndef search_array(arr, target): \n  for i in range(len(arr)): \n    if arr[i] == target: \n\t  return i\n \n  return -1\n \n# Driver code \narray = [5, 10, 20, 25, 40] \ntarget = 20\nindex = search_array(array, target) \n \nif index != -1: \n  print(\"Element found at index\", index) \nelse: \n  print(\"Element not found\") \n\"\"\""
 },
 {
     "instruction": "给定一篇新闻文章，提取重要事实。",
@@ -9007,12 +9007,12 @@
 {
     "instruction": "编写一段代码，在不使用 * 运算符的情况下将两个数字相乘。",
     "input": "7, 9",
-    "output": "&quot;&quot;&quot;\n此方法接受两个数字并将它们相乘而不使用 * 运算符。\n\ndef multiply(num1, num2):\n    如果（num2 == 0）：\n        返回 0\n    如果（num2 &gt; 0）：\n        返回（num1 +乘法（num1，num2-1））\n    如果（num2 &lt; 0）：\n        返回 -(num1 + multiply(num1, -num2-1))\n\n如果 __name__ == &quot;__main__&quot;：\n    数字 1 = 7\n    数字 2 = 9\n    结果=乘法（num1，num2）\n    打印（结果）\n&quot;&quot;&quot;"
+    "output": "\"\"\"\n此方法接受两个数字并将它们相乘而不使用 * 运算符。\n\ndef multiply(num1, num2): \n    if(num2 == 0): \n        return 0\n    if(num2 > 0): \n        return (num1 + multiply(num1, num2-1)) \n    if(num2 < 0): \n        return -(num1 + multiply(num1, -num2-1)) \n\nif __name__ == \"__main__\":\n    num1 = 7\n    num2 = 9\n    result = multiply(num1, num2)\n    print(result)\n\"\"\""
 },
 {
     "instruction": "给定一种编程语言，生成一个“Hello World”程序。",
-    "input": "爪哇",
-    "output": "//这个Java程序打印“Hello World\n公共课 HelloWorld {\n   public static void main(String[] args) {\n      System.out.println(&quot;你好世界&quot;);\n   }\n}"
+    "input": "Java",
+    "output": "//这个Java程序打印“Hello World\npublic class HelloWorld {\n   public static void main(String[] args) {\n      System.out.println(\"Hello World\");\n   }\n}"
 },
 {
     "instruction": "解释什么是 AGI 及其含义？",
@@ -9036,8 +9036,8 @@
 },
 {
     "instruction": "构造满足语句的布尔表达式",
-    "input": "x + y &gt; 5",
-    "output": "x + y &gt; 5"
+    "input": "x + y > 5",
+    "output": "x + y > 5"
 },
 {
     "instruction": "举一个使用“机器学习”技术的应用例子",
@@ -9227,7 +9227,7 @@
 {
     "instruction": "编写一个函数，接受两个字符串，如果一个是另一个的子字符串，则返回 True。",
     "input": "“你好”和“世界”",
-    "output": "def is_substring(s1, s2):\n    如果 s2 中的 s1 或 s1 中的 s2：\n        返回真\n    别的：\n        返回假"
+    "output": "def is_substring(s1, s2): \n    if s1 in s2 or s2 in s1: \n        return True\n    else: \n        return False"
 },
 {
     "instruction": "计算方程 x^2+2x+2=0 的判别式。",
@@ -9297,7 +9297,7 @@
 {
     "instruction": "解释“毕达哥拉斯定理”的概念。",
     "input": "",
-    "output": "勾股定理是用于计算直角三角形的边和角的方程式。该定理指出，直角三角形各边长度的平方等于其两条短边长度的平方和。换句话说，a2 + b2 = c2，其中 a 和 b 是两条较短边的长度，c 是斜边的长度。"
+    "output": "毕达哥拉斯定理是用于计算直角三角形的边和角的方程式。该定理指出，直角三角形各边长度的平方等于其两条短边长度的平方和。换句话说，a2 + b2 = c2，其中 a 和 b 是两条较短边的长度，c 是斜边的长度。"
 },
 {
     "instruction": "构建查询以从包含特定值的数据集中检索所有记录。",
@@ -9717,7 +9717,7 @@
 {
     "instruction": "找一首描述悲伤的歌",
     "input": "",
-    "output": "一首描述悲伤的流行歌曲是席琳·迪翁 (Celine Dion) 的《All by Myself》。这是关于一个人努力摆脱失去的关系并希望得到无条件的爱。包括“All by myself, don&#39;t want to be all by myself, anymore”在内的歌词反映了孤独和悲伤。"
+    "output": "一首描述悲伤的流行歌曲是席琳·迪翁 (Celine Dion) 的《All by Myself》。这是关于一个人努力摆脱失去的关系并希望得到无条件的爱。包括“All by myself, don't want to be all by myself, anymore”在内的歌词反映了孤独和悲伤。"
 },
 {
     "instruction": "“业力”的概念是什么",
@@ -9732,7 +9732,7 @@
 {
     "instruction": "为给定的数据集训练 SVM 模型。",
     "input": "",
-    "output": "将 numpy 导入为 np\n从 sklearn.svm 导入 SVC\n\n# 加载数据集\nX = np.load(&#39;data/X.npy&#39;)\ny = np.load(&#39;data/y.npy&#39;)\n\n# 训练模型\nclf = SVC()\nclf.fit(X, y)"
+    "output": "import numpy as np\nfrom sklearn.svm import SVC\n\n# Load the dataset\nX = np.load('data/X.npy')\ny = np.load('data/y.npy')\n\n# Train the model \nclf = SVC()\nclf.fit(X, y)"
 },
 {
     "instruction": "根据以下句子的上下文，使用 GPT-3 模型生成一个故事。",
@@ -9742,7 +9742,7 @@
 {
     "instruction": "构造一个正则表达式来匹配包含“cat”或“dog”的字符串。",
     "input": "",
-    "output": "^(猫|狗).*$"
+    "output": "^(cat|dog).*$"
 },
 {
     "instruction": "给定一个句子和一组单词，获取句子中单词的同义词。",
@@ -9771,8 +9771,8 @@
 },
 {
     "instruction": "给定以下句子，识别并输出其中的副词。",
-    "input": "他弹得一手好钢琴。",
-    "output": "漂亮地"
+    "input": "他的钢琴弹得非常好。",
+    "output": "非常好"
 },
 {
     "instruction": "描述使用项目管理软件的优点和缺点。",
@@ -9816,8 +9816,8 @@
 },
 {
     "instruction": "用任何编程语言开发一个简单的程序，它将两个数字作为输入并输出其中最大的一个。",
-    "input": "数字 1 = 30\n数字 2 = 50",
-    "output": "# 求两个数中最大者的Python程序\n\nnum1 = 30\n数字 2 = 50\n\n# 条件运算符\n如果（num1 &gt; num2）：\nprint(num1, &quot;最大&quot;)\n别的：\nprint(num2, &quot;最大&quot;)"
+    "input": "Number 1 = 30\nNumber 2 = 50",
+    "output": "# 求两个数中最大者的Python程序\n\nnum1 = 30\nnum2 = 50 \n\n# conditional operator \nif (num1 > num2): \n\tprint(num1, \"is maximum\") \nelse: \n\tprint(num2, \"is maximum\")"
 },
 {
     "instruction": "解释从唐纳德特朗普政府到乔拜登政府在外交关系方面的变化。",
@@ -9837,7 +9837,7 @@
 {
     "instruction": "在 Illustrator 中创建一个描绘正在投篮的篮球的 GIF。",
     "input": "",
-    "output": "&lt;篮球投篮动图&gt;"
+    "output": "<篮球投篮动图>"
 },
 {
     "instruction": "区分情绪和语气。",
@@ -10020,9 +10020,9 @@
     "output": "这是一次不可思议的经历。"
 },
 {
-    "instruction": "为单词“amazing”生成几个同义词。",
+    "instruction": "为单词“惊人的”生成几个同义词。",
     "input": "",
-    "output": "惊人的，壮观的。"
+    "output": "令人惊奇的，壮观的。"
 },
 {
     "instruction": "在字典中找到一个拼写正确且与给定单词具有相同含义的单词。",
@@ -10422,7 +10422,7 @@
 {
     "instruction": "编写一个将十进制数转换为二进制数的函数。",
     "input": "",
-    "output": "def convert_to_binary(num):\n  binary_num = bin(num)\n  返回 binary_num[2:]"
+    "output": "def convert_to_binary(num):\n  binary_num = bin(num)\n  return binary_num[2:]"
 },
 {
     "instruction": "创建一个流程图来说明报税的过程。",
@@ -10442,12 +10442,12 @@
 {
     "instruction": "编写一个 C++ 程序来反转数组的元素。",
     "input": "",
-    "output": "#include &lt;iostream&gt;\n使用命名空间标准；\n\n// 反转数组元素的函数\nvoid reverseArray(int arr[], int start, int end)\n{\n    而（开始 &lt; 结束）\n    {\n        int temp = arr[开始];\n        arr[开始] = arr[结束];\n        arr [结束] = 温度；\n        开始++；\n        结尾 - ;\n    }\n}\n  \n主函数()\n{\n    int arr[] = {1,2,3,4,5};\n  \n    //反转元素\n    reverseArray(arr, 0, 4);\n  \n    //打印反转数组\n    对于 (int i=0; i&lt;5; i++)\n        cout &lt;&lt; arr[i] &lt;&lt; &quot; &quot;;\n  \n    返回 0；\n}"
+    "output": "#include <iostream>\nusing namespace std;\n\n// Function to reverse the elements of an array \nvoid reverseArray(int arr[], int start, int end) \n{ \n    while (start < end) \n    { \n        int temp = arr[start];  \n        arr[start] = arr[end]; \n        arr[end] = temp; \n        start++; \n        end--; \n    }  \n} \n  \nint main() \n{ \n    int arr[] = {1,2,3,4,5}; \n  \n    // reverse the elements \n    reverseArray(arr, 0, 4); \n  \n    // print the reversed array \n    for (int i=0; i<5; i++) \n        cout << arr[i] << \" \"; \n  \n    return 0; \n}"
 },
 {
     "instruction": "编写 SQL 查询以查找最老的客户。",
     "input": "",
-    "output": "选择 first_name，last_name，MAX（date_of_birth）\n来自客户\n按名字、姓氏分组；"
+    "output": "SELECT first_name, last_name, MAX(date_of_birth) \nFROM customers \nGROUP BY first_name, last_name;"
 },
 {
     "instruction": "使用此数据训练模型。",
@@ -10687,7 +10687,7 @@
 {
     "instruction": "写一段C++代码",
     "input": "",
-    "output": "#include &lt;iostream&gt;\n \n主函数()\n{\n    std::cout &lt;&lt; &quot;你好，世界！&quot; &lt;&lt; 标准::结束;\n    返回 0；\n}"
+    "output": "#include <iostream>\n \nint main()\n{\n    std::cout << \"Hello, World!\" << std::endl;\n    return 0;\n}"
 },
 {
     "instruction": "描述美国的投票过程",
@@ -10832,7 +10832,7 @@
 {
     "instruction": "选择三个互为同义词的词。",
     "input": "",
-    "output": "热心、热心、热心。"
+    "output": "急切地、热情的、热心的。"
 },
 {
     "instruction": "为什么保持开放的心态很重要？",
@@ -11005,7 +11005,7 @@
     "output": "五种意大利奶酪是 Parmigiano Reggiano、Grana Padano、Pecorino Romano、Gorgonzola 和 Mozzarella。"
 },
 {
-    "instruction": "编辑句子使其成为陈述句：“it is known”。",
+    "instruction": "编辑句子使其成为陈述句：“这是知道的”。",
     "input": "",
     "output": "这是众所周知的。"
 },
@@ -11427,7 +11427,7 @@
 {
     "instruction": "编写一个 SQL 查询，返回花费总额排名前 10 位的客户",
     "input": "",
-    "output": "选择 customer_id, SUM(amount) AS total_spent\nFROM订单\n按 customer_id 分组\nORDER BY total_spent 降序\n限制 10；"
+    "output": "SELECT customer_id, SUM(amount) AS total_spent \nFROM orders \nGROUP BY customer_id \nORDER BY total_spent DESC \nLIMIT 10;"
 },
 {
     "instruction": "制作一份关于过去 10 年全球变暖影响的报告",
@@ -11967,12 +11967,12 @@
 {
     "instruction": "构造一个 SQL 查询以列出“学生”表中男学生的姓名。",
     "input": "",
-    "output": "SELECT name FROM students WHERE gender = &#39;male&#39;;"
+    "output": "SELECT name FROM students WHERE gender = 'male';"
 },
 {
     "instruction": "猜猜下面是什么类型的文字。",
     "input": "从前，有一个小女孩住在一个小村庄里。",
-    "output": "这是一个故事，一个故事。"
+    "output": "这是一个叙述，一个故事。"
 },
 {
     "instruction": "将以下内容转换为有效的 URL 格式。",
@@ -12312,7 +12312,7 @@
 {
     "instruction": "编写一个 Python 程序来查找列表中的最大数字。",
     "input": "工作表 1 = [1, 5, 10, 3, 9]",
-    "output": "#查找列表中的最大值\n列表 1 = [1, 5, 10, 3, 9]\n最大数量 = 0\n对于列表 1 中的数字：\n    如果 num &gt; max_num：\n        最大数量 = 数量\nprint(&#39;列表中的最大数是&#39;, max_num)"
+    "output": "#查找列表中的最大值\nlist1 = [1, 5, 10, 3, 9]\nmax_num = 0\nfor num in list1:\n    if num > max_num:\n        max_num = num\nprint('Maximum number in the list is', max_num)"
 },
 {
     "instruction": "编辑文本以修复任何语法错误。",
@@ -12326,13 +12326,13 @@
 },
 {
     "instruction": "创建一个 Python 程序来查找数字的除数。",
-    "input": "数量：24",
-    "output": "#求一个数的约数\n\n数 = 24\n\n除数 = []\n\n对于我在范围内（1，数字 + 1）：\n    如果（num % i == 0）：\n        除数.append(i)\n\nprint(&quot;{} 的除数是 {}&quot;.format(num, divisors))"
+    "input": "Number: 24",
+    "output": "#求一个数的约数\n\nnnum = 24\n\ndivisors = []\n\nfor i in range(1, num+1):\n    if (num % i == 0):\n        divisors.append(i)\n\nprint(\"The divisors of {} are {}\".format(num, divisors))"
 },
 {
     "instruction": "生成一首使用“天空”、“山”和“傍晚”等词的俳句。",
     "input": "",
-    "output": "天是蓝的\n作为山顶对\n宁静的夜晚。"
+    "output": "天是蓝的\n作为山顶对\n宁静的傍晚。"
 },
 {
     "instruction": "在钢琴上找一个 C 大调七和弦的例子。",
@@ -12455,7 +12455,7 @@
     "output": "DNA 复制是细胞精确复制其遗传物质，从而将其特征遗传给下一代的过程。复制过程从 DNA 螺旋的解旋和两条链的分离开始。双螺旋被破坏，每条母链充当新子链产生的模板。在此过程中，新核苷酸以正确的顺序组装并与模板链互补。一旦新链被创造出来，双螺旋就会重新形成，整个过程就完成了。"
 },
 {
-    "instruction": "从以下单词中选出奇数：pottery、pastry、jewelry、carpenter。",
+    "instruction": "从以下单词中选出奇数：陶器、糕点、珠宝、木匠。",
     "input": "",
     "output": "木匠"
 },
@@ -12465,12 +12465,12 @@
     "output": "ARM 处理器是一种先进的精简指令集计算机 (RISC) 技术，用于手机、平板电脑和其他便携式电子设备。它是一种处理器架构，以相对较低的功耗提供高性能计算能力。另一方面，RISC 处理器比 ARM 处理器更简单，但通常提供更高的计算能力和能效。它们主要存在于台式机、笔记本电脑和其他非移动应用程序中。 ARM 和 RISC 处理器之间的主要区别在于它们可以处理的指令数量和它们消耗的电量。 ARM 处理器能够处理比 RISC 处理器更多的指令，同时比 RISC 处理器消耗更少的功率。"
 },
 {
-    "instruction": "识别句子中的独立子句：The boy went to the store, and he bought an ice cream.",
+    "instruction": "识别句子中的独立子句：这个男孩去了商店，他买了一个冰激凌。",
     "input": "",
-    "output": "男孩去了商店。"
+    "output": "这个男孩去了商店。"
 },
 {
-    "instruction": "检测以下句子中的错别字：我喜欢烤蛋糕。",
+    "instruction": "检测以下句子中的错别字：我喜欢考蛋糕。",
     "input": "",
     "output": "我喜欢烤蛋糕。"
 },
@@ -12596,7 +12596,7 @@
 },
 {
     "instruction": "根据给定的品牌名称设计徽标。",
-    "input": "云清水",
+    "input": "Cloud Clearwater",
     "output": "Cloud Clearwater 的徽标设计可能包括风格化的云形插图和以现代字体书写的品牌名称。插图应该轻盈通风，混合了蓝色和白色。徽标设计应针对数字和印刷应用程序进行优化。"
 },
 {
@@ -12637,7 +12637,7 @@
 {
     "instruction": "编写代码以使用星号显示三角形",
     "input": "",
-    "output": "对于 (int i = 0; i &lt; n; i++)\n{\n   对于 (int j = 0; j &lt; i+1; j++)\n    {\n       cout &lt;&lt; &quot;* &quot;;\n    }\n    cout &lt;&lt; &quot;\\n&quot;;\n}"
+    "output": "for (int i = 0; i < n; i++)\n{\n   for (int j = 0; j < i+1; j++)\n    {\n       cout << \"* \";\n    }\n    cout << \"\\n\";\n}"
 },
 {
     "instruction": "解释名为“智能恒温器”的 AI 应用程序",
@@ -12647,7 +12647,7 @@
 {
     "instruction": "生成一个助记词来记住一组特定的秘籍",
     "input": "秘籍：DKPT/右，DKPT/左，DKPT/上，DKPT/下",
-    "output": "DKPT -&gt; 方向键同时按下：右、左、上、下。"
+    "output": "DKPT -> 方向键同时按下：右、左、上、下。"
 },
 {
     "instruction": "确定给定艺术作品的三个方面。",
@@ -12902,7 +12902,7 @@
 {
     "instruction": "创建一个查找数组中最大元素的程序",
     "input": "[2, 4, 6, 8, 10]",
-    "output": "&quot;&quot;&quot;\n编写程序找出数组中最大的元素\n&quot;&quot;&quot;\n\n定义最大元素（arr）：\n    最大元素 = arr[0]\n    \n    对于 arr 中的元素：\n        如果元素 &gt; 最大元素：\n            最大元素 = 元素\n            \n    返回最大元素\n\n如果 __name__ == &#39;__main__&#39;:\n    arr = [2,4,6,8,10]\n    print(&#39;数组中最大的元素是&#39;, largest_element(arr))"
+    "output": "\"\"\"\n编写程序找出数组中最大的元素\n\"\"\"\n\ndef largest_element(arr):\n    max_element = arr[0]\n    \n    for element in arr:\n        if element > max_element:\n            max_element = element\n            \n    return max_element\n\nif __name__ == '__main__':\n    arr = [2,4,6,8,10]\n    print('The largest element in the array is ', largest_element(arr))"
 },
 {
     "instruction": "总结学术文章《人工智能与工作的未来》。",
@@ -13082,7 +13082,7 @@
 {
     "instruction": "使用 Java 创建一段代码，它会生成一个 0 到 10 之间的随机数。",
     "input": "",
-    "output": "随机 random = new Random();\nint randomNumber = random.nextInt(11); // 生成一个介于 0 和 10 之间的随机数。"
+    "output": "Random random = new Random();\nint randomNumber = random.nextInt(11); // 生成一个介于 0 和 10 之间的随机数。"
 },
 {
     "instruction": "给定一个食谱，编辑说明使其成为素食主义者。",
@@ -13627,7 +13627,7 @@
 {
     "instruction": "使用 Python 创建一个程序，可以预测给定文本的语言。",
     "input": "这是一个法语句子",
-    "output": "导入 nltk\n从 nltk 导入 word_tokenize\n\n#将文本拆分为单词\nwords = word_tokenize(文本)\n\n#初始化停用词列表\n停用词 = nltk.corpus.stopwords.words(&quot;法语&quot;)\n\n#迭代每个单词并确定它是否是法语单词\nn_french = 0\n逐字逐句：\n    如果 word.lower() 在停用词中：\n        n_french += 1\n\n#计算法语单词占总单词的百分比\n总计 = len（单词）\nfrench_percentage = n_french/总计\n\n#如果法语词汇量大于50%，我们可以预测文本是法语\n如果 french_percentage &gt; 0.5：\n    print(&quot;文本是法语&quot;)\n别的：\n    print(&quot;文本不是法语&quot;)"
+    "output": "import nltk\nfrom nltk import word_tokenize\n\n#Split the text into words\nwords = word_tokenize(text)\n\n#Initialize the stopwords list\nstopwords = nltk.corpus.stopwords.words(\"french\")\n\n#Iterate over each word and determine if it is a French word\nn_french = 0\nfor word in words:\n    if word.lower() in stopwords:\n        n_french += 1\n\n#Calculate the percentage of French words to total words\ntotal = len(words)\nfrench_percentage = n_french/total\n\n#If French vocabulary is greater than 50%, we can predict that the text is French\nif french_percentage > 0.5:\n    print(\"The text is French\")\nelse:\n    print(\"The text is not French\")"
 },
 {
     "instruction": "描述一个能够检测推文中仇恨言论的系统。",
@@ -13636,7 +13636,7 @@
 },
 {
     "instruction": "确定该计划实施的三个问题。",
-    "input": "def函数（输入）：\n  如果（输入 == 0）：\n    返回 0\n  别的：\n    对于我在范围内（输入）：\n      返回我",
+    "input": "def function(input):\n  if (input == 0):\n    return 0\n  else:\n    for i in range(input):\n      return i",
     "output": "1. 程序缺少一个输入参数——函数被定义为接受一个参数，但没有提供。\n2. 设置为返回输入的每个索引的循环无法正常工作 - 循环只运行一次，因此只返回 0。\n3. 函数应该返回一个列表，而不是单个值——程序只返回循环中的第一个项目，而它应该返回一个包含在循环中运行的所有索引的列表。 return 语句应更改为包含循环中所有索引的返回列表。"
 },
 {
@@ -13796,8 +13796,8 @@
 },
 {
     "instruction": "编写一个 Python 程序来反转以下列表。",
-    "input": "列表 = [1,3,5,7,9]",
-    "output": "列表 = [9,7,5,3,1]\n\n# 反转列表的 Python 程序\n\n# 输入列表\nlst = [1,3,5,7,9]\n  \n# 初始化一个空列表以反转元素\nreverse_lst = []\n  \n# 遍历列表\n对于我在范围内（len（lst）-1，-1，-1）：\n    reverse_lst.append（lst[i]）\n  \n# 打印反转列表\n打印（reverse_lst）"
+    "input": "list = [1,3,5,7,9]",
+    "output": "list = [9,7,5,3,1]\n\n# 反转列表的 Python 程序\n\n# 输入列表\nlst = [1,3,5,7,9]\n  \n# 初始化一个空列表以反转元素\nreverse_lst = []\n  \n# 遍历列表\nfor i in range(len(lst)-1,-1,-1): \n    reverse_lst.append(lst[i]) \n  \n#  打印反转列表\nprint(reverse_lst)"
 },
 {
     "instruction": "使用专有名词创建 10 个示例句子。",
@@ -13857,7 +13857,7 @@
 {
     "instruction": "生成有效的 HTML 标记",
     "input": "",
-    "output": "&lt;img src=&quot;图片.jpg&quot;&gt;"
+    "output": "<img src=\"image.jpg\">"
 },
 {
     "instruction": "为有关旅行优势的博客文章建议标题",
@@ -13921,8 +13921,8 @@
 },
 {
     "instruction": "编写一个 Python 代码片段来确定给定数字是偶数还是奇数。",
-    "input": "输入 = 13",
-    "output": "如果输入 % 2 == 0:\n    print(&#39;数字是偶数&#39;)\n别的：\n    print(&#39;这个数字是奇数&#39;)"
+    "input": "inp = 13",
+    "output": "if inp % 2 == 0:\n    print('The number is even')\nelse:\n    print('The number is odd')"
 },
 {
     "instruction": "列出五项符合轻体力活动条件的活动。",
@@ -13936,7 +13936,7 @@
 },
 {
     "instruction": "解释为什么下面的代码会产生错误。",
-    "input": "打印（一）",
+    "input": "print(a)",
     "output": "该代码会产生错误，因为之前未定义变量“a”。变量必须先定义，然后才能在程序中使用。"
 },
 {
@@ -13991,7 +13991,7 @@
 },
 {
     "instruction": "假装你是老师。用两句话解释什么是学习计划。",
-    "input": "&lt;无输入&gt;",
+    "input": "<无输入>",
     "output": "学习计划是一种结构化的学习方法，它概述目标、获取资源并制定实现目标的策略。它帮助教师为学生设定目标，选择合适的教学材料和活动，并为学生的成功做好准备。"
 },
 {
@@ -14341,7 +14341,7 @@
 },
 {
     "instruction": "构建用于存储书籍的数据库设计。",
-    "input": "&lt;无输入&gt;",
+    "input": "<无输入>",
     "output": "在数据库中存储书籍所需的表是 Books、Authors、Publishers 和 Books_Authors。 Books 表将包含标题、ISBN、语言、版本、出版商 ID 和出版日期的列。 Authors 表将包含他们的 ID、姓名和传记的列。 Publishers 表将包含其 ID 和名称的列。 Books_Authors 表将包含 ISBN 和作者 ID 列。该表对于链接 Books 和 Authors 表是必需的。"
 },
 {
@@ -14407,7 +14407,7 @@
 {
     "instruction": "编写代码将数字按升序排序",
     "input": "",
-    "output": "def sortAscending(nums):\n    #循环遍历给定的列表\n    对于范围内的我（len（nums））：\n        #循环遍历每个项目的列表\n        对于范围内的 j（i+1，len（nums））：\n            #如果任何项目大于该索引处的项目，\n            #交换位置\n            如果 nums[i] &gt; nums[j] ：\n                nums[i], nums[j] = nums[j], nums[i]\n  \n    #返回排序后的列表\n    返回数字"
+    "output": "def sortAscending(nums):\n    #循环遍历给定的列表\n    for i in range(len(nums)):\n        #循环遍历每个项目的列表\n        for j in range(i+1, len(nums)):\n            #如果任何项目大于该索引处的项目，\n            #交换位置\n            if nums[i] > nums[j] : \n                nums[i], nums[j] = nums[j], nums[i] \n  \n    #返回排序后的列表\n    return nums"
 },
 {
     "instruction": "列出在医疗诊断中使用 AI 的三个优势。",
@@ -14517,7 +14517,7 @@
 {
     "instruction": "生成代码片段以显示当前日期和时间。",
     "input": "",
-    "output": "从日期时间导入日期时间\n \n然后 = datetime.now()\n打印（然后）"
+    "output": "from datetime import datetime\n \nthen = datetime.now()\nprint(then)"
 },
 {
     "instruction": "解释为什么区块链系统是安全的。",
@@ -14527,7 +14527,7 @@
 {
     "instruction": "用 Ruby 编写一个基本的“Hello World”程序。",
     "input": "",
-    "output": "放“你好世界！”"
+    "output": "puts \"Hello World!\""
 },
 {
     "instruction": "什么是云计算平台？",
@@ -14542,22 +14542,22 @@
 {
     "instruction": "生成代码以获取用户输入并打印它。",
     "input": "",
-    "output": "# 获取用户输入\nuser_input = input(&quot;请输入内容：&quot;)\n\n# 打印输入\nprint(&quot;你输入了：&quot; + user_input)"
+    "output": "# 获取用户输入\nuser_input = input(\"Please enter something: \")\n\n# 打印输入\nprint(\"You entered: \" + user_input)"
 },
 {
     "instruction": "创建一个包含 5 个项目的字典，键是数字，值是字符串。",
     "input": "",
-    "output": "我的字典 = {\n    1：“一个”，\n    2：“乙”，\n    3：“c”，\n    4：“d”，\n    5：“电子”\n}"
+    "output": "my_dict = {\n    1: \"a\",\n    2: \"b\",\n    3: \"c\",\n    4: \"d\",\n    5: \"e\"\n}"
 },
 {
     "instruction": "编写程序以大写形式输出给定的字符串",
-    "input": "字符串：你好世界",
-    "output": "# 获取用户输入\nuser_string = input(&quot;请输入字符串：&quot;)\n\n# 以大写形式打印输入\nprint(user_string.upper()) # 输出：HELLO WORLD"
+    "input": "String: Hello World",
+    "output": "# 获取用户输入\nuser_string = input(\"Please enter a string: \")\n\n# 以大写形式打印输入\nprint(user_string.upper()) # 输出：HELLO WORLD"
 },
 {
     "instruction": "生成代码片段以打印列表的所有元素。",
     "input": "",
-    "output": "# 获取用户输入\nmy_list = [&quot;狗&quot;, &quot;猫&quot;, &quot;老鼠&quot;, &quot;马&quot;]\n\n# 遍历列表并打印所有元素\n对于 my_list 中的元素：\n    打印（元素）"
+    "output": "# 获取用户输入\nmy_list = [\"Dog\", \"Cat\", \"Mouse\", \"Horse\"]\n\n# 遍历列表并打印所有元素\nfor element in my_list:\n    print (element)"
 },
 {
     "instruction": "为在线购物应用程序生成用户界面。",
@@ -14592,7 +14592,7 @@
 {
     "instruction": "编写一个伪代码，可以检测给定的句子是肯定的还是否定的。",
     "input": "",
-    "output": "func sentimentAnalysis（句子）：\n  // 初始化情绪分数\n  情绪评分 = 0\n\n  // 将句子拆分为单词\n  单词 = sentence.split(&#39; &#39;)\n\n  // 遍历每个单词\n  字里行间\n    // 检查单词是否在情感词典中\n    sentimentValue = checkSentimentDictionary（单词）\n\n    // 计算情感分数\n    sentimentScore = sentimentScore + sentimentValue\n\n  // 返回情绪分数\n  返回情绪评分"
+    "output": "func sentimentAnalysis（句子）：\n  // 初始化情绪分数\n  sentimentScore = 0\n\n  // 将句子拆分为单词\n  words = sentence.split(' ')\n\n  // 遍历每个单词\n  for word in words\n    // 检查单词是否在情感词典中\n    sentimentValue = checkSentimentDictionary（word）\n\n    // 计算情感分数\n    sentimentScore = sentimentScore + sentimentValue\n\n  // 返回情绪分数\n  return sentimentScore"
 },
 {
     "instruction": "为一个关于友谊的力量的故事生成三个备用标题。",
@@ -14702,7 +14702,7 @@
 {
     "instruction": "生成一个 C++ 程序来查找给定数组的最小值和最大值",
     "input": "",
-    "output": "#include &lt;iostream&gt;\n#include &lt;算法&gt;\n\n诠释主要（）{\n  int arr[] = {1, 2, 4, 8, 16};\n\n  int n = sizeof(arr) / sizeof(arr[0]);\n  int min = *std::min_element(arr, arr + n);\n  int max = *std::max_element(arr, arr + n);\n\n  std::cout &lt;&lt; &quot;最小值：&quot; &lt;&lt; min &lt;&lt; &quot;\\n&quot;;\n  std::cout &lt;&lt; &quot;最大值：&quot; &lt;&lt; 最大值 &lt;&lt; &quot;\\n&quot;;\n\n  返回 0；\n}"
+    "output": "#include <iostream>\n#include <algorithm>\n\nint main() {\n  int arr[] = {1, 2, 4, 8, 16};\n\n  int n = sizeof(arr) / sizeof(arr[0]);\n  int min = *std::min_element(arr, arr + n); \n  int max = *std::max_element(arr, arr + n); \n\n  std::cout << \"Minimum: \" << min << \"\\n\";\n  std::cout << \"Maximum: \" << max << \"\\n\";\n\n  return 0;\n}"
 },
 {
     "instruction": "撰写一篇 500 字的文章，讨论转基因食品的利弊",
@@ -14717,12 +14717,12 @@
 {
     "instruction": "编写 SQL 查询",
     "input": "在数据库中查找价格超过 100 美元的所有产品",
-    "output": "选择 *\n来自产品\n其中价格 &gt; 100；"
+    "output": "SELECT * \nFROM Products \nWHERE price > 100;"
 },
 {
     "instruction": "在 Python 中创建一个程序来对给定的数据集进行分类",
     "input": "",
-    "output": "将熊猫导入为 pd\n\n# 加载数据集\ndataset = pd.read_csv(&#39;dataset.csv&#39;)\n\n# 将数据分成输入和输出字段\nX = 数据集.iloc[:, :-1].values\ny = dataset.iloc[:, -1].values\n\n# 将数据集拆分为训练集和测试集\n从 sklearn.model_selection 导入 train_test_split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)\n\n# 计算模型的参数\n从 sklearn.linear_model 导入 LogisticRegression\n分类器 = LogisticRegression()\n分类器.fit(X_train, y_train)\n\n# 预测测试集\ny_pred = 分类器.predict(X_test)\n\n# 评估结果\n从 sklearn.metrics 导入 accuracy_score\n分数 = accuracy_score(y_test, y_pred)\nprint(&quot;准确度得分为：&quot; + str(score))"
+    "output": "import pandas as pd \n\n# Load the dataset \ndataset = pd.read_csv('dataset.csv')\n\n# Separate the data into input and output fields \nX = dataset.iloc[:, :-1].values\ny = dataset.iloc[:, -1].values\n\n# Split the dataset into training and test sets \nfrom sklearn.model_selection import train_test_split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)\n\n# Calculate the parameters of the model \nfrom sklearn.linear_model import LogisticRegression\nclassifier = LogisticRegression()\nclassifier.fit(X_train, y_train)\n\n# Predict the test set \ny_pred = classifier.predict(X_test)\n\n# Evaluate the results \nfrom sklearn.metrics import accuracy_score\nscore = accuracy_score(y_test, y_pred)\nprint(\"The accuracy score is: \" + str(score))"
 },
 {
     "instruction": "用一句话总结该段的内容。",
