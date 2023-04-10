@@ -27,7 +27,7 @@ Update on 0327: We feel that the Alpaca dataset has too many English-style expre
 
 ## 进展说明 20230410
 
-感谢西湖心辰公司赞助了a100显卡的算力，我们得以继续开展研究。
+感谢好心人赞助了a100显卡的算力，我们得以继续开展研究。
 
 目前我们研究的内容主要是：
 
