@@ -25,6 +25,20 @@ This dataset may not be translated into Chinese at all, we may skip over it. The
 
 Update on 0327: We feel that the Alpaca dataset has too many English-style expressions, so after manually translating these six parts, we will no longer translate it and turn to create our own dataset.
 
+## 进展说明 20230410
+
+感谢好心人赞助了a100显卡的算力，我们得以继续开展研究。
+
+目前我们研究的内容主要是：
+
+1、研究基于lora解决chatglm中部分代码生成任务的“中文化”问题。（如 a[input] > b，有时候它会写成 a[输入] 大于 b ）
+
+2、无监督数据灌入模型+有监督微调，使得模型具备某个领域的专业能力的策略。（此研究的数据来源于中文论文，可能存在版权问题，数据集我们暂时先不公开，等我们找到了可公开的中文论文数据，再公开数据集。）
+
+3、研究解决lora后翻译能力消失的问题
+
+4、解决issue
+
 ## chatglm微调成功 20230327
 
 我们基于lora方案在colab上微调成功了，成功的文件已经传到本项目中了，我们发现了三点暂时性结论：
