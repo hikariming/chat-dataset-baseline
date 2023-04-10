@@ -31,8 +31,11 @@ Update on 0327: We feel that the Alpaca dataset has too many English-style expre
 
 目前我们研究的内容主要是：
 1、用lora看如何解决chatglm中部分代码生成任务的“中文化”问题。（如 a[input] > b，有时候它会写成 a[输入] 大于 b ）
+
 2、无监督数据灌入模型+有监督微调，使得模型具备某个领域的专业能力。但这一点的数据主要来源于各种中文论文，可能存在版权问题，所以数据集我们可能暂时先不公开，等我们找到了可公开的中文论文数据，再公开数据集。
+
 3、解决lora后翻译能力消失的问题
+
 4、解决大家各种issue
 
 ## chatglm微调成功 20230327
