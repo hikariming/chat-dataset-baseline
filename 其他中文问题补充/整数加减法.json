@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "91-33=",
+        "input": "",
+        "output": "91-33=58"
+    },
+    {
+        "instruction": "78+48=",
+        "input": "",
+        "output": "78+48=126"
+    },
+    {
+        "instruction": "52/4=",
+        "input": "",
+        "output": "52/4=13.0"
+    },
+    {
+        "instruction": "89-61=",
+        "input": "",
+        "output": "89-61=28"
+    },
+    {
+        "instruction": "14+6=",
+        "input": "",
+        "output": "14+6=20"
+    },
+    {
+        "instruction": "32-24=",
+        "input": "",
+        "output": "32-24=8"
+    },
+    {
+        "instruction": "11+58=",
+        "input": "",
+        "output": "11+58=69"
+    },
+    {
+        "instruction": "43*38=",
+        "input": "",
+        "output": "43*38=1634"
+    },
+    {
+        "instruction": "35-80=",
+        "input": "",
+        "output": "35-80=-45"
+    },
+    {
+        "instruction": "30-66=",
+        "input": "",
+        "output": "30-66=-36"
+    },
+    {
+        "instruction": "26/46=",
+        "input": "",
+        "output": "26/46=0.57"
+    },
+    {
+        "instruction": "58+19=",
+        "input": "",
+        "output": "58+19=77"
+    },
+    {
+        "instruction": "17-33=",
+        "input": "",
+        "output": "17-33=-16"
+    },
+    {
+        "instruction": "7/15=",
+        "input": "",
+        "output": "7/15=0.47"
+    },
+    {
+        "instruction": "82+19=",
+        "input": "",
+        "output": "82+19=101"
+    },
+    {
+        "instruction": "10/99=",
+        "input": "",
+        "output": "10/99=0.1"
+    },
+    {
+        "instruction": "6-5=",
+        "input": "",
+        "output": "6-5=1"
+    },
+    {
+        "instruction": "77+20=",
+        "input": "",
+        "output": "77+20=97"
+    },
+    {
+        "instruction": "2+38=",
+        "input": "",
+        "output": "2+38=40"
+    },
+    {
+        "instruction": "21-28=",
+        "input": "",
+        "output": "21-28=-7"
+    },
+    {
+        "instruction": "100/58=",
+        "input": "",
+        "output": "100/58=1.72"
+    },
+    {
+        "instruction": "39-93=",
+        "input": "",
+        "output": "39-93=-54"
+    },
+    {
+        "instruction": "64-56=",
+        "input": "",
+        "output": "64-56=8"
+    },
+    {
+        "instruction": "77*73=",
+        "input": "",
+        "output": "77*73=5621"
+    },
+    {
+        "instruction": "46-32=",
+        "input": "",
+        "output": "46-32=14"
+    },
+    {
+        "instruction": "33+20=",
+        "input": "",
+        "output": "33+20=53"
+    },
+    {
+        "instruction": "29*77=",
+        "input": "",
+        "output": "29*77=2233"
+    },
+    {
+        "instruction": "14+100=",
+        "input": "",
+        "output": "14+100=114"
+    },
+    {
+        "instruction": "63-3=",
+        "input": "",
+        "output": "63-3=60"
+    },
+    {
+        "instruction": "21*17=",
+        "input": "",
+        "output": "21*17=357"
+    },
+    {
+        "instruction": "74-48=",
+        "input": "",
+        "output": "74-48=26"
+    },
+    {
+        "instruction": "94+44=",
+        "input": "",
+        "output": "94+44=138"
+    },
+    {
+        "instruction": "7-80=",
+        "input": "",
+        "output": "7-80=-73"
+    },
+    {
+        "instruction": "68-7=",
+        "input": "",
+        "output": "68-7=61"
+    },
+    {
+        "instruction": "40+92=",
+        "input": "",
+        "output": "40+92=132"
+    },
+    {
+        "instruction": "89-44=",
+        "input": "",
+        "output": "89-44=45"
+    },
+    {
+        "instruction": "96*34=",
+        "input": "",
+        "output": "96*34=3264"
+    },
+    {
+        "instruction": "29*68=",
+        "input": "",
+        "output": "29*68=1972"
+    },
+    {
+        "instruction": "61+11=",
+        "input": "",
+        "output": "61+11=72"
+    },
+    {
+        "instruction": "52*60=",
+        "input": "",
+        "output": "52*60=3120"
+    },
+    {
+        "instruction": "58*33=",
+        "input": "",
+        "output": "58*33=1914"
+    },
+    {
+        "instruction": "29*11=",
+        "input": "",
+        "output": "29*11=319"
+    },
+    {
+        "instruction": "54/53=",
+        "input": "",
+        "output": "54/53=1.02"
+    },
+    {
+        "instruction": "72-8=",
+        "input": "",
+        "output": "72-8=64"
+    },
+    {
+        "instruction": "2+12=",
+        "input": "",
+        "output": "2+12=14"
+    },
+    {
+        "instruction": "30+46=",
+        "input": "",
+        "output": "30+46=76"
+    },
+    {
+        "instruction": "87-44=",
+        "input": "",
+        "output": "87-44=43"
+    },
+    {
+        "instruction": "43+78=",
+        "input": "",
+        "output": "43+78=121"
+    },
+    {
+        "instruction": "20-56=",
+        "input": "",
+        "output": "20-56=-36"
+    },
+    {
+        "instruction": "65+31=",
+        "input": "",
+        "output": "65+31=96"
+    },
+    {
+        "instruction": "55*33=",
+        "input": "",
+        "output": "55*33=1815"
+    },
+    {
+        "instruction": "90-94=",
+        "input": "",
+        "output": "90-94=-4"
+    },
+    {
+        "instruction": "24-62=",
+        "input": "",
+        "output": "24-62=-38"
+    },
+    {
+        "instruction": "73+77=",
+        "input": "",
+        "output": "73+77=150"
+    },
+    {
+        "instruction": "91/2=",
+        "input": "",
+        "output": "91/2=45.5"
+    },
+    {
+        "instruction": "84-18=",
+        "input": "",
+        "output": "84-18=66"
+    },
+    {
+        "instruction": "66*81=",
+        "input": "",
+        "output": "66*81=5346"
+    },
+    {
+        "instruction": "64-2=",
+        "input": "",
+        "output": "64-2=62"
+    },
+    {
+        "instruction": "30/38=",
+        "input": "",
+        "output": "30/38=0.79"
+    },
+    {
+        "instruction": "68/3=",
+        "input": "",
+        "output": "68/3=22.67"
+    },
+    {
+        "instruction": "99+24=",
+        "input": "",
+        "output": "99+24=123"
+    },
+    {
+        "instruction": "10+28=",
+        "input": "",
+        "output": "10+28=38"
+    },
+    {
+        "instruction": "51*71=",
+        "input": "",
+        "output": "51*71=3621"
+    },
+    {
+        "instruction": "56-30=",
+        "input": "",
+        "output": "56-30=26"
+    },
+    {
+        "instruction": "43*1=",
+        "input": "",
+        "output": "43*1=43"
+    },
+    {
+        "instruction": "94-57=",
+        "input": "",
+        "output": "94-57=37"
+    },
+    {
+        "instruction": "95-51=",
+        "input": "",
+        "output": "95-51=44"
+    },
+    {
+        "instruction": "35+22=",
+        "input": "",
+        "output": "35+22=57"
+    },
+    {
+        "instruction": "62*54=",
+        "input": "",
+        "output": "62*54=3348"
+    },
+    {
+        "instruction": "52+46=",
+        "input": "",
+        "output": "52+46=98"
+    },
+    {
+        "instruction": "61-41=",
+        "input": "",
+        "output": "61-41=20"
+    },
+    {
+        "instruction": "60*62=",
+        "input": "",
+        "output": "60*62=3720"
+    },
+    {
+        "instruction": "11/7=",
+        "input": "",
+        "output": "11/7=1.57"
+    },
+    {
+        "instruction": "6/87=",
+        "input": "",
+        "output": "6/87=0.07"
+    },
+    {
+        "instruction": "17/86=",
+        "input": "",
+        "output": "17/86=0.2"
+    },
+    {
+        "instruction": "53-50=",
+        "input": "",
+        "output": "53-50=3"
+    },
+    {
+        "instruction": "54+58=",
+        "input": "",
+        "output": "54+58=112"
+    },
+    {
+        "instruction": "48-8=",
+        "input": "",
+        "output": "48-8=40"
+    },
+    {
+        "instruction": "10-93=",
+        "input": "",
+        "output": "10-93=-83"
+    },
+    {
+        "instruction": "4*20=",
+        "input": "",
+        "output": "4*20=80"
+    },
+    {
+        "instruction": "52-60=",
+        "input": "",
+        "output": "52-60=-8"
+    },
+    {
+        "instruction": "78+30=",
+        "input": "",
+        "output": "78+30=108"
+    },
+    {
+        "instruction": "78*57=",
+        "input": "",
+        "output": "78*57=4446"
+    },
+    {
+        "instruction": "75-12=",
+        "input": "",
+        "output": "75-12=63"
+    },
+    {
+        "instruction": "90*81=",
+        "input": "",
+        "output": "90*81=7290"
+    },
+    {
+        "instruction": "33/50=",
+        "input": "",
+        "output": "33/50=0.66"
+    },
+    {
+        "instruction": "61-56=",
+        "input": "",
+        "output": "61-56=5"
+    },
+    {
+        "instruction": "9/85=",
+        "input": "",
+        "output": "9/85=0.11"
+    },
+    {
+        "instruction": "16/68=",
+        "input": "",
+        "output": "16/68=0.24"
+    },
+    {
+        "instruction": "83*91=",
+        "input": "",
+        "output": "83*91=7553"
+    },
+    {
+        "instruction": "74-62=",
+        "input": "",
+        "output": "74-62=12"
+    },
+    {
+        "instruction": "33-50=",
+        "input": "",
+        "output": "33-50=-17"
+    },
+    {
+        "instruction": "60/19=",
+        "input": "",
+        "output": "60/19=3.16"
+    },
+    {
+        "instruction": "64/97=",
+        "input": "",
+        "output": "64/97=0.66"
+    },
+    {
+        "instruction": "23*13=",
+        "input": "",
+        "output": "23*13=299"
+    },
+    {
+        "instruction": "9/3=",
+        "input": "",
+        "output": "9/3=3.0"
+    },
+    {
+        "instruction": "69/55=",
+        "input": "",
+        "output": "69/55=1.25"
+    },
+    {
+        "instruction": "65/17=",
+        "input": "",
+        "output": "65/17=3.82"
+    },
+    {
+        "instruction": "91+43=",
+        "input": "",
+        "output": "91+43=134"
+    },
+    {
+        "instruction": "63*65=",
+        "input": "",
+        "output": "63*65=4095"
+    },
+    {
+        "instruction": "46-47=",
+        "input": "",
+        "output": "46-47=-1"
+    },
+    {
+        "instruction": "10*39=",
+        "input": "",
+        "output": "10*39=390"
+    },
+    {
+        "instruction": "65*69=",
+        "input": "",
+        "output": "65*69=4485"
+    },
+    {
+        "instruction": "96/38=",
+        "input": "",
+        "output": "96/38=2.53"
+    },
+    {
+        "instruction": "79*98=",
+        "input": "",
+        "output": "79*98=7742"
+    },
+    {
+        "instruction": "23/10=",
+        "input": "",
+        "output": "23/10=2.3"
+    },
+    {
+        "instruction": "64/18=",
+        "input": "",
+        "output": "64/18=3.56"
+    },
+    {
+        "instruction": "23/36=",
+        "input": "",
+        "output": "23/36=0.64"
+    },
+    {
+        "instruction": "66+58=",
+        "input": "",
+        "output": "66+58=124"
+    },
+    {
+        "instruction": "9+33=",
+        "input": "",
+        "output": "9+33=42"
+    },
+    {
+        "instruction": "22/95=",
+        "input": "",
+        "output": "22/95=0.23"
+    },
+    {
+        "instruction": "94+51=",
+        "input": "",
+        "output": "94+51=145"
+    },
+    {
+        "instruction": "85-27=",
+        "input": "",
+        "output": "85-27=58"
+    },
+    {
+        "instruction": "49/73=",
+        "input": "",
+        "output": "49/73=0.67"
+    },
+    {
+        "instruction": "33*86=",
+        "input": "",
+        "output": "33*86=2838"
+    },
+    {
+        "instruction": "12-59=",
+        "input": "",
+        "output": "12-59=-47"
+    },
+    {
+        "instruction": "20-64=",
+        "input": "",
+        "output": "20-64=-44"
+    },
+    {
+        "instruction": "98-47=",
+        "input": "",
+        "output": "98-47=51"
+    },
+    {
+        "instruction": "58-81=",
+        "input": "",
+        "output": "58-81=-23"
+    },
+    {
+        "instruction": "16/70=",
+        "input": "",
+        "output": "16/70=0.23"
+    },
+    {
+        "instruction": "50+82=",
+        "input": "",
+        "output": "50+82=132"
+    },
+    {
+        "instruction": "31+92=",
+        "input": "",
+        "output": "31+92=123"
+    },
+    {
+        "instruction": "98/16=",
+        "input": "",
+        "output": "98/16=6.12"
+    },
+    {
+        "instruction": "42-72=",
+        "input": "",
+        "output": "42-72=-30"
+    },
+    {
+        "instruction": "47/46=",
+        "input": "",
+        "output": "47/46=1.02"
+    },
+    {
+        "instruction": "25*34=",
+        "input": "",
+        "output": "25*34=850"
+    },
+    {
+        "instruction": "48/18=",
+        "input": "",
+        "output": "48/18=2.67"
+    },
+    {
+        "instruction": "74*1=",
+        "input": "",
+        "output": "74*1=74"
+    },
+    {
+        "instruction": "39-16=",
+        "input": "",
+        "output": "39-16=23"
+    },
+    {
+        "instruction": "6/5=",
+        "input": "",
+        "output": "6/5=1.2"
+    },
+    {
+        "instruction": "63-52=",
+        "input": "",
+        "output": "63-52=11"
+    },
+    {
+        "instruction": "71/92=",
+        "input": "",
+        "output": "71/92=0.77"
+    },
+    {
+        "instruction": "79-51=",
+        "input": "",
+        "output": "79-51=28"
+    },
+    {
+        "instruction": "3*83=",
+        "input": "",
+        "output": "3*83=249"
+    },
+    {
+        "instruction": "61-81=",
+        "input": "",
+        "output": "61-81=-20"
+    },
+    {
+        "instruction": "2/74=",
+        "input": "",
+        "output": "2/74=0.03"
+    },
+    {
+        "instruction": "29+51=",
+        "input": "",
+        "output": "29+51=80"
+    },
+    {
+        "instruction": "74-96=",
+        "input": "",
+        "output": "74-96=-22"
+    },
+    {
+        "instruction": "95+62=",
+        "input": "",
+        "output": "95+62=157"
+    },
+    {
+        "instruction": "92/13=",
+        "input": "",
+        "output": "92/13=7.08"
+    },
+    {
+        "instruction": "82/35=",
+        "input": "",
+        "output": "82/35=2.34"
+    },
+    {
+        "instruction": "34+77=",
+        "input": "",
+        "output": "34+77=111"
+    },
+    {
+        "instruction": "38+41=",
+        "input": "",
+        "output": "38+41=79"
+    },
+    {
+        "instruction": "13/42=",
+        "input": "",
+        "output": "13/42=0.31"
+    },
+    {
+        "instruction": "17*99=",
+        "input": "",
+        "output": "17*99=1683"
+    },
+    {
+        "instruction": "8+16=",
+        "input": "",
+        "output": "8+16=24"
+    },
+    {
+        "instruction": "7+62=",
+        "input": "",
+        "output": "7+62=69"
+    },
+    {
+        "instruction": "32*96=",
+        "input": "",
+        "output": "32*96=3072"
+    },
+    {
+        "instruction": "67+75=",
+        "input": "",
+        "output": "67+75=142"
+    },
+    {
+        "instruction": "80+28=",
+        "input": "",
+        "output": "80+28=108"
+    },
+    {
+        "instruction": "20+36=",
+        "input": "",
+        "output": "20+36=56"
+    },
+    {
+        "instruction": "94/29=",
+        "input": "",
+        "output": "94/29=3.24"
+    },
+    {
+        "instruction": "38+25=",
+        "input": "",
+        "output": "38+25=63"
+    },
+    {
+        "instruction": "25*87=",
+        "input": "",
+        "output": "25*87=2175"
+    },
+    {
+        "instruction": "100/77=",
+        "input": "",
+        "output": "100/77=1.3"
+    },
+    {
+        "instruction": "23-39=",
+        "input": "",
+        "output": "23-39=-16"
+    },
+    {
+        "instruction": "81-59=",
+        "input": "",
+        "output": "81-59=22"
+    },
+    {
+        "instruction": "75*53=",
+        "input": "",
+        "output": "75*53=3975"
+    },
+    {
+        "instruction": "73*81=",
+        "input": "",
+        "output": "73*81=5913"
+    },
+    {
+        "instruction": "85*6=",
+        "input": "",
+        "output": "85*6=510"
+    },
+    {
+        "instruction": "81+53=",
+        "input": "",
+        "output": "81+53=134"
+    },
+    {
+        "instruction": "17+88=",
+        "input": "",
+        "output": "17+88=105"
+    },
+    {
+        "instruction": "57-40=",
+        "input": "",
+        "output": "57-40=17"
+    },
+    {
+        "instruction": "32-67=",
+        "input": "",
+        "output": "32-67=-35"
+    },
+    {
+        "instruction": "63-63=",
+        "input": "",
+        "output": "63-63=0"
+    },
+    {
+        "instruction": "77-76=",
+        "input": "",
+        "output": "77-76=1"
+    },
+    {
+        "instruction": "54-42=",
+        "input": "",
+        "output": "54-42=12"
+    },
+    {
+        "instruction": "47*60=",
+        "input": "",
+        "output": "47*60=2820"
+    },
+    {
+        "instruction": "58-98=",
+        "input": "",
+        "output": "58-98=-40"
+    },
+    {
+        "instruction": "11-52=",
+        "input": "",
+        "output": "11-52=-41"
+    },
+    {
+        "instruction": "90*18=",
+        "input": "",
+        "output": "90*18=1620"
+    },
+    {
+        "instruction": "2-93=",
+        "input": "",
+        "output": "2-93=-91"
+    },
+    {
+        "instruction": "21/71=",
+        "input": "",
+        "output": "21/71=0.3"
+    },
+    {
+        "instruction": "69-34=",
+        "input": "",
+        "output": "69-34=35"
+    },
+    {
+        "instruction": "43*1=",
+        "input": "",
+        "output": "43*1=43"
+    },
+    {
+        "instruction": "78+15=",
+        "input": "",
+        "output": "78+15=93"
+    },
+    {
+        "instruction": "7-99=",
+        "input": "",
+        "output": "7-99=-92"
+    },
+    {
+        "instruction": "57*78=",
+        "input": "",
+        "output": "57*78=4446"
+    },
+    {
+        "instruction": "49/30=",
+        "input": "",
+        "output": "49/30=1.63"
+    },
+    {
+        "instruction": "38/61=",
+        "input": "",
+        "output": "38/61=0.62"
+    },
+    {
+        "instruction": "95+99=",
+        "input": "",
+        "output": "95+99=194"
+    },
+    {
+        "instruction": "51*28=",
+        "input": "",
+        "output": "51*28=1428"
+    },
+    {
+        "instruction": "16-29=",
+        "input": "",
+        "output": "16-29=-13"
+    },
+    {
+        "instruction": "30/8=",
+        "input": "",
+        "output": "30/8=3.75"
+    },
+    {
+        "instruction": "68-61=",
+        "input": "",
+        "output": "68-61=7"
+    },
+    {
+        "instruction": "54/96=",
+        "input": "",
+        "output": "54/96=0.56"
+    },
+    {
+        "instruction": "61*61=",
+        "input": "",
+        "output": "61*61=3721"
+    },
+    {
+        "instruction": "45/20=",
+        "input": "",
+        "output": "45/20=2.25"
+    },
+    {
+        "instruction": "27+22=",
+        "input": "",
+        "output": "27+22=49"
+    },
+    {
+        "instruction": "82+25=",
+        "input": "",
+        "output": "82+25=107"
+    },
+    {
+        "instruction": "23*49=",
+        "input": "",
+        "output": "23*49=1127"
+    },
+    {
+        "instruction": "36+66=",
+        "input": "",
+        "output": "36+66=102"
+    },
+    {
+        "instruction": "99+42=",
+        "input": "",
+        "output": "99+42=141"
+    },
+    {
+        "instruction": "82/21=",
+        "input": "",
+        "output": "82/21=3.9"
+    },
+    {
+        "instruction": "31*76=",
+        "input": "",
+        "output": "31*76=2356"
+    },
+    {
+        "instruction": "40/17=",
+        "input": "",
+        "output": "40/17=2.35"
+    },
+    {
+        "instruction": "37-18=",
+        "input": "",
+        "output": "37-18=19"
+    },
+    {
+        "instruction": "70-29=",
+        "input": "",
+        "output": "70-29=41"
+    },
+    {
+        "instruction": "80*19=",
+        "input": "",
+        "output": "80*19=1520"
+    },
+    {
+        "instruction": "19*45=",
+        "input": "",
+        "output": "19*45=855"
+    },
+    {
+        "instruction": "45*50=",
+        "input": "",
+        "output": "45*50=2250"
+    },
+    {
+        "instruction": "68/36=",
+        "input": "",
+        "output": "68/36=1.89"
+    },
+    {
+        "instruction": "31+36=",
+        "input": "",
+        "output": "31+36=67"
+    },
+    {
+        "instruction": "20/58=",
+        "input": "",
+        "output": "20/58=0.34"
+    },
+    {
+        "instruction": "23+100=",
+        "input": "",
+        "output": "23+100=123"
+    },
+    {
+        "instruction": "22+36=",
+        "input": "",
+        "output": "22+36=58"
+    },
+    {
+        "instruction": "22/71=",
+        "input": "",
+        "output": "22/71=0.31"
+    },
+    {
+        "instruction": "51/81=",
+        "input": "",
+        "output": "51/81=0.63"
+    },
+    {
+        "instruction": "12*93=",
+        "input": "",
+        "output": "12*93=1116"
+    },
+    {
+        "instruction": "29*28=",
+        "input": "",
+        "output": "29*28=812"
+    },
+    {
+        "instruction": "78*52=",
+        "input": "",
+        "output": "78*52=4056"
+    },
+    {
+        "instruction": "88+77=",
+        "input": "",
+        "output": "88+77=165"
+    },
+    {
+        "instruction": "50+2=",
+        "input": "",
+        "output": "50+2=52"
+    },
+    {
+        "instruction": "40-49=",
+        "input": "",
+        "output": "40-49=-9"
+    },
+    {
+        "instruction": "37+41=",
+        "input": "",
+        "output": "37+41=78"
+    },
+    {
+        "instruction": "11*28=",
+        "input": "",
+        "output": "11*28=308"
+    },
+    {
+        "instruction": "60/45=",
+        "input": "",
+        "output": "60/45=1.33"
+    },
+    {
+        "instruction": "86+24=",
+        "input": "",
+        "output": "86+24=110"
+    },
+    {
+        "instruction": "45+3=",
+        "input": "",
+        "output": "45+3=48"
+    },
+    {
+        "instruction": "82-3=",
+        "input": "",
+        "output": "82-3=79"
+    },
+    {
+        "instruction": "32-19=",
+        "input": "",
+        "output": "32-19=13"
+    },
+    {
+        "instruction": "17*20=",
+        "input": "",
+        "output": "17*20=340"
+    },
+    {
+        "instruction": "70/80=",
+        "input": "",
+        "output": "70/80=0.88"
+    },
+    {
+        "instruction": "60*83=",
+        "input": "",
+        "output": "60*83=4980"
+    },
+    {
+        "instruction": "15/61=",
+        "input": "",
+        "output": "15/61=0.25"
+    },
+    {
+        "instruction": "6/73=",
+        "input": "",
+        "output": "6/73=0.08"
+    },
+    {
+        "instruction": "19*22=",
+        "input": "",
+        "output": "19*22=418"
+    },
+    {
+        "instruction": "3+7=",
+        "input": "",
+        "output": "3+7=10"
+    },
+    {
+        "instruction": "96/77=",
+        "input": "",
+        "output": "96/77=1.25"
+    },
+    {
+        "instruction": "26+26=",
+        "input": "",
+        "output": "26+26=52"
+    },
+    {
+        "instruction": "42+4=",
+        "input": "",
+        "output": "42+4=46"
+    },
+    {
+        "instruction": "97*9=",
+        "input": "",
+        "output": "97*9=873"
+    },
+    {
+        "instruction": "73-93=",
+        "input": "",
+        "output": "73-93=-20"
+    },
+    {
+        "instruction": "45/76=",
+        "input": "",
+        "output": "45/76=0.59"
+    },
+    {
+        "instruction": "50/37=",
+        "input": "",
+        "output": "50/37=1.35"
+    },
+    {
+        "instruction": "67/19=",
+        "input": "",
+        "output": "67/19=3.53"
+    },
+    {
+        "instruction": "66+23=",
+        "input": "",
+        "output": "66+23=89"
+    },
+    {
+        "instruction": "31/33=",
+        "input": "",
+        "output": "31/33=0.94"
+    },
+    {
+        "instruction": "17-14=",
+        "input": "",
+        "output": "17-14=3"
+    },
+    {
+        "instruction": "92-54=",
+        "input": "",
+        "output": "92-54=38"
+    },
+    {
+        "instruction": "50-93=",
+        "input": "",
+        "output": "50-93=-43"
+    },
+    {
+        "instruction": "53+90=",
+        "input": "",
+        "output": "53+90=143"
+    },
+    {
+        "instruction": "6-53=",
+        "input": "",
+        "output": "6-53=-47"
+    },
+    {
+        "instruction": "31+54=",
+        "input": "",
+        "output": "31+54=85"
+    },
+    {
+        "instruction": "67*68=",
+        "input": "",
+        "output": "67*68=4556"
+    },
+    {
+        "instruction": "60*94=",
+        "input": "",
+        "output": "60*94=5640"
+    },
+    {
+        "instruction": "54/64=",
+        "input": "",
+        "output": "54/64=0.84"
+    },
+    {
+        "instruction": "59+90=",
+        "input": "",
+        "output": "59+90=149"
+    },
+    {
+        "instruction": "23/39=",
+        "input": "",
+        "output": "23/39=0.59"
+    },
+    {
+        "instruction": "4*63=",
+        "input": "",
+        "output": "4*63=252"
+    },
+    {
+        "instruction": "44*88=",
+        "input": "",
+        "output": "44*88=3872"
+    },
+    {
+        "instruction": "3+88=",
+        "input": "",
+        "output": "3+88=91"
+    },
+    {
+        "instruction": "98*55=",
+        "input": "",
+        "output": "98*55=5390"
+    },
+    {
+        "instruction": "67*33=",
+        "input": "",
+        "output": "67*33=2211"
+    },
+    {
+        "instruction": "67+98=",
+        "input": "",
+        "output": "67+98=165"
+    },
+    {
+        "instruction": "98/68=",
+        "input": "",
+        "output": "98/68=1.44"
+    },
+    {
+        "instruction": "37*76=",
+        "input": "",
+        "output": "37*76=2812"
+    },
+    {
+        "instruction": "95*79=",
+        "input": "",
+        "output": "95*79=7505"
+    },
+    {
+        "instruction": "87/64=",
+        "input": "",
+        "output": "87/64=1.36"
+    },
+    {
+        "instruction": "90*68=",
+        "input": "",
+        "output": "90*68=6120"
+    },
+    {
+        "instruction": "49*43=",
+        "input": "",
+        "output": "49*43=2107"
+    },
+    {
+        "instruction": "3/15=",
+        "input": "",
+        "output": "3/15=0.2"
+    },
+    {
+        "instruction": "16+42=",
+        "input": "",
+        "output": "16+42=58"
+    },
+    {
+        "instruction": "47+49=",
+        "input": "",
+        "output": "47+49=96"
+    },
+    {
+        "instruction": "79/53=",
+        "input": "",
+        "output": "79/53=1.49"
+    },
+    {
+        "instruction": "12/43=",
+        "input": "",
+        "output": "12/43=0.28"
+    },
+    {
+        "instruction": "50/70=",
+        "input": "",
+        "output": "50/70=0.71"
+    },
+    {
+        "instruction": "83-81=",
+        "input": "",
+        "output": "83-81=2"
+    },
+    {
+        "instruction": "67-11=",
+        "input": "",
+        "output": "67-11=56"
+    },
+    {
+        "instruction": "43*65=",
+        "input": "",
+        "output": "43*65=2795"
+    },
+    {
+        "instruction": "31/4=",
+        "input": "",
+        "output": "31/4=7.75"
+    },
+    {
+        "instruction": "72/69=",
+        "input": "",
+        "output": "72/69=1.04"
+    },
+    {
+        "instruction": "52/25=",
+        "input": "",
+        "output": "52/25=2.08"
+    },
+    {
+        "instruction": "14-8=",
+        "input": "",
+        "output": "14-8=6"
+    },
+    {
+        "instruction": "31-57=",
+        "input": "",
+        "output": "31-57=-26"
+    },
+    {
+        "instruction": "90+15=",
+        "input": "",
+        "output": "90+15=105"
+    },
+    {
+        "instruction": "93/55=",
+        "input": "",
+        "output": "93/55=1.69"
+    },
+    {
+        "instruction": "86*91=",
+        "input": "",
+        "output": "86*91=7826"
+    },
+    {
+        "instruction": "69-7=",
+        "input": "",
+        "output": "69-7=62"
+    },
+    {
+        "instruction": "10-26=",
+        "input": "",
+        "output": "10-26=-16"
+    },
+    {
+        "instruction": "60+6=",
+        "input": "",
+        "output": "60+6=66"
+    },
+    {
+        "instruction": "6/85=",
+        "input": "",
+        "output": "6/85=0.07"
+    },
+    {
+        "instruction": "9+15=",
+        "input": "",
+        "output": "9+15=24"
+    },
+    {
+        "instruction": "11+75=",
+        "input": "",
+        "output": "11+75=86"
+    },
+    {
+        "instruction": "57*65=",
+        "input": "",
+        "output": "57*65=3705"
+    },
+    {
+        "instruction": "84*7=",
+        "input": "",
+        "output": "84*7=588"
+    },
+    {
+        "instruction": "4+34=",
+        "input": "",
+        "output": "4+34=38"
+    },
+    {
+        "instruction": "41+58=",
+        "input": "",
+        "output": "41+58=99"
+    },
+    {
+        "instruction": "44+69=",
+        "input": "",
+        "output": "44+69=113"
+    },
+    {
+        "instruction": "100/31=",
+        "input": "",
+        "output": "100/31=3.23"
+    },
+    {
+        "instruction": "66*93=",
+        "input": "",
+        "output": "66*93=6138"
+    },
+    {
+        "instruction": "36/10=",
+        "input": "",
+        "output": "36/10=3.6"
+    },
+    {
+        "instruction": "94*97=",
+        "input": "",
+        "output": "94*97=9118"
+    },
+    {
+        "instruction": "49/25=",
+        "input": "",
+        "output": "49/25=1.96"
+    },
+    {
+        "instruction": "71/72=",
+        "input": "",
+        "output": "71/72=0.99"
+    },
+    {
+        "instruction": "11+25=",
+        "input": "",
+        "output": "11+25=36"
+    },
+    {
+        "instruction": "47*18=",
+        "input": "",
+        "output": "47*18=846"
+    },
+    {
+        "instruction": "87*57=",
+        "input": "",
+        "output": "87*57=4959"
+    },
+    {
+        "instruction": "71*86=",
+        "input": "",
+        "output": "71*86=6106"
+    },
+    {
+        "instruction": "64-54=",
+        "input": "",
+        "output": "64-54=10"
+    },
+    {
+        "instruction": "60*98=",
+        "input": "",
+        "output": "60*98=5880"
+    },
+    {
+        "instruction": "15/86=",
+        "input": "",
+        "output": "15/86=0.17"
+    },
+    {
+        "instruction": "99*49=",
+        "input": "",
+        "output": "99*49=4851"
+    },
+    {
+        "instruction": "77*55=",
+        "input": "",
+        "output": "77*55=4235"
+    },
+    {
+        "instruction": "52-98=",
+        "input": "",
+        "output": "52-98=-46"
+    },
+    {
+        "instruction": "76+14=",
+        "input": "",
+        "output": "76+14=90"
+    },
+    {
+        "instruction": "1/84=",
+        "input": "",
+        "output": "1/84=0.01"
+    },
+    {
+        "instruction": "70/1=",
+        "input": "",
+        "output": "70/1=70.0"
+    },
+    {
+        "instruction": "56*18=",
+        "input": "",
+        "output": "56*18=1008"
+    },
+    {
+        "instruction": "65*7=",
+        "input": "",
+        "output": "65*7=455"
+    },
+    {
+        "instruction": "9+28=",
+        "input": "",
+        "output": "9+28=37"
+    },
+    {
+        "instruction": "77/18=",
+        "input": "",
+        "output": "77/18=4.28"
+    },
+    {
+        "instruction": "62/25=",
+        "input": "",
+        "output": "62/25=2.48"
+    },
+    {
+        "instruction": "61+49=",
+        "input": "",
+        "output": "61+49=110"
+    },
+    {
+        "instruction": "80/28=",
+        "input": "",
+        "output": "80/28=2.86"
+    },
+    {
+        "instruction": "45+10=",
+        "input": "",
+        "output": "45+10=55"
+    },
+    {
+        "instruction": "57*95=",
+        "input": "",
+        "output": "57*95=5415"
+    },
+    {
+        "instruction": "59*66=",
+        "input": "",
+        "output": "59*66=3894"
+    },
+    {
+        "instruction": "6/69=",
+        "input": "",
+        "output": "6/69=0.09"
+    },
+    {
+        "instruction": "24-83=",
+        "input": "",
+        "output": "24-83=-59"
+    },
+    {
+        "instruction": "38/58=",
+        "input": "",
+        "output": "38/58=0.66"
+    },
+    {
+        "instruction": "100*83=",
+        "input": "",
+        "output": "100*83=8300"
+    },
+    {
+        "instruction": "55*17=",
+        "input": "",
+        "output": "55*17=935"
+    },
+    {
+        "instruction": "62+48=",
+        "input": "",
+        "output": "62+48=110"
+    },
+    {
+        "instruction": "56/23=",
+        "input": "",
+        "output": "56/23=2.43"
+    },
+    {
+        "instruction": "42-73=",
+        "input": "",
+        "output": "42-73=-31"
+    },
+    {
+        "instruction": "84*58=",
+        "input": "",
+        "output": "84*58=4872"
+    },
+    {
+        "instruction": "69*81=",
+        "input": "",
+        "output": "69*81=5589"
+    },
+    {
+        "instruction": "95*55=",
+        "input": "",
+        "output": "95*55=5225"
+    },
+    {
+        "instruction": "6-64=",
+        "input": "",
+        "output": "6-64=-58"
+    },
+    {
+        "instruction": "31*31=",
+        "input": "",
+        "output": "31*31=961"
+    },
+    {
+        "instruction": "66/10=",
+        "input": "",
+        "output": "66/10=6.6"
+    },
+    {
+        "instruction": "100*2=",
+        "input": "",
+        "output": "100*2=200"
+    },
+    {
+        "instruction": "77-32=",
+        "input": "",
+        "output": "77-32=45"
+    },
+    {
+        "instruction": "40-3=",
+        "input": "",
+        "output": "40-3=37"
+    },
+    {
+        "instruction": "58/54=",
+        "input": "",
+        "output": "58/54=1.07"
+    },
+    {
+        "instruction": "77+85=",
+        "input": "",
+        "output": "77+85=162"
+    },
+    {
+        "instruction": "87/85=",
+        "input": "",
+        "output": "87/85=1.02"
+    },
+    {
+        "instruction": "81/68=",
+        "input": "",
+        "output": "81/68=1.19"
+    },
+    {
+        "instruction": "95+77=",
+        "input": "",
+        "output": "95+77=172"
+    },
+    {
+        "instruction": "67-88=",
+        "input": "",
+        "output": "67-88=-21"
+    },
+    {
+        "instruction": "34/85=",
+        "input": "",
+        "output": "34/85=0.4"
+    },
+    {
+        "instruction": "49*42=",
+        "input": "",
+        "output": "49*42=2058"
+    },
+    {
+        "instruction": "61-12=",
+        "input": "",
+        "output": "61-12=49"
+    },
+    {
+        "instruction": "63/28=",
+        "input": "",
+        "output": "63/28=2.25"
+    },
+    {
+        "instruction": "86/53=",
+        "input": "",
+        "output": "86/53=1.62"
+    },
+    {
+        "instruction": "24+63=",
+        "input": "",
+        "output": "24+63=87"
+    },
+    {
+        "instruction": "8/40=",
+        "input": "",
+        "output": "8/40=0.2"
+    },
+    {
+        "instruction": "16/71=",
+        "input": "",
+        "output": "16/71=0.23"
+    },
+    {
+        "instruction": "32+60=",
+        "input": "",
+        "output": "32+60=92"
+    },
+    {
+        "instruction": "78+10=",
+        "input": "",
+        "output": "78+10=88"
+    },
+    {
+        "instruction": "7+60=",
+        "input": "",
+        "output": "7+60=67"
+    },
+    {
+        "instruction": "24*89=",
+        "input": "",
+        "output": "24*89=2136"
+    },
+    {
+        "instruction": "53*25=",
+        "input": "",
+        "output": "53*25=1325"
+    },
+    {
+        "instruction": "22-58=",
+        "input": "",
+        "output": "22-58=-36"
+    },
+    {
+        "instruction": "85-69=",
+        "input": "",
+        "output": "85-69=16"
+    },
+    {
+        "instruction": "52*97=",
+        "input": "",
+        "output": "52*97=5044"
+    },
+    {
+        "instruction": "96/17=",
+        "input": "",
+        "output": "96/17=5.65"
+    },
+    {
+        "instruction": "98*21=",
+        "input": "",
+        "output": "98*21=2058"
+    },
+    {
+        "instruction": "10+56=",
+        "input": "",
+        "output": "10+56=66"
+    },
+    {
+        "instruction": "52+32=",
+        "input": "",
+        "output": "52+32=84"
+    },
+    {
+        "instruction": "68+11=",
+        "input": "",
+        "output": "68+11=79"
+    },
+    {
+        "instruction": "29-5=",
+        "input": "",
+        "output": "29-5=24"
+    },
+    {
+        "instruction": "47*50=",
+        "input": "",
+        "output": "47*50=2350"
+    },
+    {
+        "instruction": "60+91=",
+        "input": "",
+        "output": "60+91=151"
+    },
+    {
+        "instruction": "47+67=",
+        "input": "",
+        "output": "47+67=114"
+    },
+    {
+        "instruction": "52/46=",
+        "input": "",
+        "output": "52/46=1.13"
+    },
+    {
+        "instruction": "59/30=",
+        "input": "",
+        "output": "59/30=1.97"
+    },
+    {
+        "instruction": "99/22=",
+        "input": "",
+        "output": "99/22=4.5"
+    },
+    {
+        "instruction": "7/80=",
+        "input": "",
+        "output": "7/80=0.09"
+    },
+    {
+        "instruction": "20/7=",
+        "input": "",
+        "output": "20/7=2.86"
+    },
+    {
+        "instruction": "37-74=",
+        "input": "",
+        "output": "37-74=-37"
+    },
+    {
+        "instruction": "94/16=",
+        "input": "",
+        "output": "94/16=5.88"
+    },
+    {
+        "instruction": "38+4=",
+        "input": "",
+        "output": "38+4=42"
+    },
+    {
+        "instruction": "59-77=",
+        "input": "",
+        "output": "59-77=-18"
+    },
+    {
+        "instruction": "38+24=",
+        "input": "",
+        "output": "38+24=62"
+    },
+    {
+        "instruction": "77/62=",
+        "input": "",
+        "output": "77/62=1.24"
+    },
+    {
+        "instruction": "14/98=",
+        "input": "",
+        "output": "14/98=0.14"
+    },
+    {
+        "instruction": "77+28=",
+        "input": "",
+        "output": "77+28=105"
+    },
+    {
+        "instruction": "75+78=",
+        "input": "",
+        "output": "75+78=153"
+    },
+    {
+        "instruction": "4-69=",
+        "input": "",
+        "output": "4-69=-65"
+    },
+    {
+        "instruction": "55*84=",
+        "input": "",
+        "output": "55*84=4620"
+    },
+    {
+        "instruction": "54+33=",
+        "input": "",
+        "output": "54+33=87"
+    },
+    {
+        "instruction": "10-46=",
+        "input": "",
+        "output": "10-46=-36"
+    },
+    {
+        "instruction": "52/76=",
+        "input": "",
+        "output": "52/76=0.68"
+    },
+    {
+        "instruction": "57/37=",
+        "input": "",
+        "output": "57/37=1.54"
+    },
+    {
+        "instruction": "45/57=",
+        "input": "",
+        "output": "45/57=0.79"
+    },
+    {
+        "instruction": "20*35=",
+        "input": "",
+        "output": "20*35=700"
+    },
+    {
+        "instruction": "96-56=",
+        "input": "",
+        "output": "96-56=40"
+    },
+    {
+        "instruction": "3+26=",
+        "input": "",
+        "output": "3+26=29"
+    },
+    {
+        "instruction": "1+42=",
+        "input": "",
+        "output": "1+42=43"
+    },
+    {
+        "instruction": "82/75=",
+        "input": "",
+        "output": "82/75=1.09"
+    },
+    {
+        "instruction": "63/93=",
+        "input": "",
+        "output": "63/93=0.68"
+    },
+    {
+        "instruction": "84/39=",
+        "input": "",
+        "output": "84/39=2.15"
+    },
+    {
+        "instruction": "64/92=",
+        "input": "",
+        "output": "64/92=0.7"
+    },
+    {
+        "instruction": "18*21=",
+        "input": "",
+        "output": "18*21=378"
+    },
+    {
+        "instruction": "29+69=",
+        "input": "",
+        "output": "29+69=98"
+    },
+    {
+        "instruction": "23*5=",
+        "input": "",
+        "output": "23*5=115"
+    },
+    {
+        "instruction": "7-77=",
+        "input": "",
+        "output": "7-77=-70"
+    },
+    {
+        "instruction": "87*19=",
+        "input": "",
+        "output": "87*19=1653"
+    },
+    {
+        "instruction": "90/12=",
+        "input": "",
+        "output": "90/12=7.5"
+    },
+    {
+        "instruction": "16+19=",
+        "input": "",
+        "output": "16+19=35"
+    },
+    {
+        "instruction": "93/83=",
+        "input": "",
+        "output": "93/83=1.12"
+    },
+    {
+        "instruction": "33-28=",
+        "input": "",
+        "output": "33-28=5"
+    },
+    {
+        "instruction": "21*24=",
+        "input": "",
+        "output": "21*24=504"
+    },
+    {
+        "instruction": "85+84=",
+        "input": "",
+        "output": "85+84=169"
+    },
+    {
+        "instruction": "42/24=",
+        "input": "",
+        "output": "42/24=1.75"
+    },
+    {
+        "instruction": "50+85=",
+        "input": "",
+        "output": "50+85=135"
+    },
+    {
+        "instruction": "53*90=",
+        "input": "",
+        "output": "53*90=4770"
+    },
+    {
+        "instruction": "29/11=",
+        "input": "",
+        "output": "29/11=2.64"
+    },
+    {
+        "instruction": "81-18=",
+        "input": "",
+        "output": "81-18=63"
+    },
+    {
+        "instruction": "61*76=",
+        "input": "",
+        "output": "61*76=4636"
+    },
+    {
+        "instruction": "100*86=",
+        "input": "",
+        "output": "100*86=8600"
+    },
+    {
+        "instruction": "24*87=",
+        "input": "",
+        "output": "24*87=2088"
+    },
+    {
+        "instruction": "99/8=",
+        "input": "",
+        "output": "99/8=12.38"
+    },
+    {
+        "instruction": "92+39=",
+        "input": "",
+        "output": "92+39=131"
+    },
+    {
+        "instruction": "56-23=",
+        "input": "",
+        "output": "56-23=33"
+    },
+    {
+        "instruction": "83-58=",
+        "input": "",
+        "output": "83-58=25"
+    },
+    {
+        "instruction": "40+11=",
+        "input": "",
+        "output": "40+11=51"
+    },
+    {
+        "instruction": "88/47=",
+        "input": "",
+        "output": "88/47=1.87"
+    },
+    {
+        "instruction": "18-85=",
+        "input": "",
+        "output": "18-85=-67"
+    },
+    {
+        "instruction": "96*30=",
+        "input": "",
+        "output": "96*30=2880"
+    },
+    {
+        "instruction": "28*20=",
+        "input": "",
+        "output": "28*20=560"
+    },
+    {
+        "instruction": "23*55=",
+        "input": "",
+        "output": "23*55=1265"
+    },
+    {
+        "instruction": "18/45=",
+        "input": "",
+        "output": "18/45=0.4"
+    },
+    {
+        "instruction": "76+59=",
+        "input": "",
+        "output": "76+59=135"
+    },
+    {
+        "instruction": "67+62=",
+        "input": "",
+        "output": "67+62=129"
+    },
+    {
+        "instruction": "65+66=",
+        "input": "",
+        "output": "65+66=131"
+    },
+    {
+        "instruction": "47-9=",
+        "input": "",
+        "output": "47-9=38"
+    },
+    {
+        "instruction": "8*83=",
+        "input": "",
+        "output": "8*83=664"
+    },
+    {
+        "instruction": "15/26=",
+        "input": "",
+        "output": "15/26=0.58"
+    },
+    {
+        "instruction": "29-78=",
+        "input": "",
+        "output": "29-78=-49"
+    },
+    {
+        "instruction": "7/7=",
+        "input": "",
+        "output": "7/7=1.0"
+    },
+    {
+        "instruction": "100-25=",
+        "input": "",
+        "output": "100-25=75"
+    },
+    {
+        "instruction": "84+76=",
+        "input": "",
+        "output": "84+76=160"
+    },
+    {
+        "instruction": "91+33=",
+        "input": "",
+        "output": "91+33=124"
+    },
+    {
+        "instruction": "26-18=",
+        "input": "",
+        "output": "26-18=8"
+    },
+    {
+        "instruction": "81-6=",
+        "input": "",
+        "output": "81-6=75"
+    },
+    {
+        "instruction": "29*66=",
+        "input": "",
+        "output": "29*66=1914"
+    },
+    {
+        "instruction": "18*81=",
+        "input": "",
+        "output": "18*81=1458"
+    },
+    {
+        "instruction": "7+15=",
+        "input": "",
+        "output": "7+15=22"
+    },
+    {
+        "instruction": "10-17=",
+        "input": "",
+        "output": "10-17=-7"
+    },
+    {
+        "instruction": "39/28=",
+        "input": "",
+        "output": "39/28=1.39"
+    },
+    {
+        "instruction": "23-40=",
+        "input": "",
+        "output": "23-40=-17"
+    },
+    {
+        "instruction": "24-3=",
+        "input": "",
+        "output": "24-3=21"
+    },
+    {
+        "instruction": "27+39=",
+        "input": "",
+        "output": "27+39=66"
+    },
+    {
+        "instruction": "43+7=",
+        "input": "",
+        "output": "43+7=50"
+    },
+    {
+        "instruction": "72*71=",
+        "input": "",
+        "output": "72*71=5112"
+    },
+    {
+        "instruction": "40+63=",
+        "input": "",
+        "output": "40+63=103"
+    },
+    {
+        "instruction": "35-38=",
+        "input": "",
+        "output": "35-38=-3"
+    },
+    {
+        "instruction": "41/59=",
+        "input": "",
+        "output": "41/59=0.69"
+    },
+    {
+        "instruction": "26-100=",
+        "input": "",
+        "output": "26-100=-74"
+    },
+    {
+        "instruction": "23+53=",
+        "input": "",
+        "output": "23+53=76"
+    },
+    {
+        "instruction": "17+68=",
+        "input": "",
+        "output": "17+68=85"
+    },
+    {
+        "instruction": "14/69=",
+        "input": "",
+        "output": "14/69=0.2"
+    },
+    {
+        "instruction": "48/33=",
+        "input": "",
+        "output": "48/33=1.45"
+    },
+    {
+        "instruction": "35/83=",
+        "input": "",
+        "output": "35/83=0.42"
+    },
+    {
+        "instruction": "19-27=",
+        "input": "",
+        "output": "19-27=-8"
+    },
+    {
+        "instruction": "48-65=",
+        "input": "",
+        "output": "48-65=-17"
+    },
+    {
+        "instruction": "68+24=",
+        "input": "",
+        "output": "68+24=92"
+    },
+    {
+        "instruction": "94*24=",
+        "input": "",
+        "output": "94*24=2256"
+    },
+    {
+        "instruction": "28/13=",
+        "input": "",
+        "output": "28/13=2.15"
+    },
+    {
+        "instruction": "77+26=",
+        "input": "",
+        "output": "77+26=103"
+    },
+    {
+        "instruction": "43/89=",
+        "input": "",
+        "output": "43/89=0.48"
+    },
+    {
+        "instruction": "3*46=",
+        "input": "",
+        "output": "3*46=138"
+    },
+    {
+        "instruction": "35-57=",
+        "input": "",
+        "output": "35-57=-22"
+    },
+    {
+        "instruction": "88*23=",
+        "input": "",
+        "output": "88*23=2024"
+    },
+    {
+        "instruction": "67+79=",
+        "input": "",
+        "output": "67+79=146"
+    },
+    {
+        "instruction": "95+49=",
+        "input": "",
+        "output": "95+49=144"
+    },
+    {
+        "instruction": "85-4=",
+        "input": "",
+        "output": "85-4=81"
+    },
+    {
+        "instruction": "11+5=",
+        "input": "",
+        "output": "11+5=16"
+    },
+    {
+        "instruction": "4+88=",
+        "input": "",
+        "output": "4+88=92"
+    },
+    {
+        "instruction": "64-35=",
+        "input": "",
+        "output": "64-35=29"
+    },
+    {
+        "instruction": "3+93=",
+        "input": "",
+        "output": "3+93=96"
+    },
+    {
+        "instruction": "82+5=",
+        "input": "",
+        "output": "82+5=87"
+    },
+    {
+        "instruction": "15*10=",
+        "input": "",
+        "output": "15*10=150"
+    },
+    {
+        "instruction": "4+33=",
+        "input": "",
+        "output": "4+33=37"
+    },
+    {
+        "instruction": "98+30=",
+        "input": "",
+        "output": "98+30=128"
+    },
+    {
+        "instruction": "87/61=",
+        "input": "",
+        "output": "87/61=1.43"
+    },
+    {
+        "instruction": "30*27=",
+        "input": "",
+        "output": "30*27=810"
+    },
+    {
+        "instruction": "98-45=",
+        "input": "",
+        "output": "98-45=53"
+    },
+    {
+        "instruction": "21/4=",
+        "input": "",
+        "output": "21/4=5.25"
+    },
+    {
+        "instruction": "79+92=",
+        "input": "",
+        "output": "79+92=171"
+    },
+    {
+        "instruction": "57-52=",
+        "input": "",
+        "output": "57-52=5"
+    },
+    {
+        "instruction": "82*72=",
+        "input": "",
+        "output": "82*72=5904"
+    },
+    {
+        "instruction": "70/98=",
+        "input": "",
+        "output": "70/98=0.71"
+    },
+    {
+        "instruction": "9/34=",
+        "input": "",
+        "output": "9/34=0.26"
+    },
+    {
+        "instruction": "99-62=",
+        "input": "",
+        "output": "99-62=37"
+    },
+    {
+        "instruction": "87-61=",
+        "input": "",
+        "output": "87-61=26"
+    },
+    {
+        "instruction": "30/75=",
+        "input": "",
+        "output": "30/75=0.4"
+    },
+    {
+        "instruction": "36/14=",
+        "input": "",
+        "output": "36/14=2.57"
+    },
+    {
+        "instruction": "78*5=",
+        "input": "",
+        "output": "78*5=390"
+    },
+    {
+        "instruction": "29-39=",
+        "input": "",
+        "output": "29-39=-10"
+    },
+    {
+        "instruction": "71+72=",
+        "input": "",
+        "output": "71+72=143"
+    },
+    {
+        "instruction": "95/90=",
+        "input": "",
+        "output": "95/90=1.06"
+    },
+    {
+        "instruction": "42*79=",
+        "input": "",
+        "output": "42*79=3318"
+    },
+    {
+        "instruction": "36/66=",
+        "input": "",
+        "output": "36/66=0.55"
+    },
+    {
+        "instruction": "59/29=",
+        "input": "",
+        "output": "59/29=2.03"
+    },
+    {
+        "instruction": "90*52=",
+        "input": "",
+        "output": "90*52=4680"
+    },
+    {
+        "instruction": "25-21=",
+        "input": "",
+        "output": "25-21=4"
+    }
+]
