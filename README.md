@@ -8,18 +8,16 @@
 
 当前的聊天对话模型数据集主要都是由英文构成，但是当前中文聊天模型构建的需求也较为迫切，因此我们将斯坦福的alpaca数据集进行中文翻译，并再制造一些对话数据，并开源提供。
 
+我们的目标是：基于我们数据+自己领域的数据，以及一定的微调策略，可以在模型内加入某领域的知识的同时，尽量保持原有模型的能力，虽然此目标当前还未做到，但至少能够缓解一些模型微调后过专的问题。
+
 此翻译并非完全的chatgpt机翻，会进行人工校验，遇到英文特异性表达的时候会变为较为中文化的表述，因此每日翻译量有限。
-
-遇到完全不能翻译为中文的数据，可能会跳过，因此这将不是一个纯中文或中文--英文数据集。可能不适合拿来做翻译相关训练
-
-分配下去的数据集应该能够确保全部翻译，预计alpaca每日增量约2500行，额外的非alpaca中文数据集我们预计也会以工作日120条左右的速度增加记录，预计每天会500行左右的数据。
 
 0327更新：我们感觉alpaca数据集太多表述过于英文化，所以人工翻译完这六部分后不再翻译，改为构建自己的数据集
 
 
 Currently, most chatbot datasets are composed in English, but there is an urgent need to train Chinese chatbot models. Therefore, we have translated the Alpaca dataset into Chinese and created additional some dialogue data.
 
-This translation is not a completely automated process using ChatGPT, but rather a combination of human and machine translation with manual verification. 
+Our goal is: Based on our data, domain-specific data, and some fine-tuning strategies, we aim to incorporate knowledge from a particular field into the model while maintaining the original model's capabilities as much as possible. Although this goal has not yet been achieved, it can at least alleviate some issues of over-specialization that may occur after the model is fine-tuned.（可能有些笔误，因为是直接机器翻译的，后面再改了...）
 
 This dataset may not be translated into Chinese at all, we may skip over it. Therefore, this will not be a purely Chinese or Chinese-to-English dataset, and may not be suitable for translation.
 
