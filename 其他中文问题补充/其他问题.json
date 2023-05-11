@@ -13,5 +13,10 @@
       "instruction": "轮滑中的Q刹怎么练",
       "input": "",
       "output": "轮滑中的Q刹是一种基本的刹车技巧，它需要以一只前轮为支撑点，另一只脚交叉向前压单轮外韧刹车。Q 刹和外点两个基础的支撑类动作，可以很好的锻炼脚力，是要多多联系的两个刹车。初学者可以选择自带辅助刹停器，当练习到很熟悉的程度后，再逐渐脱离辅助器具。练习刹车时，要掌握刹车用力的方向、发力的部位、动作的幅度、重心的位置、手势及纠正错误等因素，以便于刹车的比较容易练习，摔跤更少。此外，花式刹停 Q 刹教学视频也可以提供帮助。"
+    },
+    {
+      "instruction": "翻译：Suggestions matching public code GitHub Copilot can allow or block suggestions matching public code. See the GitHub Copilot documentation to learn more.",
+      "input": "",
+      "output": "建议匹配公共代码的功能可以在GitHub Copilot中开启或禁用。请参阅GitHub Copilot文档以了解更多信息。"
     }
   ]
