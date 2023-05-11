@@ -1059,5 +1059,10 @@
     "instruction":"什么是吸附？有哪些常见的吸附剂？如何选择合适的吸附剂？",
     "input": "",
     "output":"吸附是指物质分子在表面上附着并停留的过程。常见的吸附剂包括活性炭、硅胶、膨润土等。选择合适的吸附剂需要考虑物质的性质和吸附剂的性质。"
+  },
+  {
+    "instruction":"SFT Reward model和RLHF 这三个是训练 然后lora freeze ptuning微调 有啥区别哇 前面说的训练是从头开始训练一个llm吗",
+    "input": "",
+    "output":"SFT, Reward Model 和 RLHF 都是用于微调GPT等大规模语言模型的方法。其中，SFT 是一种有监督的微调方法，它使用已有的数据集和标注数据对 GPT等模型进行微调，以提高其生成和推理能力。而 Reward Model 则是一种奖励建模的方法，它使用外部奖励信号来优化模型的生成能力。RLHF 则是一种结合 SFT 和 Reward Model 的方法，它使用 BERT 等预训练语言模型作为奖励模型，并在 SFT 的基础上进一步微调。\n\n至于 Lora Freeze 和 PTuning 微调，它们都是用于微调 GPT等模型的方法，但侧重点不同。Lora Freeze 是将 GPT等模型的所有参数都冻结，然后使用外部数据集对模型进行微调，以提高其生成和推理能力。而 PTuning 微调则是在冻结 GPT等模型的外部参数的基础上，对其进行微调，以提高其在特定任务上的性能。\n\n总的来说，SFT, Reward Model 和 RLHF 都是用于微调 GPT等大规模语言模型的方法，但它们的侧重点和实现方式不同。而 Lora Freeze 和 PTuning 微调则是对 GPT等模型的微调方法，它们可以用于提高模型的生成和推理能力，或者在特定的的任务上进行性能提升。"
   }
 ]
