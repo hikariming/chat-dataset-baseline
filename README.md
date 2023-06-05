@@ -22,6 +22,10 @@ Our goal is: Based on our data, domain-specific data, and some fine-tuning strat
 This dataset may not be translated into Chinese at all, we may skip over it. Therefore, this will not be a purely Chinese or Chinese-to-English dataset, and may not be suitable for translation.
 
 Update on 0327: We feel that the Alpaca dataset has too many English-style expressions, so after manually translating these six parts, we will no longer translate it and turn to create our own dataset.
+## 进展说明 202306105
+
+我们最近微调工作比较少，最近在弄prompt的优化，所以数据集稍微弄得少一些了，后续还会开源一些prompt的工作。
+感谢卢家琪同学贡献了自己的数据集~
 
 ## 进展说明 20230410
 
@@ -68,6 +72,19 @@ Update on 0327: We feel that the Alpaca dataset has too many English-style expre
 
 我们发现https://github.com/carbonz0/alpaca-chinese-dataset 这个项目已经通过机器翻译把alpaca数据进行了翻译，我们后续会逐条查看carbonz01的翻译数据，并人工校对将非中文化的表述跳过，并添加更多中国特色数据集。
 
+## 额外数据集
+
+- 刘倍铭（企业管理问题、三国问题）
+- 黄堃淏 电子科大软院（名词解释类问题）
+- 焦丽华 电子科大软院（党建类数据集）
+- 何余晨 电子科大软院（建议类数据集）
+- 张瑞钦 电子科大软院（历史类数据集）
+- 梁渊 电子科大软院（学习类数据集）
+- 王银杉 电子科大软院（科技类数据集）
+- 卢家琪 电子科大软院（sketch问答数据集）
+
+
+
 ## 目前数据集认领情况：
 
 - 刘倍铭 清华大学工工（alpaca_data-0-3252-英文）
@@ -78,16 +95,6 @@ Update on 0327: We feel that the Alpaca dataset has too many English-style expre
 - 梁渊 电子科大软院（alpaca_data-15323-18280-英文）
 - 王银杉 电子科大软院（alpaca_data-18280-21320-英文）
 - 其他数据集当前暂无人认领，等待我们之前的数据标记完或者其他小伙伴认领～
-
-## 额外数据集
-
-- 刘倍铭（企业管理问题、三国问题）
-- 黄堃淏 电子科大软院（名词解释类问题）
-- 焦丽华 电子科大软院（党建类数据集）
-- 何余晨 电子科大软院（建议类数据集）
-- 张瑞钦 电子科大软院（历史类数据集）
-- 梁渊 电子科大软院（学习类数据集）
-- 王银杉 电子科大软院（科技类数据集）
 
 
 ## DOING
