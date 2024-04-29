@@ -90,7 +90,7 @@ Update on 0327: We feel that the Alpaca dataset has too many English-style expre
 - 张瑞钦 电子科大软院（alpaca_data-12345-15323-英文）
 - 梁渊 电子科大软院（alpaca_data-15323-18280-英文）
 - 王银杉 电子科大软院（alpaca_data-18280-21320-英文）
-- 其他数据集当前暂无人认领，等待我们之前的数据标记完或者其他小伙伴认领～
+- 其他数据集当前暂无人认领，等待我们之前的数据标记完或者其他小伙伴认领～～
 
 
 ## DOING
