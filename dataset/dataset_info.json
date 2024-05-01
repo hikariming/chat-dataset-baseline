@@ -2,5 +2,14 @@
   "identity": {
     "file_name": "identity.json",
     "file_sha1": "ffe3ecb58ab642da33fbb514d5e6188f1469ad40"
+  },
+  "COIG-CQIA-full": {
+    "file_name": "COIG-CQIA-full.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
   }
 }
