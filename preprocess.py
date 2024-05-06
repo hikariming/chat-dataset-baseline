@@ -4,7 +4,7 @@ import json
 NAME = "模型名字"
 AUTHOR = "作者名字"
 
-with open("dataset/identity.json", "r", encoding="utf-8") as f:
+with open("data/identity.json", "r", encoding="utf-8") as f:
   dataset = json.load(f)
 
 for sample in dataset:
