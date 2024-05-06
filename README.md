@@ -24,7 +24,11 @@ https://github.com/hiyouga/LLaMA-Factory
 第一步：下载项目代码和数据集
 
 代码直接clone本项目即可。
+
+
 数据集请在百度网盘下载
+
+
 链接: https://pan.baidu.com/s/1zjHmK-y5XBNDAgIdxbN1Ww?pwd=rsfu 提取码: rsfu 
 
 
@@ -76,9 +80,9 @@ train.py  # 模型训练代码(TBD)
 
 如果您觉得本项目对您的研究有所帮助或使用了本项目的代码或数据，请参考以下引用（临时）：
 ```
-@misc{alpaca_chinese_dataset,
+@misc{chat-dataset-baseline,
   author = {Liu, Beiming and Huang, Kunhao and Jiao, Lihua and He, Yuchen and Zhang, Ruiqin and Liang, Yuan and Wang, Yingshan},
-  title = {Chinese Alpaca Dataset},
+  title = {chat-dataset-baseline},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
