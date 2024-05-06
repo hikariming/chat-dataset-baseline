@@ -1,7 +1,3 @@
-<!--
- * @Author: liubeiming
- * @Date: 2023-03-21 10:12:22
--->
 # 🚀 进化中的中文对话模型资源库 🚀
 
 **鲁迅说过：有多少人工，才有多少智能**
@@ -20,10 +16,34 @@
 
 ## 使用方法：
 
-1、下载项目代码和数据集
+首先你需要安装LLaMA-Factory，具体安装运行方法请参考原项目：
+
+https://github.com/hiyouga/LLaMA-Factory
+
+
+第一步：下载项目代码和数据集
 
 代码直接clone本项目即可。
-数据集请在百度网盘下载：链接：https://pan.baidu.com/s/1Q9J9
+数据集请在百度网盘下载
+链接: https://pan.baidu.com/s/1zjHmK-y5XBNDAgIdxbN1Ww?pwd=rsfu 提取码: rsfu 
+
+
+第二步：修改preprocess.py中的模型信息变量并运行(重要，否则模型不会知道自己叫什么名字！)
+
+```python
+
+NAME = "模型名字" # 影响模型回答自己叫什么
+AUTHOR = "作者名字" # 影响模型回答自己是谁训练的
+
+```
+
+第三步： 把项目的data文件夹替换LLaMA-Factory的项目文件夹下的data文件夹，把train.py或运行train.sh也放到LLaMA-Factory的项目文件夹下
+
+第四步：运行train.py或运行train.sh进行模型训练
+
+当前train.py中用的是lora，train.sh是全参数sft的训练脚本，总之根据llama-factory的文档进行训练即可。
+
+在这一步你可以自由增加数据集、调整模型参数等等，让模型更适合你的需求，如何修改参考llama-factory项目就好。
 
 
 
