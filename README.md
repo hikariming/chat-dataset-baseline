@@ -89,3 +89,18 @@ train.py  # 模型训练代码(TBD)
   howpublished = {\url{https://github.com/hikariming/alpaca_chinese_dataset}},
 }
 ```
+
+## 其他
+
+在忙别的事情，最近没怎么更，sorry，大家如果要微调去看看llama-factory等更好的项目吧！最近在做的事：
+
+
+ 日区 AI 导航站
+[aitoolsjapan](https://aitoolsjapan.com/) 是一个日区 AI 导航站，在这里你可以发现各类与人工智能相关的日本地区的工具和资源，帮助你快速找到所需的 AI 服务和应用。
+
+ dify 的使用学习分享站
+[usedify](https://usedify.app/) 是一个专注于 dify 的使用学习分享站。在这里，你可以学习到 dify 相关的使用技巧、经验分享以及各种实用的案例，助力你更好地掌握和运用 dify 工具。
+
+ 基于感兴趣文本学习外语的站
+[textlingo](https://textlingo.app/) 是一个基于自己感兴趣文本学习外语的站。通过该网站，你能够利用自己感兴趣的文本内容作为学习材料，以更有趣和高效的方式提升外语水平。
+
